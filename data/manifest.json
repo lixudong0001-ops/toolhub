@@ -1,54 +1,13 @@
 {
-  "version": "2026.07.28.1042",
-  "updated_at": "2026-07-28T10:42:45.573558+00:00",
+  "version": "2026.07.28.1919",
+  "updated_at": "2026-07-28T11:19:00+00:00",
   "counts": {
     "plugins": 66,
-    "websites": 89,
+    "websites": 84,
     "apps": 60,
-    "total": 215
+    "total": 210
   },
   "last_run": {
-    "started_at": "2026-07-28T10:36:15.028024+00:00",
-    "mode": "discover",
-    "added_by_profession": {
-      "programmer": 0
-    },
-    "new_plugins": [],
-    "plugins_before": 66,
-    "plugins_after": 66,
-    "plugins_added": 0,
-    "websites_added_by_profession": {
-      "programmer": 5
-    },
-    "new_websites": [
-      {
-        "id": "w_pathsensitive",
-        "name": "Developer tools can be magic but instead collect dust",
-        "url": "http://www.pathsensitive.com"
-      },
-      {
-        "id": "w_facebook",
-        "name": "New React Developer Tools",
-        "url": "http://facebook.github.io"
-      },
-      {
-        "id": "w_developer",
-        "name": "Firefox Developer Tools",
-        "url": "https://developer.mozilla.org"
-      },
-      {
-        "id": "w_christianheilmann",
-        "name": "Web developer tool secrets that shouldn’t be secrets",
-        "url": "https://christianheilmann.com"
-      },
-      {
-        "id": "w_hacks",
-        "name": "Hacks",
-        "url": "https://hacks.mozilla.org"
-      }
-    ],
-    "websites_before": 84,
-    "websites_after": 89,
-    "websites_added": 5
+    "note": "仓库已初始化并推送到 GitHub，等待 Actions 首次自动更新"
   }
 }
