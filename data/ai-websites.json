@@ -96,38 +96,6 @@
       "url": "https://www.loom.com"
     },
     {
-      "id": "w_grammarly",
-      "name": "Grammarly — AI 写作",
-      "type": "website",
-      "category": [
-        "writer",
-        "office",
-        "marketer"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=grammarly.com",
-      "desc": "全球 3000 万用户 AI 英文写作助手，在线文档编辑器内置实时语法检查和改写建议。Chrome 插件版可在「插件」Tab 安装。",
-      "rating": "4.7",
-      "users": "3,000万+",
-      "review": "英文邮件写作从此不再出糗，AI 改写建议比自己写的地道自然，非母语者必备！",
-      "url": "https://app.grammarly.com"
-    },
-    {
-      "id": "w_deepl",
-      "name": "DeepL 翻译",
-      "type": "website",
-      "category": [
-        "writer",
-        "researcher",
-        "office"
-      ],
-      "icon": "https://static.deepl.com/img/favicon/favicon_32.png",
-      "desc": "全球公认翻译质量最高的在线翻译，支持 33 种语言，可粘贴整段文字翻译。Chrome 插件版可在「插件」Tab 安装。",
-      "rating": "4.8",
-      "users": "3,000,000+",
-      "review": "翻译质量比谷歌高好几个档次，处理专业论文和合同文本非常准确！",
-      "url": "https://www.deepl.com/translator"
-    },
-    {
       "id": "w_excalidraw",
       "name": "Excalidraw — 手绘白板",
       "type": "website",
@@ -1287,161 +1255,91 @@
       "url": "https://www.smzdm.com"
     },
     {
-      "id": "w_apiparrot",
-      "name": "API Parrot",
+      "id": "w_biorender",
+      "name": "BioRender — 生物医学绘图",
       "type": "website",
       "category": [
-        "programmer"
+        "researcher"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=apiparrot.com",
-      "desc": "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
-      "rating": "4.5",
-      "users": "HN 456+",
-      "review": "",
-      "url": "https://apiparrot.com",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=biorender.com",
+      "desc": "生物医学科研绘图神器，内置10万+专业图标（细胞、分子、器官、实验装置），拖拽即可绘制出版级示意图，Nature/Cell/Science 论文标配。",
+      "rating": "4.9",
+      "users": "200万+",
+      "review": "画细胞信号通路图和实验流程图效率提升10倍，图标库太全了，直接达到顶刊投稿要求！",
+      "url": "https://www.biorender.com"
     },
     {
-      "id": "w_graphite",
-      "name": "Graphite, a Blender",
+      "id": "w_rawgraphs",
+      "name": "RAWgraphs — 高级数据可视化",
       "type": "website",
       "category": [
+        "researcher",
         "designer"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=graphite.rs",
-      "desc": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
-      "rating": "4.5",
-      "users": "HN 785+",
-      "review": "",
-      "url": "https://graphite.rs",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=rawgraphs.io",
+      "desc": "免费开源的高级图表可视化工具，支持小提琴图、弧线图、桑基图、蜂巢图等科研常用图型，上传 CSV 直接生成 SVG 矢量图，论文配图必备。",
+      "rating": "4.7",
+      "users": "50万+",
+      "review": "桑基图和小提琴图一键生成，导出 SVG 直接用于论文，免费无广告，数据可视化必收藏！",
+      "url": "https://app.rawgraphs.io"
     },
     {
-      "id": "w_vecti",
-      "name": "I spent 4 years building a UI design tool with only the features I use",
+      "id": "w_datawrapper",
+      "name": "Datawrapper — 出版级图表",
       "type": "website",
       "category": [
-        "designer"
+        "researcher",
+        "marketer"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=vecti.com",
-      "desc": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "rating": "4.5",
-      "users": "HN 386+",
-      "review": "",
-      "url": "https://vecti.com",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=datawrapper.de",
+      "desc": "专业出版级图表工具，《纽约时报》《经济学人》御用，上传数据即生成美观图表，可嵌入网页，免费无限图表数量。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "折线图、地图、散点图一键生成，配色专业，导出图片直接投稿没问题！",
+      "url": "https://www.datawrapper.de"
     },
     {
-      "id": "w_noya",
-      "name": "Noya",
+      "id": "w_figdraw",
+      "name": "Figdraw — 国产生物医学绘图",
       "type": "website",
       "category": [
-        "designer"
+        "researcher"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=noya.io",
-      "desc": "Show HN: Noya – A new kind of design tool",
-      "rating": "4.5",
-      "users": "HN 285+",
-      "review": "",
-      "url": "https://www.noya.io",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=figdraw.com",
+      "desc": "国产生物医学科研绘图平台，中文界面友好，海量医学/生物图标模板，支持导出高分辨率图片，BioRender 的国内平替首选。",
+      "rating": "4.7",
+      "users": "50万+",
+      "review": "国内访问快，中文友好，图标库很全，画实验流程图和机制图效率媲美 BioRender！",
+      "url": "https://www.figdraw.com"
     },
     {
-      "id": "w_cloudbite",
-      "name": "Flashcards to learn AWS skills",
+      "id": "w_flourish",
+      "name": "Flourish — 动态数据可视化",
       "type": "website",
       "category": [
-        "student"
+        "researcher",
+        "marketer"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloudbite.attejuvonen.fi",
-      "desc": "Show HN: Flashcards to learn AWS skills",
-      "rating": "4.5",
-      "users": "HN 365+",
-      "review": "",
-      "url": "https://cloudbite.attejuvonen.fi",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=flourish.studio",
+      "desc": "动态数据可视化神器，条形图竞赛、地图动画、气泡图均可生成，适合学术展示和论文数据动态呈现，内嵌分享链接直接用。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "做学术汇报时展示数据变化趋势效果惊艳，动态条形图吸引眼球，完全免费！",
+      "url": "https://flourish.studio"
     },
     {
-      "id": "w_prettypolly",
-      "name": "Learn a language quickly by practising speaking with AI",
+      "id": "w_bioicons",
+      "name": "Bioicons — 免费生物图标库",
       "type": "website",
       "category": [
-        "designer",
-        "student"
+        "researcher"
       ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=prettypolly.app",
-      "desc": "Show HN: Learn a language quickly by practising speaking with AI",
-      "rating": "4.5",
-      "users": "HN 325+",
-      "review": "",
-      "url": "https://www.prettypolly.app",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
-    },
-    {
-      "id": "w_platoedu",
-      "name": "Anki/Duolingo",
-      "type": "website",
-      "category": [
-        "student"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=platoedu.org",
-      "desc": "Show HN: Anki/Duolingo-like app using educational YouTube videos",
-      "rating": "4.5",
-      "users": "HN 289+",
-      "review": "",
-      "url": "https://www.platoedu.org",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
-    },
-    {
-      "id": "w_lessons",
-      "name": "A Japanese learning app focused on efficient vocab/grammar acquisition",
-      "type": "website",
-      "category": [
-        "designer",
-        "writer",
-        "student"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lessons.nihongo-app.com",
-      "desc": "Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition",
-      "rating": "4.5",
-      "users": "HN 161+",
-      "review": "",
-      "url": "https://lessons.nihongo-app.com",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
-    },
-    {
-      "id": "w_monicahq",
-      "name": "Monica, an open",
-      "type": "website",
-      "category": [
-        "marketer",
-        "entrepreneur"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=monicahq.com",
-      "desc": "Show HN: Monica, an open-source CRM to manage friends and family",
-      "rating": "4.5",
-      "users": "HN 1097+",
-      "review": "",
-      "url": "https://monicahq.com",
-      "auto_added": true,
-      "discovered_at": "2026-07-28",
-      "source": "hacker_news"
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bioicons.com",
+      "desc": "免费开源的生物科研 SVG 图标库，涵盖细胞、微生物、实验器材、生物分子等，CC0 协议可商用，直接下载 SVG 插入 Illustrator 或 PPT。",
+      "rating": "4.8",
+      "users": "30万+",
+      "review": "完全免费可商用，图标质量媲美付费软件，配合 Illustrator 做论文示意图效率超高！",
+      "url": "https://bioicons.com"
     }
   ],
   "apps": [
@@ -1491,55 +1389,6 @@
       "platform": "Windows / macOS / Linux"
     },
     {
-      "id": "a_slack_app",
-      "name": "Slack",
-      "type": "app",
-      "category": [
-        "programmer",
-        "office",
-        "entrepreneur"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=slack.com",
-      "desc": "全球最流行团队即时通讯工具桌面版，频道化消息管理、集成 1000+ 工具，随时随地保持团队同步。网站版可在「网站」Tab 直接使用。",
-      "rating": "4.7",
-      "users": "3,200万+",
-      "review": "桌面通知及时，快捷键流畅，搜索历史消息很快，比网页版体验好很多！",
-      "url": "https://slack.com/downloads",
-      "platform": "Windows / macOS / iOS / Android"
-    },
-    {
-      "id": "a_zoom_app",
-      "name": "Zoom",
-      "type": "app",
-      "category": [
-        "office",
-        "entrepreneur"
-      ],
-      "icon": "https://st1.zoom.us/zoom.ico",
-      "desc": "全球最流行视频会议桌面客户端，稳定流畅，支持虚拟背景、会议录制、AI 字幕，远程协作首选。网站版可在「网站」Tab 找到。",
-      "rating": "4.6",
-      "users": "3亿+",
-      "review": "画面稳定清晰，虚拟背景很好用，AI 字幕显示效果棒，开视频会议体验一流！",
-      "url": "https://zoom.us/download",
-      "platform": "Windows / macOS / iOS / Android"
-    },
-    {
-      "id": "a_discord_app",
-      "name": "Discord",
-      "type": "app",
-      "category": [
-        "programmer",
-        "student"
-      ],
-      "icon": "https://discord.com/assets/favicon.ico",
-      "desc": "游戏圈和开发者社区最流行的桌面客户端，语音/视频/文字三合一，程序员技术社群的聚集地。",
-      "rating": "4.7",
-      "users": "1.9亿+",
-      "review": "加入技术社群讨论问题效率极高，语音和文字频道分开清晰，比微信群强太多！",
-      "url": "https://discord.com/download",
-      "platform": "Windows / macOS / iOS / Android"
-    },
-    {
       "id": "a_telegram",
       "name": "Telegram",
       "type": "app",
@@ -1554,72 +1403,6 @@
       "review": "传输文件不限大小速度超快，频道功能很实用，隐私保护比微信好太多，国际沟通必备！",
       "url": "https://telegram.org",
       "platform": "Windows / macOS / iOS / Android"
-    },
-    {
-      "id": "a_obsidian",
-      "name": "Obsidian",
-      "type": "app",
-      "category": [
-        "researcher",
-        "writer",
-        "programmer"
-      ],
-      "icon": "https://obsidian.md/favicon.ico",
-      "desc": "本地优先的双向链接笔记工具，Markdown 格式数据完全由自己掌控，知识图谱可视化，构建个人第二大脑。",
-      "rating": "4.9",
-      "users": "100万+",
-      "review": "知识双向链接改变了思维方式，构建个人知识库后效率和创意都提升明显！",
-      "url": "https://obsidian.md",
-      "platform": "Windows / macOS / Linux / iOS / Android"
-    },
-    {
-      "id": "a_notion_app",
-      "name": "Notion",
-      "type": "app",
-      "category": [
-        "programmer",
-        "office",
-        "researcher",
-        "entrepreneur"
-      ],
-      "icon": "https://www.notion.so/images/favicon.ico",
-      "desc": "全能知识管理移动端，笔记、文档、任务全覆盖，内置 AI 助手，随时随地管理所有信息。网站版可在「网站」Tab 使用。",
-      "rating": "4.7",
-      "users": "3,000万+",
-      "review": "手机追加笔记、查看项目进度都很顺畅，Notion AI 总结会议记录超方便！",
-      "url": "https://www.notion.so/mobile",
-      "platform": "iOS / Android / Windows / macOS"
-    },
-    {
-      "id": "a_loom_app",
-      "name": "Loom",
-      "type": "app",
-      "category": [
-        "office"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=loom.com",
-      "desc": "Loom 桌面客户端，一键录制屏幕，自动上传生成链接，性能比网页版更稳定。Chrome 插件版可在「插件」Tab 安装。",
-      "rating": "4.6",
-      "users": "5,000,000+",
-      "review": "桌面版录屏比浏览器插件更稳定，大文件上传更快，录制课程和教程的首选！",
-      "url": "https://www.loom.com/download",
-      "platform": "Windows / macOS"
-    },
-    {
-      "id": "a_figma_app",
-      "name": "Figma Desktop",
-      "type": "app",
-      "category": [
-        "designer",
-        "programmer"
-      ],
-      "icon": "https://static.figma.com/app/icon/1/favicon.ico",
-      "desc": "Figma 桌面客户端，原生性能更快、支持本地字体、可离线工作，UI/UX 设计师的日常主力工具。",
-      "rating": "4.9",
-      "users": "400万+",
-      "review": "桌面版响应比网页版快很多，设计大型项目不卡顿，支持本地字体太方便！",
-      "url": "https://www.figma.com/downloads/",
-      "platform": "Windows / macOS"
     },
     {
       "id": "a_github_desktop",
@@ -1748,22 +1531,6 @@
       "platform": "Windows / macOS / iOS / Android"
     },
     {
-      "id": "a_lf_app",
-      "name": "飞书",
-      "type": "app",
-      "category": [
-        "office",
-        "entrepreneur"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=feishu.cn",
-      "desc": "字节跳动出品一体化协作平台客户端，文档、会议、IM 全功能，桌面/移动双端体验流畅。网站版可在「网站」Tab 使用。",
-      "rating": "4.8",
-      "users": "1,000万+",
-      "review": "桌面通知及时，文档协作丝滑，多维表强大，是国内最好的企业协作工具！",
-      "url": "https://www.feishu.cn/download",
-      "platform": "Windows / macOS / iOS / Android"
-    },
-    {
       "id": "a_iina",
       "name": "IINA",
       "type": "app",
@@ -1810,23 +1577,6 @@
       "review": "比 Charles 好看 10 倍，操作也更直观，抓包调试 API 效率提升明显，Mac 开发者必装！",
       "url": "https://proxyman.io",
       "platform": "macOS / iOS"
-    },
-    {
-      "id": "a_claude_app",
-      "name": "Claude App",
-      "type": "app",
-      "category": [
-        "writer",
-        "researcher",
-        "office"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=claude.ai",
-      "desc": "Anthropic 官方 AI 应用，Opus 长文本理解最强，Projects 知识库沉浸式写作，200K 上下文随身携带随时可用。",
-      "rating": "4.8",
-      "users": "5,000万+",
-      "review": "写作和分析用 Claude 最靠谱，长文档理解不漏细节，移动端随时有 AI 陪伴！",
-      "url": "https://claude.ai/download",
-      "platform": "iOS / Android / macOS / Windows"
     },
     {
       "id": "a_intellij",
@@ -2017,22 +1767,6 @@
       "platform": "Windows / macOS / Linux / iOS / Android"
     },
     {
-      "id": "a_zotero_app",
-      "name": "Zotero 文献管理",
-      "type": "app",
-      "category": [
-        "researcher",
-        "student"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=zotero.org",
-      "desc": "开源文献管理桌面软件，自动抓取文献信息，PDF 标注同步，一键生成引用格式，科研人员必备。",
-      "rating": "4.8",
-      "users": "500万+",
-      "review": "论文文献组织整洁，PDF 批注同步到手机，生成引用格式一键完成，写论文效率翻倍！",
-      "url": "https://www.zotero.org/download",
-      "platform": "Windows / macOS / Linux"
-    },
-    {
       "id": "a_mendeley",
       "name": "Mendeley — 文献社交",
       "type": "app",
@@ -2193,22 +1927,6 @@
       "platform": "Windows"
     },
     {
-      "id": "a_bitwarden_app",
-      "name": "Bitwarden — 密码管理",
-      "type": "app",
-      "category": [
-        "programmer",
-        "office"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bitwarden.com",
-      "desc": "开源免费密码管理器，端对端加密，跨平台无限设备同步，自动填充，完全开源可自托管。",
-      "rating": "4.8",
-      "users": "1,500万+",
-      "review": "完全免费无设备限制，开源代码安全可审计，替代 LastPass 的最佳选择！",
-      "url": "https://bitwarden.com/download",
-      "platform": "Windows / macOS / Linux / iOS / Android"
-    },
-    {
       "id": "a_idm",
       "name": "IDM — 下载加速",
       "type": "app",
@@ -2224,108 +1942,6 @@
       "review": "下载速度是浏览器的 5 倍，网页视频一键捕获下载，大文件下载必装！",
       "url": "https://www.internetdownloadmanager.com",
       "platform": "Windows"
-    },
-    {
-      "id": "w_biorender",
-      "name": "BioRender — 生物医学绘图",
-      "type": "website",
-      "category": [
-        "researcher"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=biorender.com",
-      "desc": "生物医学科研绘图神器，内置10万+专业图标（细胞、分子、器官、实验装置），拖拽即可绘制出版级示意图，Nature/Cell/Science 论文标配。",
-      "rating": "4.9",
-      "users": "200万+",
-      "review": "画细胞信号通路图和实验流程图效率提升10倍，图标库太全了，直接达到顶刊投稿要求！",
-      "url": "https://www.biorender.com"
-    },
-    {
-      "id": "w_rawgraphs",
-      "name": "RAWgraphs — 高级数据可视化",
-      "type": "website",
-      "category": [
-        "researcher",
-        "designer"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=rawgraphs.io",
-      "desc": "免费开源的高级图表可视化工具，支持小提琴图、弧线图、桑基图、蜂巢图等科研常用图型，上传 CSV 直接生成 SVG 矢量图，论文配图必备。",
-      "rating": "4.7",
-      "users": "50万+",
-      "review": "桑基图和小提琴图一键生成，导出 SVG 直接用于论文，免费无广告，数据可视化必收藏！",
-      "url": "https://app.rawgraphs.io"
-    },
-    {
-      "id": "w_datawrapper",
-      "name": "Datawrapper — 出版级图表",
-      "type": "website",
-      "category": [
-        "researcher",
-        "marketer"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=datawrapper.de",
-      "desc": "专业出版级图表工具，《纽约时报》《经济学人》御用，上传数据即生成美观图表，可嵌入网页，免费无限图表数量。",
-      "rating": "4.8",
-      "users": "100万+",
-      "review": "折线图、地图、散点图一键生成，配色专业，导出图片直接投稿没问题！",
-      "url": "https://www.datawrapper.de"
-    },
-    {
-      "id": "w_figdraw",
-      "name": "Figdraw — 国产生物医学绘图",
-      "type": "website",
-      "category": [
-        "researcher"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=figdraw.com",
-      "desc": "国产生物医学科研绘图平台，中文界面友好，海量医学/生物图标模板，支持导出高分辨率图片，BioRender 的国内平替首选。",
-      "rating": "4.7",
-      "users": "50万+",
-      "review": "国内访问快，中文友好，图标库很全，画实验流程图和机制图效率媲美 BioRender！",
-      "url": "https://www.figdraw.com"
-    },
-    {
-      "id": "w_flourish",
-      "name": "Flourish — 动态数据可视化",
-      "type": "website",
-      "category": [
-        "researcher",
-        "marketer"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=flourish.studio",
-      "desc": "动态数据可视化神器，条形图竞赛、地图动画、气泡图均可生成，适合学术展示和论文数据动态呈现，内嵌分享链接直接用。",
-      "rating": "4.7",
-      "users": "200万+",
-      "review": "做学术汇报时展示数据变化趋势效果惊艳，动态条形图吸引眼球，完全免费！",
-      "url": "https://flourish.studio"
-    },
-    {
-      "id": "w_bioicons",
-      "name": "Bioicons — 免费生物图标库",
-      "type": "website",
-      "category": [
-        "researcher"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bioicons.com",
-      "desc": "免费开源的生物科研 SVG 图标库，涵盖细胞、微生物、实验器材、生物分子等，CC0 协议可商用，直接下载 SVG 插入 Illustrator 或 PPT。",
-      "rating": "4.8",
-      "users": "30万+",
-      "review": "完全免费可商用，图标质量媲美付费软件，配合 Illustrator 做论文示意图效率超高！",
-      "url": "https://bioicons.com"
-    },
-    {
-      "id": "w_overleaf",
-      "name": "Overleaf — 在线 LaTeX 编辑",
-      "type": "website",
-      "category": [
-        "researcher",
-        "student"
-      ],
-      "icon": "https://www.google.com/s2/favicons?sz=128&domain=overleaf.com",
-      "desc": "全球最流行的在线 LaTeX 编辑器，无需本地安装，实时编译，多人协作，内置 Nature/IEEE/ACM 等3000+期刊模板，论文投稿必备。",
-      "rating": "4.9",
-      "users": "1,200万+",
-      "review": "写论文再也不需要在本地配 LaTeX 环境了，在线编译快，多人协作方便，顶刊模板直接用！",
-      "url": "https://www.overleaf.com"
     },
     {
       "id": "a_graphpad",
