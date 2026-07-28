@@ -12,7 +12,12 @@ from dataclasses import dataclass
 from typing import Optional
 from urllib.parse import urlparse
 
-from discovery_config import REQUEST_DELAY, USER_AGENT
+from discovery_config import REQUEST_DELAY, PROFESSION_KEYWORDS, USER_AGENT
+from quality_filter import (
+    MIN_HN_POINTS,
+    clean_product_name,
+    passes_website_candidate,
+)
 
 SKIP_DOMAINS = {
     "github.com", "github.io", "twitter.com", "x.com", "reddit.com", "youtube.com",
@@ -73,13 +78,14 @@ def extract_urls(text: str) -> list[str]:
     return clean
 
 
-def search_hn(query: str, min_points: int = 80) -> list[WebsiteCandidate]:
+def search_hn(query: str, min_points: int | None = None) -> list[WebsiteCandidate]:
     """在 HN Show HN 发布中搜索新工具产品。"""
+    threshold = min_points if min_points is not None else MIN_HN_POINTS
     q = urllib.parse.quote(query)
     url = (
         f"https://hn.algolia.com/api/v1/search?query={q}"
-        f"&tags=show_hn&hitsPerPage=20"
-        f"&numericFilters=points>{min_points}"
+        f"&tags=show_hn&hitsPerPage=25"
+        f"&numericFilters=points>{threshold}"
     )
     try:
         data = _fetch_json(url)
@@ -119,7 +125,11 @@ def search_hn(query: str, min_points: int = 80) -> list[WebsiteCandidate]:
     return results
 
 
-def discover_websites(queries: list[str], known_domains: set[str]) -> list[WebsiteCandidate]:
+def discover_websites(
+    queries: list[str],
+    known_domains: set[str],
+    profession: str,
+) -> list[WebsiteCandidate]:
     found: dict[str, WebsiteCandidate] = {}
     for query in queries:
         print(f"  [HN] 搜索: {query}")
@@ -127,6 +137,13 @@ def discover_websites(queries: list[str], known_domains: set[str]) -> list[Websi
             domain = urlparse(cand.url).netloc.lower().removeprefix("www.")
             if domain in known_domains or domain in found:
                 continue
+            ok, reason = passes_website_candidate(
+                cand.name, cand.url, cand.description, cand.points, profession,
+            )
+            if not ok:
+                print(f"    ✗ 跳过 {domain}: {reason}")
+                continue
+            cand.name = clean_product_name(cand.name, cand.url)
             found[domain] = cand
         time.sleep(REQUEST_DELAY)
     return sorted(found.values(), key=lambda c: c.points, reverse=True)

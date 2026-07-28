@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: '更新模式: full / discover / metrics'
+        description: '更新模式: full / discover / metrics / purge'
         required: false
         default: 'full'
 

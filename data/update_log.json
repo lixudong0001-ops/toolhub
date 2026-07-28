@@ -1,234 +1,162 @@
 {
-  "started_at": "2026-07-28T11:23:15.432423+00:00",
-  "mode": "full",
-  "added_by_profession": {
-    "programmer": 0,
-    "designer": 0,
-    "writer": 0,
-    "researcher": 0,
-    "marketer": 0,
-    "student": 0,
-    "entrepreneur": 0,
-    "office": 0
-  },
-  "new_plugins": [],
-  "plugins_before": 66,
-  "plugins_after": 66,
-  "plugins_added": 0,
-  "metrics_updated": 66,
-  "websites_added_by_profession": {
-    "programmer": 5,
-    "designer": 5,
-    "writer": 5,
-    "researcher": 5,
-    "marketer": 5,
-    "student": 5,
-    "entrepreneur": 5,
-    "office": 5
-  },
-  "new_websites": [
-    {
-      "id": "w_apiparrot",
-      "name": "API Parrot",
-      "url": "https://apiparrot.com"
-    },
+  "started_at": "2026-07-28T12:04:26.920556+00:00",
+  "mode": "purge",
+  "purged_websites": [
     {
       "id": "w_dialup",
       "name": "WinGPT",
-      "url": "https://www.dialup.net"
+      "reason": "域名黑名单: dialup.net"
     },
     {
       "id": "w_ai",
       "name": "My AI Native Resume",
-      "url": "https://ai.jakegaylor.com"
+      "reason": "命中拒绝关键词"
     },
     {
       "id": "w_libraria",
       "name": "Customizable, embeddable Chat GPT based on your own documents",
-      "url": "https://libraria.dev"
+      "reason": "与「programmer」领域不匹配"
     },
     {
       "id": "w_hestus",
       "name": "Hestus",
-      "url": "https://www.hestus.co"
-    },
-    {
-      "id": "w_graphite",
-      "name": "Graphite, a Blender",
-      "url": "https://graphite.rs"
+      "reason": "与「programmer」领域不匹配"
     },
     {
       "id": "w_figure",
       "name": "Figure is a daily logic puzzle game",
-      "url": "https://figure.game"
-    },
-    {
-      "id": "w_vecti",
-      "name": "I spent 4 years building a UI design tool with only the features I use",
-      "url": "https://vecti.com"
-    },
-    {
-      "id": "w_noya",
-      "name": "Noya",
-      "url": "https://www.noya.io"
+      "reason": "域名黑名单: figure.game"
     },
     {
       "id": "w_yamanote",
       "name": "Yamanote.fun",
-      "url": "https://www.yamanote.fun"
+      "reason": "域名黑名单: yamanote.fun"
     },
     {
       "id": "w_talk",
       "name": "Get conversational practice in over 20 languages by talking to an AI",
-      "url": "https://talk.quazel.com"
+      "reason": "与「writer」领域不匹配"
     },
     {
       "id": "w_refine",
       "name": "Refine",
-      "url": "https://refine.sh"
+      "reason": "缺少工具型产品特征"
     },
     {
       "id": "w_glossarie",
       "name": "Glossarie",
-      "url": "https://glossarie.app"
+      "reason": "与「writer」领域不匹配"
     },
     {
       "id": "w_itsupport",
       "name": "Fun tool that cut my family and friends tech support time in half",
-      "url": "http://itsupport.grammable.me"
+      "reason": "域名黑名单: itsupport.grammable.me"
     },
     {
       "id": "w_crul",
       "name": "Crul",
-      "url": "https://www.crul.com"
+      "reason": "与「writer」领域不匹配"
     },
     {
       "id": "w_phind",
       "name": "GPT",
-      "url": "https://www.phind.com"
+      "reason": "与「researcher」领域不匹配"
     },
     {
       "id": "w_exopriors",
       "name": "Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-      "url": "https://exopriors.com"
+      "reason": "与「researcher」领域不匹配"
     },
     {
       "id": "w_gitdot",
       "name": "Gitdot",
-      "url": "https://gitdot.io"
+      "reason": "与「researcher」领域不匹配"
     },
     {
       "id": "w_val",
       "name": "Val Town",
-      "url": "https://www.val.town"
+      "reason": "与「researcher」领域不匹配"
     },
     {
       "id": "w_opennutrition",
       "name": "OpenNutrition",
-      "url": "https://www.opennutrition.app"
+      "reason": "与「researcher」领域不匹配"
     },
     {
       "id": "w_bento",
       "name": "Bento",
-      "url": "https://bento.page"
+      "reason": "与「marketer」领域不匹配"
     },
     {
       "id": "w_text",
       "name": "I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app"
+      "reason": "域名黑名单: text.blogosphere.app"
     },
     {
       "id": "w_seven39",
       "name": "Seven39, a social media app that is only open for 3 hours every evening",
-      "url": "https://www.seven39.com"
+      "reason": "域名黑名单: seven39.com"
     },
     {
       "id": "w_play2048",
       "name": "2048 turned 10 this year, I built an updated version to celebrate",
-      "url": "https://play2048.co"
+      "reason": "域名黑名单: play2048.co"
     },
     {
       "id": "w_xikipedia",
       "name": "Wikipedia as a doomscrollable social media feed",
-      "url": "https://xikipedia.org"
-    },
-    {
-      "id": "w_cloudbite",
-      "name": "Flashcards to learn AWS skills",
-      "url": "https://cloudbite.attejuvonen.fi"
-    },
-    {
-      "id": "w_prettypolly",
-      "name": "Learn a language quickly by practising speaking with AI",
-      "url": "https://www.prettypolly.app"
-    },
-    {
-      "id": "w_platoedu",
-      "name": "Anki/Duolingo",
-      "url": "https://www.platoedu.org"
-    },
-    {
-      "id": "w_lessons",
-      "name": "A Japanese learning app focused on efficient vocab/grammar acquisition",
-      "url": "https://lessons.nihongo-app.com"
+      "reason": "域名黑名单: xikipedia.org"
     },
     {
       "id": "w_coderev",
       "name": "CodeRev.app",
-      "url": "https://coderev.app"
+      "reason": "与「student」领域不匹配"
     },
     {
       "id": "w_dogbunnypuzzle",
       "name": "I may have created a new type of puzzle",
-      "url": "http://www.dogbunnypuzzle.com"
-    },
-    {
-      "id": "w_monicahq",
-      "name": "Monica, an open",
-      "url": "https://monicahq.com"
+      "reason": "域名黑名单: dogbunnypuzzle.com"
     },
     {
       "id": "w_openhunt",
       "name": "Open Hunt",
-      "url": "https://www.openhunt.co"
+      "reason": "与「entrepreneur」领域不匹配"
     },
     {
       "id": "w_hackernewstrends",
       "name": "I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com"
+      "reason": "域名黑名单: hackernewstrends.com"
     },
     {
       "id": "w_upbase",
       "name": "I built my own PM tool after trying Trello, Asana, ClickUp, etc.",
-      "url": "https://upbase.io"
+      "reason": "与「entrepreneur」领域不匹配"
     },
     {
       "id": "w_shop",
       "name": "Simula One",
-      "url": "https://shop.simulavr.com"
+      "reason": "域名黑名单: shop.simulavr.com"
     },
     {
       "id": "w_grafychat",
       "name": "I built a non",
-      "url": "https://www.grafychat.com"
+      "reason": "命中拒绝关键词"
     },
     {
       "id": "w_speakz",
       "name": "AI dub tool I made to watch foreign language videos with my 7",
-      "url": "https://speakz.ai"
+      "reason": "命中拒绝关键词"
     },
     {
       "id": "w_vimified",
       "name": "I built an interactive course that helps you learn Vim faster",
-      "url": "https://www.vimified.com"
+      "reason": "与「office」领域不匹配"
     },
     {
       "id": "w_coffitivity",
       "name": "Increase your productivity with ambient noise",
-      "url": "http://www.coffitivity.com"
+      "reason": "命中拒绝关键词"
     }
   ],
-  "websites_before": 84,
-  "websites_after": 124,
-  "websites_added": 40
+  "purged_count": 31
 }

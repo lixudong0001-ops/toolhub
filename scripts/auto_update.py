@@ -31,6 +31,7 @@ from cws_client import (  # noqa: E402
     parse_user_count,
 )
 from website_discovery import candidate_to_record, discover_websites  # noqa: E402
+from quality_filter import passes_extension_quality, passes_website_record  # noqa: E402
 from discovery_config import (  # noqa: E402
     MAX_NEW_PER_PROFESSION,
     MAX_SEARCH_RESULTS,
@@ -61,13 +62,21 @@ def score_extension(info: ExtensionInfo) -> float:
     return math.log10(base + 1) * rating
 
 
-def infer_categories(text: str, seed_profession: str | None = None) -> list[str]:
+def infer_categories(
+    text: str,
+    seed_profession: str | None = None,
+    require_match: bool = False,
+) -> list[str]:
     """根据文本推断垂直领域标签。"""
     lower = text.lower()
     cats: list[str] = []
     for prof, keywords in PROFESSION_KEYWORDS.items():
         if any(kw in lower for kw in keywords):
             cats.append(prof)
+    if require_match:
+        if seed_profession and seed_profession in cats:
+            return [seed_profession] + [c for c in cats if c != seed_profession]
+        return cats
     if seed_profession and seed_profession not in cats:
         cats.insert(0, seed_profession)
     return cats or ([seed_profession] if seed_profession else ["office"])
@@ -77,11 +86,14 @@ def passes_quality(info: ExtensionInfo) -> bool:
     users = parse_user_count(info.users_text)
     if info.rating < MIN_RATING:
         return False
-    if users >= MIN_USERS:
-        return True
-    if info.rating_count >= MIN_RATING_COUNT:
-        return True
-    return False
+    if not (users >= MIN_USERS or info.rating_count >= MIN_RATING_COUNT):
+        return False
+    ok, reason = passes_extension_quality(
+        info.name, info.description, info.rating, users, info.rating_count,
+    )
+    if not ok:
+        print(f"    ✗ 插件质量过滤: {info.name} — {reason}")
+    return ok
 
 
 def ext_to_record(info: ExtensionInfo, categories: list[str]) -> dict:
@@ -159,7 +171,10 @@ def discover_new_plugins(existing: list[dict], log: dict) -> list[dict]:
             cats = infer_categories(
                 f"{info.name} {info.description}",
                 seed_profession=profession,
+                require_match=True,
             )
+            if not cats:
+                continue
             record = ext_to_record(info, cats)
             added.append(record)
             known_ids.add(info.ext_id)
@@ -185,6 +200,28 @@ def known_domains_from_data(websites: list[dict], apps: list[dict]) -> set[str]:
     return domains
 
 
+def purge_low_quality_websites(websites: list[dict], log: dict) -> list[dict]:
+    """清理不符合质量规则的 auto_added 网站。"""
+    kept: list[dict] = []
+    removed: list[dict] = []
+    print("\n[清理] 复核 auto_added 网站质量...")
+    for w in websites:
+        if not w.get("auto_added"):
+            kept.append(w)
+            continue
+        prof = (w.get("category") or ["office"])[0]
+        ok, reason = passes_website_record(w, prof)
+        if ok:
+            kept.append(w)
+        else:
+            removed.append({"id": w.get("id"), "name": w.get("name"), "reason": reason})
+            print(f"  - 移除: {w.get('name')} ({reason})")
+    log["purged_websites"] = removed
+    log["purged_count"] = len(removed)
+    print(f"[清理] 移除 {len(removed)} 个，保留 {len(kept)} 个网站")
+    return kept
+
+
 def discover_new_websites(existing: list[dict], apps: list[dict], log: dict) -> list[dict]:
     known_domains = known_domains_from_data(existing, apps)
     known_ids = {w.get("id") for w in existing if w.get("id")}
@@ -196,6 +233,7 @@ def discover_new_websites(existing: list[dict], apps: list[dict], log: dict) -> 
         candidates = discover_websites(
             hn_queries,
             known_domains | {urlparse(a["url"]).netloc.removeprefix("www.") for a in added if a.get("url")},
+            profession,
         )
         profession_added = 0
         for cand in candidates:
@@ -204,7 +242,13 @@ def discover_new_websites(existing: list[dict], apps: list[dict], log: dict) -> 
             domain = urlparse(cand.url).netloc.lower().removeprefix("www.")
             if domain in known_domains:
                 continue
-            cats = infer_categories(f"{cand.name} {cand.description}", seed_profession=profession)
+            cats = infer_categories(
+                f"{cand.name} {cand.description}",
+                seed_profession=profession,
+                require_match=True,
+            )
+            if not cats:
+                continue
             record = candidate_to_record(cand, cats)
             if record["id"] in known_ids:
                 continue
@@ -241,7 +285,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="ToolHub 自动发现与指标更新")
     parser.add_argument(
         "--mode",
-        choices=["full", "discover", "metrics"],
+        choices=["full", "discover", "metrics", "purge"],
         default=os.environ.get("TOOLHUB_UPDATE_MODE", "full"),
     )
     parser.add_argument(
@@ -299,17 +343,27 @@ def main() -> int:
 
     websites = websites_data.get("websites", [])
     apps = websites_data.get("apps", [])
-    websites_before = len(websites)
+    websites_initial = len(websites)
+
+    if mode in ("full", "discover", "purge"):
+        websites = purge_low_quality_websites(websites, log)
+        websites_data["websites"] = websites
+        save_json(websites_path, websites_data)
 
     if mode in ("full", "discover"):
+        count_before_discover = len(websites)
         websites = discover_new_websites(websites, apps, log)
-        log["websites_before"] = websites_before
+        log["websites_initial"] = websites_initial
+        log["websites_after_purge"] = count_before_discover
+        log["websites_added"] = len(websites) - count_before_discover
         log["websites_after"] = len(websites)
-        log["websites_added"] = len(websites) - websites_before
         websites_data["websites"] = websites
         save_json(websites_path, websites_data)
         if log["websites_added"]:
             print(f"\n[完成] 新增网站 {log['websites_added']} 个，合计 {len(websites)} 个")
+    elif mode == "purge":
+        log["websites_initial"] = websites_initial
+        log["websites_after"] = len(websites)
 
     write_manifest(len(extensions), len(websites), len(apps), log)
     save_json(os.path.join(DATA_DIR, "update_log.json"), log)

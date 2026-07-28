@@ -49,11 +49,11 @@ PROFESSION_KEYWORDS = {
 }
 
 # 自动入库质量门槛
-MIN_RATING = 4.0
-MIN_RATING_COUNT = 80          # 评价数
-MIN_USERS = 5_000              # 用户数（解析失败时退化为评价数）
-MAX_NEW_PER_PROFESSION = 5     # 每次运行每个领域最多新增条数
-MAX_SEARCH_RESULTS = 12        # 每个搜索词最多解析扩展数
+MIN_RATING = 4.2
+MIN_RATING_COUNT = 150         # 评价数
+MIN_USERS = 10_000             # 用户数
+MAX_NEW_PER_PROFESSION = 3     # 每次运行每个领域最多新增条数（收紧）
+MAX_SEARCH_RESULTS = 10        # 每个搜索词最多解析扩展数
 
 # 请求节流（秒）
 REQUEST_DELAY = 0.6
