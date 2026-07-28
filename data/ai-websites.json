@@ -1285,6 +1285,705 @@
       "users": "2,000万+",
       "review": "买数码产品必看评测，好价爆料经常捡到便宜货，羊毛真的值得薅！",
       "url": "https://www.smzdm.com"
+    },
+    {
+      "id": "w_apiparrot",
+      "name": "API Parrot",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=apiparrot.com",
+      "desc": "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
+      "rating": "4.5",
+      "users": "HN 456+",
+      "review": "",
+      "url": "https://apiparrot.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_dialup",
+      "name": "WinGPT",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=dialup.net",
+      "desc": "Show HN: WinGPT – AI assistant for Windows 3.1",
+      "rating": "4.5",
+      "users": "HN 382+",
+      "review": "",
+      "url": "https://www.dialup.net",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_ai",
+      "name": "My AI Native Resume",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.jakegaylor.com",
+      "desc": "Show HN: My AI Native Resume",
+      "rating": "4.5",
+      "users": "HN 301+",
+      "review": "",
+      "url": "https://ai.jakegaylor.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_libraria",
+      "name": "Customizable, embeddable Chat GPT based on your own documents",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=libraria.dev",
+      "desc": "Show HN: Customizable, embeddable Chat GPT based on your own documents",
+      "rating": "4.5",
+      "users": "HN 271+",
+      "review": "",
+      "url": "https://libraria.dev",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_hestus",
+      "name": "Hestus",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=hestus.co",
+      "desc": "Show HN: Hestus – AI Copilot for CAD",
+      "rating": "4.5",
+      "users": "HN 224+",
+      "review": "",
+      "url": "https://www.hestus.co",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_graphite",
+      "name": "Graphite, a Blender",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=graphite.rs",
+      "desc": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
+      "rating": "4.5",
+      "users": "HN 785+",
+      "review": "",
+      "url": "https://graphite.rs",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_figure",
+      "name": "Figure is a daily logic puzzle game",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=figure.game",
+      "desc": "Show HN: Figure is a daily logic puzzle game",
+      "rating": "4.5",
+      "users": "HN 417+",
+      "review": "",
+      "url": "https://figure.game",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_vecti",
+      "name": "I spent 4 years building a UI design tool with only the features I use",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=vecti.com",
+      "desc": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "rating": "4.5",
+      "users": "HN 386+",
+      "review": "",
+      "url": "https://vecti.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_noya",
+      "name": "Noya",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=noya.io",
+      "desc": "Show HN: Noya – A new kind of design tool",
+      "rating": "4.5",
+      "users": "HN 285+",
+      "review": "",
+      "url": "https://www.noya.io",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_yamanote",
+      "name": "Yamanote.fun",
+      "type": "website",
+      "category": [
+        "designer",
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=yamanote.fun",
+      "desc": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "rating": "4.5",
+      "users": "HN 238+",
+      "review": "",
+      "url": "https://www.yamanote.fun",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_talk",
+      "name": "Get conversational practice in over 20 languages by talking to an AI",
+      "type": "website",
+      "category": [
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=talk.quazel.com",
+      "desc": "Show HN: Get conversational practice in over 20 languages by talking to an AI",
+      "rating": "4.5",
+      "users": "HN 787+",
+      "review": "",
+      "url": "https://talk.quazel.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_refine",
+      "name": "Refine",
+      "type": "website",
+      "category": [
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=refine.sh",
+      "desc": "Show HN: Refine – A Local Alternative to Grammarly",
+      "rating": "4.5",
+      "users": "HN 408+",
+      "review": "",
+      "url": "https://refine.sh",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_glossarie",
+      "name": "Glossarie",
+      "type": "website",
+      "category": [
+        "writer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=glossarie.app",
+      "desc": "Show HN: Glossarie – a new, immersive way to learn a language",
+      "rating": "4.5",
+      "users": "HN 363+",
+      "review": "",
+      "url": "https://glossarie.app",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_itsupport",
+      "name": "Fun tool that cut my family and friends tech support time in half",
+      "type": "website",
+      "category": [
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=itsupport.grammable.me",
+      "desc": "Show HN: Fun tool that cut my family and friends tech support time in half",
+      "rating": "4.5",
+      "users": "HN 285+",
+      "review": "",
+      "url": "http://itsupport.grammable.me",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_crul",
+      "name": "Crul",
+      "type": "website",
+      "category": [
+        "writer",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=crul.com",
+      "desc": "Show HN: Crul – Query Any Webpage or API",
+      "rating": "4.5",
+      "users": "HN 241+",
+      "review": "",
+      "url": "https://www.crul.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_phind",
+      "name": "GPT",
+      "type": "website",
+      "category": [
+        "researcher",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=phind.com",
+      "desc": "Show HN: GPT-4-powered web searches for developers",
+      "rating": "4.5",
+      "users": "HN 1401+",
+      "review": "",
+      "url": "https://www.phind.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_exopriors",
+      "name": "Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+      "type": "website",
+      "category": [
+        "researcher",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=exopriors.com",
+      "desc": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+      "rating": "4.5",
+      "users": "HN 397+",
+      "review": "",
+      "url": "https://exopriors.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_gitdot",
+      "name": "Gitdot",
+      "type": "website",
+      "category": [
+        "researcher",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitdot.io",
+      "desc": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
+      "rating": "4.5",
+      "users": "HN 334+",
+      "review": "",
+      "url": "https://gitdot.io",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_val",
+      "name": "Val Town",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=val.town",
+      "desc": "Show HN: Val Town – A Cloud Scripting Site",
+      "rating": "4.5",
+      "users": "HN 332+",
+      "review": "",
+      "url": "https://www.val.town",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_opennutrition",
+      "name": "OpenNutrition",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=opennutrition.app",
+      "desc": "Show HN: OpenNutrition – A free, public nutrition database",
+      "rating": "4.5",
+      "users": "HN 311+",
+      "review": "",
+      "url": "https://www.opennutrition.app",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_bento",
+      "name": "Bento",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bento.page",
+      "desc": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "rating": "4.5",
+      "users": "HN 1024+",
+      "review": "",
+      "url": "https://bento.page",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_text",
+      "name": "I built a frontpage for personal blogs",
+      "type": "website",
+      "category": [
+        "marketer",
+        "designer",
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=text.blogosphere.app",
+      "desc": "Show HN: I built a frontpage for personal blogs",
+      "rating": "4.5",
+      "users": "HN 783+",
+      "review": "",
+      "url": "https://text.blogosphere.app",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_seven39",
+      "name": "Seven39, a social media app that is only open for 3 hours every evening",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=seven39.com",
+      "desc": "Show HN: Seven39, a social media app that is only open for 3 hours every evening",
+      "rating": "4.5",
+      "users": "HN 735+",
+      "review": "",
+      "url": "https://www.seven39.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_play2048",
+      "name": "2048 turned 10 this year, I built an updated version to celebrate",
+      "type": "website",
+      "category": [
+        "marketer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=play2048.co",
+      "desc": "Show HN: 2048 turned 10 this year, I built an updated version to celebrate",
+      "rating": "4.5",
+      "users": "HN 669+",
+      "review": "",
+      "url": "https://play2048.co",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_xikipedia",
+      "name": "Wikipedia as a doomscrollable social media feed",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=xikipedia.org",
+      "desc": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "rating": "4.5",
+      "users": "HN 441+",
+      "review": "",
+      "url": "https://xikipedia.org",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_cloudbite",
+      "name": "Flashcards to learn AWS skills",
+      "type": "website",
+      "category": [
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloudbite.attejuvonen.fi",
+      "desc": "Show HN: Flashcards to learn AWS skills",
+      "rating": "4.5",
+      "users": "HN 365+",
+      "review": "",
+      "url": "https://cloudbite.attejuvonen.fi",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_prettypolly",
+      "name": "Learn a language quickly by practising speaking with AI",
+      "type": "website",
+      "category": [
+        "designer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=prettypolly.app",
+      "desc": "Show HN: Learn a language quickly by practising speaking with AI",
+      "rating": "4.5",
+      "users": "HN 325+",
+      "review": "",
+      "url": "https://www.prettypolly.app",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_platoedu",
+      "name": "Anki/Duolingo",
+      "type": "website",
+      "category": [
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=platoedu.org",
+      "desc": "Show HN: Anki/Duolingo-like app using educational YouTube videos",
+      "rating": "4.5",
+      "users": "HN 289+",
+      "review": "",
+      "url": "https://www.platoedu.org",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_lessons",
+      "name": "A Japanese learning app focused on efficient vocab/grammar acquisition",
+      "type": "website",
+      "category": [
+        "designer",
+        "writer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lessons.nihongo-app.com",
+      "desc": "Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition",
+      "rating": "4.5",
+      "users": "HN 161+",
+      "review": "",
+      "url": "https://lessons.nihongo-app.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_coderev",
+      "name": "CodeRev.app",
+      "type": "website",
+      "category": [
+        "student",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=coderev.app",
+      "desc": "Show HN: CodeRev.app – Code Review as Interview",
+      "rating": "4.5",
+      "users": "HN 150+",
+      "review": "",
+      "url": "https://coderev.app",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_dogbunnypuzzle",
+      "name": "I may have created a new type of puzzle",
+      "type": "website",
+      "category": [
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=dogbunnypuzzle.com",
+      "desc": "Show HN: I may have created a new type of puzzle",
+      "rating": "4.5",
+      "users": "HN 1859+",
+      "review": "",
+      "url": "http://www.dogbunnypuzzle.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_monicahq",
+      "name": "Monica, an open",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=monicahq.com",
+      "desc": "Show HN: Monica, an open-source CRM to manage friends and family",
+      "rating": "4.5",
+      "users": "HN 1097+",
+      "review": "",
+      "url": "https://monicahq.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_openhunt",
+      "name": "Open Hunt",
+      "type": "website",
+      "category": [
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=openhunt.co",
+      "desc": "Show HN: Open Hunt – an open and community-run alternative to Product Hunt",
+      "rating": "4.5",
+      "users": "HN 1093+",
+      "review": "",
+      "url": "https://www.openhunt.co",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_hackernewstrends",
+      "name": "I made Google Trends for Hacker News by indexing 18 years of comments",
+      "type": "website",
+      "category": [
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=hackernewstrends.com",
+      "desc": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "rating": "4.5",
+      "users": "HN 822+",
+      "review": "",
+      "url": "https://hackernewstrends.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_upbase",
+      "name": "I built my own PM tool after trying Trello, Asana, ClickUp, etc.",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=upbase.io",
+      "desc": "Show HN: I built my own PM tool after trying Trello, Asana, ClickUp, etc.",
+      "rating": "4.5",
+      "users": "HN 632+",
+      "review": "",
+      "url": "https://upbase.io",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_shop",
+      "name": "Simula One",
+      "type": "website",
+      "category": [
+        "office",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=shop.simulavr.com",
+      "desc": "Show HN: Simula One – Portable Linux VR Computer",
+      "rating": "4.5",
+      "users": "HN 463+",
+      "review": "",
+      "url": "https://shop.simulavr.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_grafychat",
+      "name": "I built a non",
+      "type": "website",
+      "category": [
+        "office",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=grafychat.com",
+      "desc": "Show HN: I built a non-linear UI for ChatGPT",
+      "rating": "4.5",
+      "users": "HN 459+",
+      "review": "",
+      "url": "https://www.grafychat.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_speakz",
+      "name": "AI dub tool I made to watch foreign language videos with my 7",
+      "type": "website",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=speakz.ai",
+      "desc": "Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old",
+      "rating": "4.5",
+      "users": "HN 348+",
+      "review": "",
+      "url": "https://speakz.ai",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_vimified",
+      "name": "I built an interactive course that helps you learn Vim faster",
+      "type": "website",
+      "category": [
+        "office",
+        "designer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=vimified.com",
+      "desc": "Show HN: I built an interactive course that helps you learn Vim faster",
+      "rating": "4.5",
+      "users": "HN 344+",
+      "review": "",
+      "url": "https://www.vimified.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_coffitivity",
+      "name": "Increase your productivity with ambient noise",
+      "type": "website",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=coffitivity.com",
+      "desc": "Show HN: Increase your productivity with ambient noise",
+      "rating": "4.5",
+      "users": "HN 337+",
+      "review": "",
+      "url": "http://www.coffitivity.com",
+      "auto_added": true,
+      "discovered_at": "2026-07-28",
+      "source": "hacker_news"
     }
   ],
   "apps": [

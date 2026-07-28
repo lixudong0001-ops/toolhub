@@ -1,13 +1,244 @@
 {
-  "version": "2026.07.28.1919",
-  "updated_at": "2026-07-28T11:19:00+00:00",
+  "version": "2026.07.28.1130",
+  "updated_at": "2026-07-28T11:30:22.352520+00:00",
   "counts": {
     "plugins": 66,
-    "websites": 84,
+    "websites": 124,
     "apps": 60,
-    "total": 210
+    "total": 250
   },
   "last_run": {
-    "note": "仓库已初始化并推送到 GitHub，等待 Actions 首次自动更新"
+    "started_at": "2026-07-28T11:23:15.432423+00:00",
+    "mode": "full",
+    "added_by_profession": {
+      "programmer": 0,
+      "designer": 0,
+      "writer": 0,
+      "researcher": 0,
+      "marketer": 0,
+      "student": 0,
+      "entrepreneur": 0,
+      "office": 0
+    },
+    "new_plugins": [],
+    "plugins_before": 66,
+    "plugins_after": 66,
+    "plugins_added": 0,
+    "metrics_updated": 66,
+    "websites_added_by_profession": {
+      "programmer": 5,
+      "designer": 5,
+      "writer": 5,
+      "researcher": 5,
+      "marketer": 5,
+      "student": 5,
+      "entrepreneur": 5,
+      "office": 5
+    },
+    "new_websites": [
+      {
+        "id": "w_apiparrot",
+        "name": "API Parrot",
+        "url": "https://apiparrot.com"
+      },
+      {
+        "id": "w_dialup",
+        "name": "WinGPT",
+        "url": "https://www.dialup.net"
+      },
+      {
+        "id": "w_ai",
+        "name": "My AI Native Resume",
+        "url": "https://ai.jakegaylor.com"
+      },
+      {
+        "id": "w_libraria",
+        "name": "Customizable, embeddable Chat GPT based on your own documents",
+        "url": "https://libraria.dev"
+      },
+      {
+        "id": "w_hestus",
+        "name": "Hestus",
+        "url": "https://www.hestus.co"
+      },
+      {
+        "id": "w_graphite",
+        "name": "Graphite, a Blender",
+        "url": "https://graphite.rs"
+      },
+      {
+        "id": "w_figure",
+        "name": "Figure is a daily logic puzzle game",
+        "url": "https://figure.game"
+      },
+      {
+        "id": "w_vecti",
+        "name": "I spent 4 years building a UI design tool with only the features I use",
+        "url": "https://vecti.com"
+      },
+      {
+        "id": "w_noya",
+        "name": "Noya",
+        "url": "https://www.noya.io"
+      },
+      {
+        "id": "w_yamanote",
+        "name": "Yamanote.fun",
+        "url": "https://www.yamanote.fun"
+      },
+      {
+        "id": "w_talk",
+        "name": "Get conversational practice in over 20 languages by talking to an AI",
+        "url": "https://talk.quazel.com"
+      },
+      {
+        "id": "w_refine",
+        "name": "Refine",
+        "url": "https://refine.sh"
+      },
+      {
+        "id": "w_glossarie",
+        "name": "Glossarie",
+        "url": "https://glossarie.app"
+      },
+      {
+        "id": "w_itsupport",
+        "name": "Fun tool that cut my family and friends tech support time in half",
+        "url": "http://itsupport.grammable.me"
+      },
+      {
+        "id": "w_crul",
+        "name": "Crul",
+        "url": "https://www.crul.com"
+      },
+      {
+        "id": "w_phind",
+        "name": "GPT",
+        "url": "https://www.phind.com"
+      },
+      {
+        "id": "w_exopriors",
+        "name": "Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+        "url": "https://exopriors.com"
+      },
+      {
+        "id": "w_gitdot",
+        "name": "Gitdot",
+        "url": "https://gitdot.io"
+      },
+      {
+        "id": "w_val",
+        "name": "Val Town",
+        "url": "https://www.val.town"
+      },
+      {
+        "id": "w_opennutrition",
+        "name": "OpenNutrition",
+        "url": "https://www.opennutrition.app"
+      },
+      {
+        "id": "w_bento",
+        "name": "Bento",
+        "url": "https://bento.page"
+      },
+      {
+        "id": "w_text",
+        "name": "I built a frontpage for personal blogs",
+        "url": "https://text.blogosphere.app"
+      },
+      {
+        "id": "w_seven39",
+        "name": "Seven39, a social media app that is only open for 3 hours every evening",
+        "url": "https://www.seven39.com"
+      },
+      {
+        "id": "w_play2048",
+        "name": "2048 turned 10 this year, I built an updated version to celebrate",
+        "url": "https://play2048.co"
+      },
+      {
+        "id": "w_xikipedia",
+        "name": "Wikipedia as a doomscrollable social media feed",
+        "url": "https://xikipedia.org"
+      },
+      {
+        "id": "w_cloudbite",
+        "name": "Flashcards to learn AWS skills",
+        "url": "https://cloudbite.attejuvonen.fi"
+      },
+      {
+        "id": "w_prettypolly",
+        "name": "Learn a language quickly by practising speaking with AI",
+        "url": "https://www.prettypolly.app"
+      },
+      {
+        "id": "w_platoedu",
+        "name": "Anki/Duolingo",
+        "url": "https://www.platoedu.org"
+      },
+      {
+        "id": "w_lessons",
+        "name": "A Japanese learning app focused on efficient vocab/grammar acquisition",
+        "url": "https://lessons.nihongo-app.com"
+      },
+      {
+        "id": "w_coderev",
+        "name": "CodeRev.app",
+        "url": "https://coderev.app"
+      },
+      {
+        "id": "w_dogbunnypuzzle",
+        "name": "I may have created a new type of puzzle",
+        "url": "http://www.dogbunnypuzzle.com"
+      },
+      {
+        "id": "w_monicahq",
+        "name": "Monica, an open",
+        "url": "https://monicahq.com"
+      },
+      {
+        "id": "w_openhunt",
+        "name": "Open Hunt",
+        "url": "https://www.openhunt.co"
+      },
+      {
+        "id": "w_hackernewstrends",
+        "name": "I made Google Trends for Hacker News by indexing 18 years of comments",
+        "url": "https://hackernewstrends.com"
+      },
+      {
+        "id": "w_upbase",
+        "name": "I built my own PM tool after trying Trello, Asana, ClickUp, etc.",
+        "url": "https://upbase.io"
+      },
+      {
+        "id": "w_shop",
+        "name": "Simula One",
+        "url": "https://shop.simulavr.com"
+      },
+      {
+        "id": "w_grafychat",
+        "name": "I built a non",
+        "url": "https://www.grafychat.com"
+      },
+      {
+        "id": "w_speakz",
+        "name": "AI dub tool I made to watch foreign language videos with my 7",
+        "url": "https://speakz.ai"
+      },
+      {
+        "id": "w_vimified",
+        "name": "I built an interactive course that helps you learn Vim faster",
+        "url": "https://www.vimified.com"
+      },
+      {
+        "id": "w_coffitivity",
+        "name": "Increase your productivity with ambient noise",
+        "url": "http://www.coffitivity.com"
+      }
+    ],
+    "websites_before": 84,
+    "websites_after": 124,
+    "websites_added": 40
   }
 }
