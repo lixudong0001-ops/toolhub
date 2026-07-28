@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "超好用工具合集",
+  "short_name": "ToolHub",
+  "version": "1.0.0",
+  "description": "精选各行业最好用的工具，覆盖 Chrome 插件、在线网站、桌面应用，程序员/设计师/学生/营销/科研一网打尽。",
+  "permissions": [
+    "storage",
+    "alarms",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://chromewebstore.google.com/*",
+    "https://chrome.google.com/webstore/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16":  "icons/icon16.png",
+      "48":  "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "超好用工具合集 - 点击打开"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16":  "icons/icon16.png",
+    "48":  "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["data/reviews_seed.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

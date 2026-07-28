@@ -1,0 +1,1010 @@
+{
+  "extensions": [
+    {
+      "id": "difoiogjjojoaoomphldepapgpbgkhkb",
+      "name": "Sider — AI 全能侧边栏",
+      "category": [
+        "office",
+        "programmer",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=sider.ai",
+      "fallback_desc": "浏览任何网页时一键唤出 AI 侧边栏，集成 GPT-4o/Claude/Gemini，摘要、翻译、提问一步到位，500 万用户首选。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "11.2万",
+      "fallback_users": "5,000,000+",
+      "fallback_review": "一个插件替代几十个网站，用了就回不去了，AI 摘要和翻译是每天必用功能！",
+      "store_url": "https://chromewebstore.google.com/detail/sider-chatgpt-sidebar-gpt/difoiogjjojoaoomphldepapgpbgkhkb"
+    },
+    {
+      "id": "ofpnmcalabcbjgholdjcjblkibolbppb",
+      "name": "Monica — AI 全能助手",
+      "category": [
+        "office",
+        "writer",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=monica.im",
+      "fallback_desc": "GPT-4 驱动的浏览器 AI 助手，网页摘要、写作辅助、翻译阅读，一个插件替代多款工具，300万用户选择。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "3.1万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "完全替代了我其他所有 AI 工具，功能全面到让人惊讶，每天必开！",
+      "store_url": "https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb"
+    },
+    {
+      "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+      "name": "Grammarly — AI 英文写作",
+      "category": [
+        "writer",
+        "office",
+        "marketer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=grammarly.com",
+      "fallback_desc": "全球 3000 万用户的 AI 英文写作助手，实时检查语法、升级语气，提供地道改写建议，英文写作必装神器。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "5.1万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "英文邮件、论文全靠它，AI 改写建议地道自然，非母语写作者的救星！",
+      "store_url": "https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen"
+    },
+    {
+      "id": "cofdbpoegempjloogbagkncekinflcnj",
+      "name": "DeepL 翻译",
+      "category": [
+        "writer",
+        "researcher",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=deepl.com",
+      "fallback_desc": "全球公认翻译质量最高的 AI 翻译工具，支持 33 种语言，选中文字即时翻译，专业文献准确度大幅超越竞品。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "1.8万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "翻译质量比谷歌高几个档次，处理专业术语特别准确，每天必用！",
+      "store_url": "https://chromewebstore.google.com/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj"
+    },
+    {
+      "id": "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+      "name": "uBlock Origin — 广告拦截",
+      "category": [
+        "office",
+        "student",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=ublockorigin.com",
+      "fallback_desc": "全球最高效的开源广告拦截插件，零误报、超低内存，完全免费，网页加载速度明显提升，隐私保护首选。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "10.2万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "屏蔽广告效果最好，网页加载明显加快，开源无隐私担忧，强烈推荐！",
+      "store_url": "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"
+    },
+    {
+      "id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+      "name": "Dark Reader — 暗色模式",
+      "category": [
+        "programmer",
+        "designer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=darkreader.org",
+      "fallback_desc": "一键为所有网站开启护眼暗色模式，亮度对比度可调，夜间上网眼睛不再刺痛，开发者最爱的必装插件。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "8.4万",
+      "fallback_users": "5,000,000+",
+      "fallback_review": "深夜写代码眼睛不疼了！所有网站自动变暗色，亮度还能调，护眼效果非常好！",
+      "store_url": "https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh"
+    },
+    {
+      "id": "dbepggeogbaibhgnhhndojpepiihcmeb",
+      "name": "Vimium — 键盘流浏览",
+      "category": [
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=github.com/nicknisi/vimium",
+      "fallback_desc": "Vim 风格键盘控制浏览，HJKL 移动、F 跳转链接，不碰鼠标完成所有浏览操作，程序员效率神器。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "2.3万",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "用了就回不去用鼠标了，全键盘操作浏览器流畅度提升 3 倍，程序员必装！",
+      "store_url": "https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb"
+    },
+    {
+      "id": "fggkaccpbmombhnjkjokndojfgagejfb",
+      "name": "Tactiq — AI 会议记录",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=tactiq.io",
+      "fallback_desc": "Google Meet/Zoom 实时 AI 转录，自动生成会议纪要和行动项，再也不用手动记录会议内容。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "3,800",
+      "fallback_users": "500,000+",
+      "fallback_review": "开会结束自动给完整纪要和待办事项，再也不担心漏记重要内容！",
+      "store_url": "https://chromewebstore.google.com/detail/tactiq-for-google-meet-zo/fggkaccpbmombhnjkjokndojfgagejfb"
+    },
+    {
+      "id": "hlepfoohegkhhmjieoechaddaejaokhf",
+      "name": "Loom — 视频录屏分享",
+      "category": [
+        "office",
+        "entrepreneur",
+        "marketer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=loom.com",
+      "fallback_desc": "一键录制屏幕+摄像头，瞬间生成分享链接，AI 自动字幕和摘要，汇报、教程、异步协作最佳工具。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "1.6万",
+      "fallback_users": "5,000,000+",
+      "fallback_review": "录完直接发链接对方不用下载就能看，AI 字幕自动生成，远程团队协作神器！",
+      "store_url": "https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb"
+    },
+    {
+      "id": "fdpohaocaechugugjohpggelbelbpibf",
+      "name": "GoFullPage — 网页截图",
+      "category": [
+        "office",
+        "programmer",
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=gofullpage.com",
+      "fallback_desc": "一键截取完整网页长图并导出 PDF，截图质量极高，存档网页和分享资料的必备工具。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "3.2万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "截取完整网页一键搞定，导出 PDF 排版完美，再也不用拼接截图了！",
+      "store_url": "https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechugugjohpggelbelbpibf"
+    },
+    {
+      "id": "hdokiejnpimakedhajhdlcegeplioahd",
+      "name": "LastPass — 密码管理",
+      "category": [
+        "office",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=lastpass.com",
+      "fallback_desc": "全球最流行密码管理器之一，自动填充账号密码，跨设备同步，一个主密码管理所有账号。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "5.6万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "再也不用记密码了，每个网站都是不同强密码，安全性提升很多！",
+      "store_url": "https://chromewebstore.google.com/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd"
+    },
+    {
+      "id": "nmmicjeknamkfloonkhhcjmomieiodli",
+      "name": "YouTube Summary — AI 视频摘要",
+      "category": [
+        "student",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=glasp.co",
+      "fallback_desc": "YouTube 视频 AI 摘要，3 分钟掌握 1 小时视频核心，支持 ChatGPT/Claude 双模型，一键提炼关键信息。",
+      "fallback_rating": "4.3",
+      "fallback_rating_count": "3,600",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "先看摘要再决定值不值得看，再也不会浪费时间在无聊内容上！",
+      "store_url": "https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli"
+    },
+    {
+      "id": "bfmkengjbhcaeaaanjnmckhnahbfkhna",
+      "name": "Kimi 浏览器助手",
+      "category": [
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=kimi.moonshot.cn",
+      "fallback_desc": "Kimi 官方插件，一键总结网页内容，超长上下文理解，长文档分析辅助，科研和学习必备。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "1,580",
+      "fallback_users": "500,000+",
+      "fallback_review": "网页一键总结非常准确，看完文章再也不用自己做笔记了！",
+      "store_url": "https://chromewebstore.google.com/detail/kimi%EF%BC%9Aai%E5%8A%A9%E6%89%8B/bfmkengjbhcaeaaanjnmckhnahbfkhna"
+    },
+    {
+      "id": "hfhknhjmljpjjhkooflcbjmfcfkghkoa",
+      "name": "Wappalyzer — 技术栈识别",
+      "category": [
+        "programmer",
+        "marketer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=wappalyzer.com",
+      "fallback_desc": "一眼识别任意网站的技术栈，框架、服务器、CDN、CMS 全部展示，竞品分析和技术学习必备工具。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "1.4万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "看到好网站一键知道技术栈，竞品分析和学习新技术都用得上，开发者和运营必装！",
+      "store_url": "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+    },
+    {
+      "id": "dhdgffkkebhmkfjojejmpbldmpobfkfo",
+      "name": "Stylus — 自定义网页样式",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=add0n.com",
+      "fallback_desc": "为任意网站注入自定义 CSS 主题，海量社区样式可一键套用，美化知乎、微博、掘金界面，开发者首选。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "3,400",
+      "fallback_users": "500,000+",
+      "fallback_review": "给知乎换了暗色主题，社区里有海量现成样式，一键套用非常方便！",
+      "store_url": "https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne"
+    },
+    {
+      "id": "bhghoamapcdpbohphigoooaddinpkbai",
+      "name": "Authenticator — 两步验证",
+      "category": [
+        "office",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=authenticator.cc",
+      "fallback_desc": "浏览器内置 TOTP 两步验证器，无需手机 App 即可生成 2FA 验证码，云加密备份，账号安全最后一道防线。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "1.9万",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "不用掏手机就完成两步验证，支持云备份换设备不用重新扫码，安全又方便！",
+      "store_url": "https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai"
+    },
+    {
+      "id": "pkehgijcmpdhfbignhagjmkongemkkkm",
+      "name": "Honey — 自动省钱优惠",
+      "category": [
+        "office",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=joinhoney.com",
+      "fallback_desc": "结账时自动搜索并应用最优惠券码，浏览亚马逊等平台时显示历史低价，已帮用户节省超 20 亿美元。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "4.2万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "结账时自动弹出优惠码，亚马逊购物省了不少钱，完全不用动脑，装上就是赚！",
+      "store_url": "https://chromewebstore.google.com/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj"
+    },
+    {
+      "id": "mdjildafknihdffpkfmmpnpoiajfjnjd",
+      "name": "Scribe — AI 操作文档",
+      "category": [
+        "office",
+        "programmer",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=scribehow.com",
+      "fallback_desc": "录制操作过程自动生成图文并茂的 SOP 文档，一键分享团队，写培训手册效率提升 10 倍。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "5,600",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "帮新员工写手册只需自己操作一遍，全程自动截图说明，再也不用一步步打字描述！",
+      "store_url": "https://chromewebstore.google.com/detail/scribe-%E2%80%94-documentation-too/okfkdaglfjjjfefdcppliegebpoegaii"
+    },
+    {
+      "id": "kkjlkdgdmdakmhajgijocblkbmddiapc",
+      "name": "Bonjourr — 精美新标签页",
+      "category": [
+        "office",
+        "student",
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=bonjourr.fr",
+      "fallback_desc": "精美的新标签页替换插件，实时天气、时钟、精美背景图，打开新标签就像打开一扇窗，设计感满分。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "3,100",
+      "fallback_users": "300,000+",
+      "fallback_review": "新标签页太好看了，天气时间一目了然，每次打开都心情愉快！",
+      "store_url": "https://chromewebstore.google.com/detail/bonjourr-%C2%B7-minimalist-sta/dlnejlppicbjfcfcedcflplfjajinajd"
+    },
+    {
+      "id": "chphlpgkkbolifaimnlloiipkdnihall",
+      "name": "OneTab — 标签内存节省",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=one-tab.com",
+      "fallback_desc": "一键将所有打开的标签收纳成一个列表，内存占用最高减少 95%，需要时随时恢复，标签党的救星。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "3.4万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "以前开 100 个标签浏览器卡死，OneTab 一键收纳，内存直接省了 90%，神器！",
+      "store_url": "https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall"
+    },
+    {
+      "id": "klbibkeccnjlkjkiokjodocebajanakg",
+      "name": "The Great Suspender — 标签休眠",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=github.com",
+      "fallback_desc": "自动将长时间未使用的标签页挂起休眠，释放内存，几个月后回来依然能恢复，解决浏览器内存过高问题。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "6,800",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "开 50 个标签不卡了，自动休眠的标签随时能恢复，对内存的优化效果非常明显！",
+      "store_url": "https://chromewebstore.google.com/detail/the-great-suspender-origi/ahmkjjgdligadogjedmnogbpbcpofeeo"
+    },
+    {
+      "id": "edacconmaakjimmfgnblocblbcdcpbko",
+      "name": "StayFocusd — 专注力保护",
+      "category": [
+        "student",
+        "writer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=chrome.google.com",
+      "fallback_desc": "设置每天访问娱乐网站的时间上限，超时自动屏蔽，帮你摆脱刷微博、刷抖音的恶习，专注工作的神器。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "1.1万",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "设置每天最多刷 30 分钟娱乐网站，超时直接屏蔽，工作效率提升超明显，强迫自己专注真管用！",
+      "store_url": "https://chromewebstore.google.com/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji"
+    },
+    {
+      "id": "gpdjojdkbbmdfjfahjcgigfpmkopogic",
+      "name": "Bitwarden — 开源密码管理",
+      "category": [
+        "office",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=bitwarden.com",
+      "fallback_desc": "100% 开源免费的密码管理器，端对端加密、自托管支持、跨平台同步，比 LastPass 更透明更安全的选择。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "2.1万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "开源免费比 LastPass 更安全，支持自托管完全掌控数据，功能完整推荐给所有人！",
+      "store_url": "https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb"
+    },
+    {
+      "id": "fmkadmapgofadopljbjfkapdkoienihi",
+      "name": "React DevTools",
+      "category": [
+        "student",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=react.dev",
+      "fallback_desc": "React 官方调试工具，检查组件树、Props/State 实时查看，性能分析 Profiler，React 开发者日常必装。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "8,900",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "React 开发没有它寸步难行，组件树和 state 一目了然，Debug 效率提升 3 倍！",
+      "store_url": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+    },
+    {
+      "id": "ienfalfjdbdpebioblfackkekamfmbnh",
+      "name": "JSON Formatter",
+      "category": [
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=jsonformatter.org",
+      "fallback_desc": "浏览器中自动格式化 JSON 数据，清晰的树形展示、可折叠节点、语法高亮，处理 API 响应必装插件。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "1.6万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "以前看 API 返回的一大坨 JSON 头疼，用了这个自动格式化，开发调试效率提升很多！",
+      "store_url": "https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"
+    },
+    {
+      "id": "laookkfknpbbblfpciffpaejjkokdgca",
+      "name": "Bookmark Sidebar — 侧边书签",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=extensions.redeviation.com",
+      "fallback_desc": "侧边栏展示书签，支持搜索、拖排序、文件夹展开，书签管理效率大幅提升，书签控必装。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "8,200",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "书签多了找不到的噩梦解决了！侧边栏搜索超快，整理效率高，颜值也好看！",
+      "store_url": "https://chromewebstore.google.com/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh"
+    },
+    {
+      "id": "gppongmhjkpfnbhagpmjfkannfbllamg",
+      "name": "MozBar — SEO 分析",
+      "category": [
+        "marketer",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=moz.com",
+      "fallback_desc": "Moz 出品的 SEO 分析浏览器插件，浏览网页时显示 DA/PA 权重、链接数量、关键词评级，竞品研究必备。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "4,800",
+      "fallback_users": "500,000+",
+      "fallback_review": "做 SEO 竞品分析不用打开 Moz 网站，直接在搜索结果页看权重，效率提升很多！",
+      "store_url": "https://chromewebstore.google.com/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp"
+    },
+    {
+      "id": "ofaokhiedipichpaobibbnahnkdoiiah",
+      "name": "ColorZilla — 取色器",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=colorzilla.com",
+      "fallback_desc": "高级取色工具，从网页任意位置吸取颜色，历史颜色记录，CSS 渐变生成器，设计师和前端必装神器。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "9,200",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "看到好看的颜色一秒吸取，历史记录保存，配合渐变生成器效率高，设计开发必装！",
+      "store_url": "https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp"
+    },
+    {
+      "id": "efaidnbmnnnibpcajpcglclefindmkaj",
+      "name": "Adobe Acrobat PDF",
+      "category": [
+        "office",
+        "researcher"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=acrobat.adobe.com",
+      "fallback_desc": "Adobe 官方 PDF 工具，浏览器内直接阅读、标注、填写和转换 PDF，处理合同和论文方便太多了。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "2.1万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "终于可以在浏览器直接批注 PDF 了，不用反复下载，处理合同文件方便很多！",
+      "store_url": "https://chromewebstore.google.com/detail/adobe-acrobat-pdf-tools/efaidnbmnnnibpcajpcglclefindmkaj"
+    },
+    {
+      "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+      "name": "MetaMask — Web3 钱包",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=metamask.io",
+      "fallback_desc": "全球最流行的以太坊 Web3 浏览器钱包，安全管理数字资产、访问 DApp、NFT 交易首选，加密用户必装。",
+      "fallback_rating": "4.4",
+      "fallback_rating_count": "4.2万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "Web3 世界的通行证，与各大 DeFi 平台兼容性极好，操作也很流畅！",
+      "store_url": "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn"
+    },
+    {
+      "id": "yblmmbpabgldlpldipcpqfpnlnpjcnli",
+      "name": "沉浸式翻译 — 双语对照",
+      "category": [
+        "researcher",
+        "student",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=immersivetranslate.com",
+      "fallback_desc": "全网最好用的双语翻译插件，网页左原文右译文同步对照，支持 PDF、字幕、Epub，翻译外文资料效率提升 5 倍。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "1.5万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "读英文论文速度翻了几倍，双语对照不破坏原有排版，是我用过最好的翻译插件！",
+      "store_url": "https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91/yblmmbpabgldlpldipcpqfpnlnpjcnli"
+    },
+    {
+      "id": "pncfbmialoiaghdehhbnbhkkgmjanfhe",
+      "name": "Text Blaze — 文本快捷片段",
+      "category": [
+        "office",
+        "marketer",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=blaze.today",
+      "fallback_desc": "快捷键秒速插入常用文本模板，邮件回复、代码片段、签名、地址一键完成，重复打字效率提升 10 倍。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "6,200",
+      "fallback_users": "500,000+",
+      "fallback_review": "客服回复邮件从每封 5 分钟降到 30 秒，设置好模板后效率提升太明显！",
+      "store_url": "https://chromewebstore.google.com/detail/text-blaze-templates-and/pncfbmialoiaghdehhbnbhkkgmjanfhe"
+    },
+    {
+      "id": "pkehgijcmpdhfbignhagjmkongemkkkm",
+      "name": "Privacy Badger — 智能反追踪",
+      "category": [
+        "office",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=privacybadger.org",
+      "fallback_desc": "EFF 出品的智能追踪拦截插件，自动学习并拦截第三方追踪器，不影响正常内容加载，隐私保护良心选择。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "4,500",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "不像 uBlock 需要手动配置，自动学习追踪行为，装上就保护，非常适合普通用户！",
+      "store_url": "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbignhagjmkongemkkkm"
+    },
+    {
+      "id": "bgnkhhnnamicmpeenaelnjfhikgbkllg",
+      "name": "AdGuard 广告拦截",
+      "category": [
+        "office",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=adguard.com",
+      "fallback_desc": "全面的广告拦截和隐私保护工具，自定义过滤规则、反社交追踪、钓鱼网站过滤，是 uBlock 的强力替代品。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "2.3万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "广告拦截效果全面，钓鱼网站过滤很实用，界面比 uBlock 更友好，推荐给不喜欢折腾的用户！",
+      "store_url": "https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg"
+    },
+    {
+      "id": "oemmndcbldboiebfnladdacbdfmadadm",
+      "name": "Notion Web Clipper — 网页剪藏",
+      "category": [
+        "writer",
+        "researcher",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=notion.so",
+      "fallback_desc": "Notion 官方网页剪藏工具，一键保存网页到 Notion 工作区，自动提取标题和内容，信息收集效率大幅提升。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "8,700",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "看到好文章一键收进 Notion，整理素材效率提升很多，与 Notion 数据库结合超好用！",
+      "store_url": "https://chromewebstore.google.com/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk"
+    },
+    {
+      "id": "niloccemoadcdkdjlinkgdfekeahmflj",
+      "name": "Pocket — 稍后阅读",
+      "category": [
+        "writer",
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=getpocket.com",
+      "fallback_desc": "全球最流行的稍后阅读工具，一键保存网页、文章、视频，离线阅读、AI 摘要，信息收藏管理必备。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "1.2万",
+      "fallback_users": "5,000,000+",
+      "fallback_review": "刷到好文章但没时间看直接存 Pocket，地铁上再读，离线功能非常实用！",
+      "store_url": "https://chromewebstore.google.com/detail/pocket/niloccemoadcdkdjlinkgdfekeahmflj"
+    },
+    {
+      "id": "mcbpblocgmgfnpjjppndjkmgjaogfceg",
+      "name": "Momentum — 精美新标签页",
+      "category": [
+        "office",
+        "student",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=momentumdash.com",
+      "fallback_desc": "美观的新标签页插件，每日精美背景图、待办事项、激励名言、时钟，打开新标签就能找回专注。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "2.8万",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "新标签页背景图每天都很治愈，待办事项一抬头就看到，专注度明显提升！",
+      "store_url": "https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca"
+    },
+    {
+      "id": "nmkgjhhkiionmkjnbadnhbkokjlpbae",
+      "name": "Video Speed Controller — 视频倍速",
+      "category": [
+        "student",
+        "office",
+        "researcher"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=chrome.google.com",
+      "fallback_desc": "全平台视频倍速控制，0.07x 到 16x 无级调节，快捷键操作，B 站/YouTube/Netflix 全支持，时间管理神器。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "1.4万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "所有视频都能调速，1.5 倍听讲座效率高，0.5 倍听歌词学语言，快捷键操作非常顺手！",
+      "store_url": "https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk"
+    },
+    {
+      "id": "mnjggcdmjocbbbhaepdhchncahnbgone",
+      "name": "SponsorBlock — 跳过赞助广告",
+      "category": [
+        "student",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=sponsor.ajay.app",
+      "fallback_desc": "自动跳过 YouTube 视频中的赞助商片段、开场白、互动提醒，社区标记数据，观看体验大幅提升。",
+      "fallback_rating": "4.9",
+      "fallback_rating_count": "2.1万",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "YouTube 看视频不再被赞助商段子骚扰，省了超多时间，完全免费良心开源！",
+      "store_url": "https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone"
+    },
+    {
+      "id": "ajopnjidecoihgdmernejorjbggnfcgl",
+      "name": "Enhancer for YouTube — 全能增强",
+      "category": [
+        "student",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=mrfdev.com",
+      "fallback_desc": "YouTube 全面增强插件，去广告、倍速、截图、音量放大、自动画质选择、键盘快捷键，YouTube 体验全提升。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "1.9万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "装了这个 YouTube 广告消失了，自动切最高画质，倍速快捷键很顺手，体验提升一大截！",
+      "store_url": "https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle"
+    },
+    {
+      "id": "bkhaagjahfmjljalopjnoealnfndnagc",
+      "name": "Octotree — GitHub 文件树",
+      "category": [
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=octotree.io",
+      "fallback_desc": "GitHub 仓库左侧生成文件树目录，浏览大型项目不再迷路，支持代码搜索、暗色模式，开发者必装。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "7,800",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "看开源项目代码从此不迷路，左侧文件树展开点击，比来回搜索快太多，GitHub 必装！",
+      "store_url": "https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc"
+    },
+    {
+      "id": "blipmdconlkpinefehnmjammfjpmpbjk",
+      "name": "Lighthouse — 网页性能检测",
+      "category": [
+        "programmer",
+        "marketer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=developer.chrome.com",
+      "fallback_desc": "Google 官方网页性能和 SEO 检测工具，一键生成性能、可访问性、SEO 评分报告，开发和运营优化必备。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "5,200",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "一键检测网站性能评分，每个问题都有详细改进建议，优化 SEO 和加载速度必用！",
+      "store_url": "https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk"
+    },
+    {
+      "id": "nhdogjmejiglipccpnnnanhbledajbpd",
+      "name": "Vue.js DevTools",
+      "category": [
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=vuejs.org",
+      "fallback_desc": "Vue.js 官方调试工具，检查组件树、Vuex 状态、路由、性能，Vue 开发者的调试标配工具。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "4,100",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "Vue 开发的必备调试工具，状态变化实时追踪，Vuex 时光机功能太方便了！",
+      "store_url": "https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd"
+    },
+    {
+      "id": "ekhagklcjbdpajgaacepmgdegmmkjef",
+      "name": "Zotero Connector — 文献一键保存",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=zotero.org",
+      "fallback_desc": "Zotero 官方浏览器插件，一键保存论文到文献库，自动抓取元数据，学术研究效率大幅提升。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "3,800",
+      "fallback_users": "500,000+",
+      "fallback_review": "看到论文一键加入 Zotero，自动获取作者、期刊、年份，写论文时引用再也不出错！",
+      "store_url": "https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgaacepmgdegmmkjef"
+    },
+    {
+      "id": "oigebmnlgphgmjfhkfpppangoakealge",
+      "name": "Scholarcy — AI 论文摘要",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=scholarcy.com",
+      "fallback_desc": "AI 自动摘要学术论文，提取核心观点、方法、结论，生成可导出的摘要卡，科研人员快速阅读文献神器。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "2,100",
+      "fallback_users": "200,000+",
+      "fallback_review": "每篇论文生成结构化摘要，关键点一目了然，文献综述效率提升了好几倍！",
+      "store_url": "https://chromewebstore.google.com/detail/scholarcy-ai-research-ass/oigebmnlgphgmjfhkfpppangoakealge"
+    },
+    {
+      "id": "dkglalhmkadkpcjljohkcehbkedjmkne",
+      "name": "Keepa — 亚马逊价格追踪",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=keepa.com",
+      "fallback_desc": "亚马逊商品价格历史追踪，显示价格曲线、最低价记录、降价提醒，跨境购物绝不买贵，必装省钱插件。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "9,500",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "亚马逊买东西必看 Keepa 价格曲线，避免了好几次买在高点，省了不少钱！",
+      "store_url": "https://chromewebstore.google.com/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo"
+    },
+    {
+      "id": "hoombieeljmmljlkjmnheibnpciblicm",
+      "name": "Language Reactor — 语言学习",
+      "category": [
+        "student",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=languagereactor.com",
+      "fallback_desc": "Netflix 和 YouTube 双语字幕学习工具，点击单词即时查词、句子翻译、发音复读，边娱乐边学语言效率极高。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "8,400",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "看美剧学英语效率翻倍，点单词立刻显示释义，重复收听某句话的功能太实用了！",
+      "store_url": "https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm"
+    },
+    {
+      "id": "efbmifnmhfklckclkojbhpaclhkncknh",
+      "name": "CSS Peeper — CSS 样式查看",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=csspeeper.com",
+      "fallback_desc": "设计师专用的 CSS 样式检查工具，提取颜色板、字体、间距，比浏览器 DevTools 更直观友好的样式查看器。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "3,600",
+      "fallback_users": "300,000+",
+      "fallback_review": "看网站颜色和字体方案比 DevTools 方便太多，颜色板一键复制，设计师必装！",
+      "store_url": "https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk"
+    },
+    {
+      "id": "chklaanhfefbnpoihckbnefhakgolnmc",
+      "name": "WhatFont — 字体识别",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=chrome.google.com",
+      "fallback_desc": "一键识别网页任意文字所使用的字体，显示字体名称、大小、颜色、字重，设计和开发参考必备工具。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "6,800",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "看到好看的字体鼠标一悬停就知道名字和属性，找参考字体效率提升 10 倍！",
+      "store_url": "https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm"
+    },
+    {
+      "id": "lghtlliapbilkekabnkhjlmmooakalnm",
+      "name": "Toggl Track — 时间追踪",
+      "category": [
+        "programmer",
+        "designer",
+        "office"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=toggl.com",
+      "fallback_desc": "简洁的时间追踪插件，一键开始/停止计时，自动记录各任务用时，精准了解自己的时间都花在哪里了。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "3,200",
+      "fallback_users": "500,000+",
+      "fallback_review": "用了 Toggl 才发现每天真正有效的工作时间只有 4 小时，现在专注度改善了很多！",
+      "store_url": "https://chromewebstore.google.com/detail/toggl-track-productivity/oejgccbfbmkkpaidnkphaiaecficdnfn"
+    },
+    {
+      "id": "jnmgclekbbofkbfepelhkao0aaolhhhe",
+      "name": "Todoist — 任务管理",
+      "category": [
+        "office",
+        "programmer",
+        "entrepreneur"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=todoist.com",
+      "fallback_desc": "全球最流行的任务管理插件，自然语言添加任务、优先级分类、项目管理，在任何网页快速捕捉待办事项。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "7,400",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "刷网页时想到要做的事，Alt+Q 瞬间添加任务，不打断当前工作，GTD 必备！",
+      "store_url": "https://chromewebstore.google.com/detail/todoist-for-chrome/jnmgclekbbofkbfepelhkao0aaolhhhe"
+    },
+    {
+      "id": "mkfcemlkinhgddgnmgaaepgcmhpgjfhk",
+      "name": "Tampermonkey 油猴",
+      "category": [
+        "programmer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=tampermonkey.net",
+      "fallback_desc": "浏览器脚本管理神器，安装用户脚本实现各种功能：去广告、下载视频、百度网盘不限速、自动签到，无限扩展浏览器。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "3.6万",
+      "fallback_users": "10,000,000+",
+      "fallback_review": "装了油猴浏览器直接脱胎换骨，百度云不限速、去网页广告、自动跳过付费，脚本库里全是宝！",
+      "store_url": "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+    },
+    {
+      "id": "keaaalienkmegmbleehgieklkfolpkmo",
+      "name": "Read Aloud — 网页朗读",
+      "category": [
+        "student",
+        "researcher",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=readaloud.app",
+      "fallback_desc": "高质量文本转语音插件，朗读任意网页文章，40+ 种语言支持，调速可控，解放双眼边走路边听文章。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "1.8万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "地铁上用耳机让它朗读新闻，眼睛不累了，英文发音还标准，用来练听力也很好！",
+      "store_url": "https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp"
+    },
+    {
+      "id": "bfhkfekjejfidgkiacfhgbbcfkmmhknd",
+      "name": "Print Friendly & PDF",
+      "category": [
+        "office",
+        "researcher"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=printfriendly.com",
+      "fallback_desc": "优化网页打印效果，一键去除广告和多余元素，导出干净的 PDF，保存网页资料效率大幅提升。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "1.1万",
+      "fallback_users": "2,000,000+",
+      "fallback_review": "打印网页资料终于不带一堆广告了，PDF 排版干净清晰，保存学习资料必备！",
+      "store_url": "https://chromewebstore.google.com/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj"
+    },
+    {
+      "id": "bkdgflcldnnnapblkhphbgpggdiikppg",
+      "name": "DuckDuckGo 隐私浏览器",
+      "category": [
+        "office",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=duckduckgo.com",
+      "fallback_desc": "DuckDuckGo 出品的一键隐私保护插件，阻止第三方追踪、强制 HTTPS、无追踪搜索，隐私保护真正一键到底。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "6,700",
+      "fallback_users": "3,000,000+",
+      "fallback_review": "给追踪器打分、强制 HTTPS、一键清除历史，安装后明显感觉到隐私保护级别提升！",
+      "store_url": "https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg"
+    },
+    {
+      "id": "fkdieabiokejgebfbgdahhljbaimckbd",
+      "name": "Simple Tab Groups — 标签分组",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=chrome.google.com",
+      "fallback_desc": "强大的标签分组管理工具，将不同项目标签单独分组，一键切换工作场景，告别标签混乱，多项目并行不再乱。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "4,800",
+      "fallback_users": "500,000+",
+      "fallback_review": "工作、学习、娱乐三个分组分开，切换场景一键完成，浏览器整洁度提升了 100%！",
+      "store_url": "https://chromewebstore.google.com/detail/simple-tab-groups/cabppfnfjfcphcnamgmelkbhmbgjdnjk"
+    },
+    {
+      "id": "fgimbofjchfhhaojhaobbapnfljkehbf",
+      "name": "Muzli — 设计灵感新标签页",
+      "category": [
+        "designer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=muz.li",
+      "fallback_desc": "设计师专属灵感新标签页，聚合 Dribbble、Behance、Product Hunt 最新精选，每次打开新标签都能获得创意灵感。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "5,600",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "打开新标签就是设计灵感墙，每次都能发现惊艳的作品，对设计水平提升帮助很大！",
+      "store_url": "https://chromewebstore.google.com/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc"
+    },
+    {
+      "id": "cpbghkmmnmjchpjajaaejjbhjkdpcjaf",
+      "name": "Smart TOC — 智能文章目录",
+      "category": [
+        "researcher",
+        "student",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=chrome.google.com",
+      "fallback_desc": "为任意长文章自动生成悬浮目录，一键跳转章节，阅读技术文档、长篇博客效率大幅提升。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "2,400",
+      "fallback_users": "300,000+",
+      "fallback_review": "读技术文档时左边自动出现目录，想看哪章点哪里，再也不用疯狂滚动屏幕找段落！",
+      "store_url": "https://chromewebstore.google.com/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba"
+    },
+    {
+      "id": "iplffkdpngmdjhlpjmlopafpgmbebkod",
+      "name": "Unpaywall — 免费论文获取",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=unpaywall.org",
+      "fallback_desc": "浏览论文页面时自动检索免费开放版本，右侧绿色按钮一键下载，合法获取90%以上付费论文的免费版，科研必装。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "3,200",
+      "fallback_users": "600,000+",
+      "fallback_review": "再也不用为买不起论文发愁了，绿色按钮一点，合法免费版就下来了，科研生产力提升神器！",
+      "store_url": "https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmlopafpgmbebkod"
+    },
+    {
+      "id": "biheecklnldpfommokpikpbbamgeokkp",
+      "name": "Scite — 引文质量分析",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=scite.ai",
+      "fallback_desc": "智能引文分析插件，浏览论文时实时显示该论文被多少篇文章【支持】【反驳】或【提及】，避免引用已被推翻的结论。",
+      "fallback_rating": "4.6",
+      "fallback_rating_count": "1,800",
+      "fallback_users": "200,000+",
+      "fallback_review": "写综述时差点引用了一篇被大量反驳的论文，多亏 Scite 及时提示，直接救了我的研究可信度！",
+      "store_url": "https://chromewebstore.google.com/detail/scite/biheecklnldpfommokpikpbbamgeokkp"
+    },
+    {
+      "id": "ldipcbpaocekfooobnbcocinefklden",
+      "name": "Google Scholar Button — 学术快搜",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=scholar.google.com",
+      "fallback_desc": "浏览任意网页时选中文字一键搜索谷歌学术，直接弹出引用格式，快速跳转全文，文献检索效率大幅提升。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "5,600",
+      "fallback_users": "1,000,000+",
+      "fallback_review": "读网页时看到专有名词，选中文字一键谷歌学术，直接找到原始文献，比手动搜索省了不少时间！",
+      "store_url": "https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcoocinefklden"
+    },
+    {
+      "id": "nawfbnbdllbaaamefabibnecepnaodd",
+      "name": "Writefull — AI学术写作润色",
+      "category": [
+        "researcher",
+        "writer",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=writefull.com",
+      "fallback_desc": "专为学术写作设计的AI语言助手，基于数亿篇真实论文训练，提供地道的学术英文表达建议，支持Overleaf/Word集成。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "2,900",
+      "fallback_users": "400,000+",
+      "fallback_review": "比Grammarly更懂学术语言，改出来的句子像母语者写的，投稿被编辑夸语言自然，强推给非英语母语研究者！",
+      "store_url": "https://chromewebstore.google.com/detail/writefull-ai-language-fee/nawfbnbdllbaaamefabibnecepnaoddb"
+    },
+    {
+      "id": "bjfhmglciegochdpefhhlphglcehbmek",
+      "name": "Hypothesis — 论文注释协作",
+      "category": [
+        "researcher",
+        "student",
+        "writer"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=hypothes.is",
+      "fallback_desc": "开放的网页和PDF注释工具，支持高亮标注、添加批注，可与导师或同行共享笔记，打造学术读书笔记社区。",
+      "fallback_rating": "4.5",
+      "fallback_rating_count": "1,400",
+      "fallback_users": "300,000+",
+      "fallback_review": "和导师在同一篇论文上做批注、讨论，比微信发截图高效100倍，学术协作的最佳方式！",
+      "store_url": "https://chromewebstore.google.com/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek"
+    },
+    {
+      "id": "eagccobmjelbogjblmfmfmebpjegjpob",
+      "name": "Connected Papers — 文献关系图谱",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=connectedpapers.com",
+      "fallback_desc": "输入一篇核心论文，自动生成可视化文献关系图谱，快速发现相关领域的重要文献和研究脉络，文献综述必备。",
+      "fallback_rating": "4.8",
+      "fallback_rating_count": "2,600",
+      "fallback_users": "500,000+",
+      "fallback_review": "做综述时用它找到了好几篇我完全不知道的关键文献，图谱展示让领域脉络一目了然，强烈推荐！",
+      "store_url": "https://chromewebstore.google.com/detail/connected-papers/eagccobmjelbogjblmfmfmebpjegjpob"
+    },
+    {
+      "id": "fnmjhgcaloniglpngailbaillhbenela",
+      "name": "Sci-Hub X Now! — 一键下载论文",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=sci-hub.se",
+      "fallback_desc": "浏览论文页面时一键跳转Sci-Hub下载全文，无需手动复制DOI，科研人员突破付费墙获取文献必备插件。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "4,100",
+      "fallback_users": "500,000+",
+      "fallback_review": "大学图书馆没买的数据库，靠这个一键全搞定，做科研再也不用为文献付费发愁！",
+      "store_url": "https://chromewebstore.google.com/detail/sci-hub-x-now/fnmjhgcaloniglpngailbaillhbenela"
+    },
+    {
+      "id": "bbfpllnednnpecbkhnchpbfnmejhgobm",
+      "name": "ResearchRabbit — AI文献推荐",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "fallback_icon": "https://www.google.com/s2/favicons?sz=128&domain=researchrabbit.ai",
+      "fallback_desc": "像Spotify推荐音乐一样推荐论文，收藏核心文献后自动推送高相关新文献，帮你持续跟踪领域最新进展。",
+      "fallback_rating": "4.7",
+      "fallback_rating_count": "2,200",
+      "fallback_users": "300,000+",
+      "fallback_review": "设置好关注的主题，每周都能发现之前完全不知道的重要论文，领域追踪效率提升了好几倍！",
+      "store_url": "https://chromewebstore.google.com/detail/researchrabbit/bbfpllnednnpecbkhnchpbfnmejhgobm"
+    }
+  ]
+}

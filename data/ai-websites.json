@@ -1,0 +1,2235 @@
+{
+  "websites": [
+    {
+      "id": "w_figma",
+      "name": "Figma",
+      "type": "website",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "icon": "https://static.figma.com/app/icon/1/favicon.ico",
+      "desc": "全球设计师首选协作设计工具，实时协作、组件库、原型交互，UI/UX 设计行业标准。也有桌面 App 版本，可在「应用」Tab 下载。",
+      "rating": "4.9",
+      "users": "400万+",
+      "review": "实时协作太流畅了，组件库让设计稿和代码完全对应，前端效率翻倍！",
+      "url": "https://www.figma.com"
+    },
+    {
+      "id": "w_notion",
+      "name": "Notion",
+      "type": "website",
+      "category": [
+        "programmer",
+        "writer",
+        "office",
+        "researcher",
+        "entrepreneur"
+      ],
+      "icon": "https://www.notion.so/images/favicon.ico",
+      "desc": "全能知识管理工具，笔记、Wiki、项目看板、数据库四合一，内置 Notion AI，个人团队效率神器。也有移动 App，可在「应用」Tab 找到。",
+      "rating": "4.8",
+      "users": "3,000万+",
+      "review": "所有笔记、文档、项目管理都在 Notion 里，彻底改变了我的工作方式！",
+      "url": "https://www.notion.so"
+    },
+    {
+      "id": "w_slack",
+      "name": "Slack",
+      "type": "website",
+      "category": [
+        "programmer",
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=slack.com",
+      "desc": "全球最流行的团队即时通讯工具，频道化消息管理、集成 1000+ 工具、强大搜索，替代内部邮件的协作神器。也有桌面/移动 App。",
+      "rating": "4.7",
+      "users": "3,200万+",
+      "review": "团队沟通效率提升了几倍，频道分类清晰，与 GitHub/Jira 集成太方便，远程团队必选！",
+      "url": "https://slack.com"
+    },
+    {
+      "id": "w_zoom",
+      "name": "Zoom",
+      "type": "website",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://st1.zoom.us/zoom.ico",
+      "desc": "全球最流行视频会议平台，稳定流畅，虚拟背景、会议录制、字幕翻译，个人和企业远程协作首选。也有桌面/移动 App。",
+      "rating": "4.7",
+      "users": "3亿+",
+      "review": "画面稳定清晰，虚拟背景很好用，分屏共享又流畅，远程开会再也不担心卡顿！",
+      "url": "https://zoom.us"
+    },
+    {
+      "id": "w_discord",
+      "name": "Discord",
+      "type": "website",
+      "category": [
+        "programmer",
+        "student"
+      ],
+      "icon": "https://discord.com/assets/favicon.ico",
+      "desc": "游戏圈和开发者社区最流行的语音+文字+视频平台，频道管理、Bot 支持，程序员、创作者社群聚集地。也有桌面/移动 App。",
+      "rating": "4.7",
+      "users": "1.9亿+",
+      "review": "加入了好几个技术社群，讨论问题即时又高效，语音频道和文字频道分开特别清晰！",
+      "url": "https://discord.com"
+    },
+    {
+      "id": "w_loom",
+      "name": "Loom — 视频录屏分享",
+      "type": "website",
+      "category": [
+        "office",
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=loom.com",
+      "desc": "在线录屏平台，录制完自动生成分享链接，AI 摘要和字幕，汇报演示、异步协作首选。Chrome 插件版可在「插件」Tab 安装。",
+      "rating": "4.7",
+      "users": "5,000,000+",
+      "review": "录完自动上传，发链接对方直接看，AI 字幕自动出，远程团队的异步协作神器！",
+      "url": "https://www.loom.com"
+    },
+    {
+      "id": "w_grammarly",
+      "name": "Grammarly — AI 写作",
+      "type": "website",
+      "category": [
+        "writer",
+        "office",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=grammarly.com",
+      "desc": "全球 3000 万用户 AI 英文写作助手，在线文档编辑器内置实时语法检查和改写建议。Chrome 插件版可在「插件」Tab 安装。",
+      "rating": "4.7",
+      "users": "3,000万+",
+      "review": "英文邮件写作从此不再出糗，AI 改写建议比自己写的地道自然，非母语者必备！",
+      "url": "https://app.grammarly.com"
+    },
+    {
+      "id": "w_deepl",
+      "name": "DeepL 翻译",
+      "type": "website",
+      "category": [
+        "writer",
+        "researcher",
+        "office"
+      ],
+      "icon": "https://static.deepl.com/img/favicon/favicon_32.png",
+      "desc": "全球公认翻译质量最高的在线翻译，支持 33 种语言，可粘贴整段文字翻译。Chrome 插件版可在「插件」Tab 安装。",
+      "rating": "4.8",
+      "users": "3,000,000+",
+      "review": "翻译质量比谷歌高好几个档次，处理专业论文和合同文本非常准确！",
+      "url": "https://www.deepl.com/translator"
+    },
+    {
+      "id": "w_excalidraw",
+      "name": "Excalidraw — 手绘白板",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer",
+        "office"
+      ],
+      "icon": "https://excalidraw.com/apple-touch-icon.png",
+      "desc": "完全免费开源的手绘风格白板，流程图、架构图、脑图极简直观，实时协作，数据本地存储保护隐私。",
+      "rating": "4.9",
+      "users": "500万+",
+      "review": "画架构图最好用的工具，手绘风格好看，完全开源免费，工程师最爱！",
+      "url": "https://excalidraw.com"
+    },
+    {
+      "id": "w_miro",
+      "name": "Miro",
+      "type": "website",
+      "category": [
+        "designer",
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://miro.com/favicon.ico",
+      "desc": "企业级在线白板协作平台，头脑风暴、产品规划、敏捷看板应有尽有，远程团队协作效率的神器。",
+      "rating": "4.7",
+      "users": "6,000万+",
+      "review": "远程团队开产品规划会效率极高，便利贴、投票、定时器全都有，Sprint 必用工具！",
+      "url": "https://miro.com"
+    },
+    {
+      "id": "w_linear",
+      "name": "Linear",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://linear.app/favicon.ico",
+      "desc": "新一代项目管理工具，专为工程师团队设计，速度极快，与 GitHub/GitLab 深度集成，告别 Jira 卡顿。",
+      "rating": "4.9",
+      "users": "50万+",
+      "review": "用了 Linear 再也回不去 Jira，速度快 10 倍，界面简洁操作丝滑！",
+      "url": "https://linear.app"
+    },
+    {
+      "id": "w_clickup",
+      "name": "ClickUp",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "office"
+      ],
+      "icon": "https://clickup.com/landing/favicons/favicon-32x32.png",
+      "desc": "高度可定制项目管理平台，任务、文档、目标、时间追踪一体化，替代 Asana+Notion+Jira，中小团队首选。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "把 Asana、Notion、Jira 全换成 ClickUp 一个工具了，省了好几个订阅费用，功能真的够用！",
+      "url": "https://clickup.com"
+    },
+    {
+      "id": "w_vercel",
+      "name": "Vercel",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://vercel.com/favicon.ico",
+      "desc": "最流行的前端应用部署平台，连接 GitHub 一键部署，自动 CI/CD、全球 CDN，Next.js 最佳运行平台。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "前端部署选 Vercel 秒了，连接 GitHub 全自动，免费套餐够个人项目用！",
+      "url": "https://vercel.com"
+    },
+    {
+      "id": "w_github",
+      "name": "GitHub",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "desc": "全球最大代码托管平台，1 亿开发者在这里工作，CI/CD、Projects、Copilot 一站式开发体验。也有桌面版 GitHub Desktop。",
+      "rating": "4.8",
+      "users": "1亿+",
+      "review": "程序员不可缺少的平台，开源学习、版本管理、代码审查都在这里！",
+      "url": "https://github.com"
+    },
+    {
+      "id": "w_supabase",
+      "name": "Supabase",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://supabase.com/favicon/favicon-32x32.png",
+      "desc": "开源 Firebase 替代品，PostgreSQL 数据库、Auth、Storage、Edge Functions 一站式后端，快速建站必备。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "数据库、登录、存储全配好，API 自动生成，全栈开发效率提升 5 倍，创业小团队神器！",
+      "url": "https://supabase.com"
+    },
+    {
+      "id": "w_postman",
+      "name": "Postman",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=postman.com",
+      "desc": "API 开发调试行业标准工具，接口测试、Mock 服务、文档生成，后端开发必不可少。也有桌面 App 版本。",
+      "rating": "4.7",
+      "users": "2,500万+",
+      "review": "API 调试用 Postman 效率远超其他工具，环境变量管理和团队分享接口文档太方便了！",
+      "url": "https://www.postman.com"
+    },
+    {
+      "id": "w_canva",
+      "name": "Canva",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=canva.com",
+      "desc": "全球最流行在线设计平台，内置 AI 图像生成和背景去除，海报、PPT、社交内容一站搞定，1 亿用户首选。也有移动 App。",
+      "rating": "4.8",
+      "users": "1亿+",
+      "review": "做营销物料再也不需要找设计师，AI 功能强大，全公司设计需求都在 Canva 解决！",
+      "url": "https://www.canva.com"
+    },
+    {
+      "id": "w_framer",
+      "name": "Framer",
+      "type": "website",
+      "category": [
+        "designer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=framer.com",
+      "desc": "AI 生成网站 + 高保真设计工具，描述想要的网站即可生成可用代码，设计稿直接发布成真实网站，无需开发。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "告诉它我要什么风格的官网，几分钟生成完，比 Webflow 更简单美观，创业公司官网首选！",
+      "url": "https://www.framer.com"
+    },
+    {
+      "id": "w_airtable",
+      "name": "Airtable",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer",
+        "office"
+      ],
+      "icon": "https://airtable.com/images/favicon/baymax/favicon-32x32.png",
+      "desc": "强大的在线数据库表格，电子表格的简单操作 + 数据库的强大功能，内容管理、CRM、项目跟踪都适用。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "用 Airtable 管理内容流程，比 Excel 灵活太多，多视图切换超方便！",
+      "url": "https://airtable.com"
+    },
+    {
+      "id": "w_zapier",
+      "name": "Zapier",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer",
+        "programmer"
+      ],
+      "icon": "https://cdn.zapier.com/zapier/images/favicon.ico",
+      "desc": "连接 5000+ 应用的自动化工作流平台，无需代码实现跨应用数据流转，营销/运营自动化必备工具。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "把表单提交自动推送到 Slack 并记录 CRM，5 分钟搭完，省了每天一小时重复操作！",
+      "url": "https://zapier.com"
+    },
+    {
+      "id": "w_semrush",
+      "name": "SEMrush",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=semrush.com",
+      "desc": "全球顶级 SEO 和数字营销分析平台，关键词研究、竞品分析、反链追踪、流量预测，营销人员必备神器。",
+      "rating": "4.7",
+      "users": "1,000万+",
+      "review": "做 SEO 竞品分析最全面的工具，关键词难度估算非常准，广告投放前必查，ROI 提升明显！",
+      "url": "https://www.semrush.com"
+    },
+    {
+      "id": "w_hubspot",
+      "name": "HubSpot CRM",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+      "desc": "全球最受欢迎的免费 CRM 系统，销售管道、邮件营销、客户跟踪、自动化工作流，中小企业增长必备。",
+      "rating": "4.5",
+      "users": "2,000万+",
+      "review": "免费 CRM 里功能最完整的，销售管道管理清晰，自动化邮件节省了大量人工跟进时间！",
+      "url": "https://www.hubspot.com/crm"
+    },
+    {
+      "id": "w_stripe",
+      "name": "Stripe",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://stripe.com/img/v3/home/twitter.png",
+      "desc": "全球最好用的在线支付处理平台，API 优先、文档清晰，支持 135+ 种货币，SaaS 和电商收款的首选方案。",
+      "rating": "4.8",
+      "users": "300万+",
+      "review": "接入 Stripe 收款只需半天，API 文档清晰到令人感动，收款成功率也很高，开发者最爱！",
+      "url": "https://stripe.com"
+    },
+    {
+      "id": "w_looker",
+      "name": "Google Looker Studio",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lookerstudio.google.com",
+      "desc": "Google 出品的免费数据可视化 BI 工具，连接 GA4/BigQuery/Sheets 等数据源，一键生成精美动态报表。",
+      "rating": "4.6",
+      "users": "1,000万+",
+      "review": "完全免费，数据接入方便，报表分享只需发链接，比付费 BI 工具省了大笔预算！",
+      "url": "https://lookerstudio.google.com"
+    },
+    {
+      "id": "w_mixpanel",
+      "name": "Mixpanel",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer",
+        "programmer"
+      ],
+      "icon": "https://mixpanel.com/favicon.ico",
+      "desc": "用户行为分析领先工具，漏斗分析、留存曲线、A/B 测试，精准追踪产品各环节转化，互联网产品必备。",
+      "rating": "4.5",
+      "users": "50万+",
+      "review": "漏斗分析和留存曲线帮我找到了大量用户流失原因，改版后转化率提升了 30%！",
+      "url": "https://mixpanel.com"
+    },
+    {
+      "id": "w_tableau",
+      "name": "Tableau",
+      "type": "website",
+      "category": [
+        "marketer",
+        "programmer",
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=tableau.com",
+      "desc": "全球商业智能和数据可视化领导者，拖拽操作生成专业分析报告，数据分析师和 BI 工程师首选工具。",
+      "rating": "4.6",
+      "users": "100万+",
+      "review": "数据分析展现效果无敌，拖拽操作就能做出专业图表，领导汇报数据就靠它了！",
+      "url": "https://www.tableau.com/products/public"
+    },
+    {
+      "id": "w_shopify",
+      "name": "Shopify",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer"
+      ],
+      "icon": "https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png",
+      "desc": "全球最流行的独立站电商平台，一键开店，内置营销工具和支付，200多个国家的 200 万商家在使用。",
+      "rating": "4.6",
+      "users": "200万+",
+      "review": "搭独立站用 Shopify 最省心，主题漂亮、插件丰富，支付和物流对接都有现成方案！",
+      "url": "https://www.shopify.com"
+    },
+    {
+      "id": "w_lark",
+      "name": "飞书",
+      "type": "website",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=feishu.cn",
+      "desc": "字节跳动出品一体化协作平台，文档、多维表、会议、IM 深度整合，企业效率工具天花板。也有桌面/移动 App。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "飞书文档协作体验极佳，多维表功能强大，内置 AI 助手好用，公司必选！",
+      "url": "https://www.feishu.cn"
+    },
+    {
+      "id": "w_deepseek",
+      "name": "DeepSeek",
+      "type": "website",
+      "category": [
+        "programmer",
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepseek.com",
+      "desc": "国产顶级推理模型，数学/代码/逻辑推理媲美 GPT-4o，深度思考模式推理链清晰，完全免费。也有移动 App。",
+      "rating": "4.9",
+      "users": "3,000万+",
+      "review": "代码写得比 GPT 还准，数学解题清晰，完全免费！已成为我最主力的 AI 工具。",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "w_perplexity",
+      "name": "Perplexity AI",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student",
+        "writer",
+        "office"
+      ],
+      "icon": "https://www.perplexity.ai/favicon.svg",
+      "desc": "全球最受认可 AI 搜索引擎，实时检索网络给出带来源答案，Deep Research 模式可深度研究任何课题。也有移动 App。",
+      "rating": "4.9",
+      "users": "1,500万+",
+      "review": "替代了 90% 的 Google 搜索，答案带来源可验证，每天必用！",
+      "url": "https://www.perplexity.ai"
+    },
+    {
+      "id": "w_doubao",
+      "name": "豆包",
+      "type": "website",
+      "category": [
+        "writer",
+        "student",
+        "office"
+      ],
+      "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+      "desc": "字节旗舰 AI，对话、写作、图像创作全能，免费额度充足，中文理解一流，日活超 5000 万。也有移动 App。",
+      "rating": "4.9",
+      "users": "5,000万+",
+      "review": "免费又好用，图像生成效果惊艳，中文回答质量一流，每天必开！",
+      "url": "https://www.doubao.com"
+    },
+    {
+      "id": "w_claude",
+      "name": "Claude",
+      "type": "website",
+      "category": [
+        "writer",
+        "researcher",
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=claude.ai",
+      "desc": "Anthropic 旗舰 AI，长文写作和代码生成卓越，200K 超长上下文，Projects 功能沉浸式写作必备。也有移动 App。",
+      "rating": "4.8",
+      "users": "5,000万+",
+      "review": "写出来的文章最有人情味，长文章理解靠谱，是我的第二主力 AI！",
+      "url": "https://claude.ai"
+    },
+    {
+      "id": "w_midjourney",
+      "name": "Midjourney",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=midjourney.com",
+      "desc": "全球顶级 AI 图像生成平台，V6.1 写实与艺术风格俱佳，设计师、艺术家和内容创作者的王者工具。",
+      "rating": "4.7",
+      "users": "2,000万+",
+      "review": "生成图片质量无敌，v6 光影和细节令人窒息，付费完全值回票价！",
+      "url": "https://www.midjourney.com"
+    },
+    {
+      "id": "w_kling",
+      "name": "可灵 AI",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://klingai.com/favicon.ico",
+      "desc": "快手推出国产顶级 AI 视频生成，高清视频生成画面流畅人物自然，国内用户首选 AI 视频工具。也有移动 App。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "生成视频比 Runway 流畅，价格便宜，国内访问快，AI 视频首选！",
+      "url": "https://klingai.com"
+    },
+    {
+      "id": "w_suno",
+      "name": "Suno AI",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://suno.com/favicon.ico",
+      "desc": "顶级 AI 音乐生成，输入歌词和风格描述即输出完整歌曲，支持数十种音乐风格，短视频版权神器。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "90 秒生成完整歌曲，连编曲都有，做短视频 BGM 再也不担心版权！",
+      "url": "https://suno.com"
+    },
+    {
+      "id": "w_gamma",
+      "name": "Gamma",
+      "type": "website",
+      "category": [
+        "office",
+        "entrepreneur",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=gamma.app",
+      "desc": "AI 驱动的下一代演示工具，设计感极强，输入主题直接生成精美幻灯片，替代传统 PPT 的革命性工具。",
+      "rating": "4.7",
+      "users": "300万+",
+      "review": "设计感远超 PowerPoint，分享链接对方无需软件就能看，完全替代了我的 PPT！",
+      "url": "https://gamma.app"
+    },
+    {
+      "id": "w_v0",
+      "name": "v0 by Vercel",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=v0.dev",
+      "desc": "AI UI 代码生成神器，输入描述生成可用的 React/Next.js 前端组件，设计稿到代码效率提升 5 倍。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "描述界面直接出 React 代码，前端开发效率提升 5 倍，设计师也能自己出代码！",
+      "url": "https://v0.dev"
+    },
+    {
+      "id": "w_bolt",
+      "name": "Bolt.new",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bolt.new",
+      "desc": "全栈 AI Web 开发平台，浏览器里用自然语言生成并部署完整 Web 应用，非技术人员做 MVP 的神器。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "说了功能需求几分钟就有能跑的完整网站，不用写一行代码，颠覆了我的开发流程！",
+      "url": "https://bolt.new"
+    },
+    {
+      "id": "w_remove_bg",
+      "name": "Remove.bg",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://www.remove.bg/favicon.ico",
+      "desc": "一键 AI 抠图，5 秒内精准去除背景，人物、毛发、透明物体均可完美处理，设计师脱离 PS 的神器。",
+      "rating": "4.7",
+      "users": "3,000万+",
+      "review": "上传图片 3 秒抠图完成，头发丝都干净，从此告别 PS 抠图噩梦！",
+      "url": "https://www.remove.bg"
+    },
+    {
+      "id": "w_elevenlabs",
+      "name": "ElevenLabs",
+      "type": "website",
+      "category": [
+        "marketer",
+        "designer"
+      ],
+      "icon": "https://elevenlabs.io/favicon.ico",
+      "desc": "业界最逼真 AI 语音合成，支持 30 种语言，3 秒克隆声音，配音、有声书、播客制作最强工具。",
+      "rating": "4.8",
+      "users": "200万+",
+      "review": "AI 语音质量真的像真人，配课程视频效果完美，克隆声音功能太惊艳！",
+      "url": "https://elevenlabs.io"
+    },
+    {
+      "id": "w_calendly",
+      "name": "Calendly",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "office"
+      ],
+      "icon": "https://calendly.com/favicon.ico",
+      "desc": "消灭邮件扯皮的智能日程调度工具，分享链接对方自己选时间，自动同步日历，跨时区约会无烦恼。",
+      "rating": "4.7",
+      "users": "2,000万+",
+      "review": "约会再也不用来回发邮件确认时间，发链接对方自己选，省太多沟通成本！",
+      "url": "https://calendly.com"
+    },
+    {
+      "id": "w_obsidian_publish",
+      "name": "Obsidian",
+      "type": "website",
+      "category": [
+        "researcher",
+        "writer",
+        "programmer"
+      ],
+      "icon": "https://obsidian.md/favicon.ico",
+      "desc": "本地优先的 Markdown 双向链接笔记，知识图谱可视化，构建个人第二大脑的最佳工具。也有桌面/移动 App。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "知识双向链接改变了我的思维方式，把所有笔记关联起来后发现意想不到的联系！",
+      "url": "https://obsidian.md"
+    },
+    {
+      "id": "w_zotero",
+      "name": "Zotero",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=zotero.org",
+      "desc": "免费开源学术文献管理工具，浏览器插件一键保存论文，自动生成引用格式，科研人员和学生必备。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "论文管理神器！一键保存、自动生成引用、PDF 标注同步，写论文效率提升至少 50%！",
+      "url": "https://www.zotero.org"
+    },
+    {
+      "id": "w_napkin",
+      "name": "Napkin AI",
+      "type": "website",
+      "category": [
+        "office",
+        "researcher",
+        "entrepreneur"
+      ],
+      "icon": "https://www.napkin.ai/favicon.ico",
+      "desc": "粘贴文字即生成精美图表、流程图、思维导图，AI 把枯燥文字变成清晰可视化内容。",
+      "rating": "4.7",
+      "users": "100万+",
+      "review": "把报告文字粘进去立刻生成清晰图表，再也不想手动画图了！",
+      "url": "https://www.napkin.ai"
+    },
+    {
+      "id": "w_chatgpt",
+      "name": "ChatGPT",
+      "type": "website",
+      "category": [
+        "programmer",
+        "writer",
+        "office",
+        "student",
+        "entrepreneur",
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=openai.com",
+      "desc": "OpenAI 官方通用大模型，文本生成、代码编写、多模态理解、文件分析，全球用户最多的 AI 工具。",
+      "rating": "4.8",
+      "users": "3亿+",
+      "review": "每天工作离不开 ChatGPT，代码、邮件、翻译什么都能做，效率提升太明显了！",
+      "url": "https://chat.openai.com"
+    },
+    {
+      "id": "w_gemini",
+      "name": "Gemini Advanced",
+      "type": "website",
+      "category": [
+        "programmer",
+        "writer",
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=gemini.google.com",
+      "desc": "Google 官方大模型，多模态能力顶尖，实时搜索、Deep Research 深度研究，Google 生态用户必用。",
+      "rating": "4.7",
+      "users": "5,000万+",
+      "review": "多模态理解力很强，与 Google 搜索结合查资料效率极高，Deep Research 功能惊艳！",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "w_poe",
+      "name": "Poe — 多模型聚合",
+      "type": "website",
+      "category": [
+        "programmer",
+        "writer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=poe.com",
+      "desc": "一个平台使用 ChatGPT/Claude/Gemini/Llama 等多款大模型，不同模型对比回答，模型对比首选。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "不用一个一个注册 AI 账号了，Poe 里全有，不同模型对比回答，找出最好的！",
+      "url": "https://poe.com"
+    },
+    {
+      "id": "w_notebooklm",
+      "name": "NotebookLM",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student",
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=notebooklm.google.com",
+      "desc": "Google 出品的 AI 知识管理工具，上传文档后精准问答，自动生成摘要和 AI 播客，科研学习神器。",
+      "rating": "4.8",
+      "users": "200万+",
+      "review": "上传论文后问什么都精准回答，生成的 AI 播客质量惊人，学习效率翻倍！",
+      "url": "https://notebooklm.google.com"
+    },
+    {
+      "id": "w_coze",
+      "name": "扣子 Coze — AI 智能体",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=coze.com",
+      "desc": "字节跳动 AI 智能体平台，零代码创建 AI Bot，接入知识库、插件、工作流，打造个人专属 AI 助手。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "不用写代码就能创建 AI 助手，接入知识库后回答精准，效率型工作者必备平台！",
+      "url": "https://www.coze.com"
+    },
+    {
+      "id": "w_heygen",
+      "name": "HeyGen — AI 数字人",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=heygen.com",
+      "desc": "AI 数字人视频生成平台，上传照片创建数字分身，自动口型同步，多语言配音，营销视频首选。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "上传照片就能生成数字人视频，口型同步自然，做多语言产品介绍效率提升极高！",
+      "url": "https://www.heygen.com"
+    },
+    {
+      "id": "w_runway",
+      "name": "Runway — AI 视频创作",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=runwayml.com",
+      "desc": "AI 视频创作平台先驱，Gen-3 文转视频，动态画笔、风格迁移，视频特效创作行业标杆。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "文本转视频效果自然流畅，做短视频配素材效率拉满，特效创意无限！",
+      "url": "https://runwayml.com"
+    },
+    {
+      "id": "w_sora",
+      "name": "Sora — AI 长视频",
+      "type": "website",
+      "category": [
+        "designer",
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=openai.com",
+      "desc": "OpenAI 文本转视频模型，生成高质量长视频，运动自然物理真实，AI 视频生成的天花板。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "视频质量吊打所有竞品，画面细节和运动流畅度令人惊叹，AI 视频新纪元！",
+      "url": "https://sora.com"
+    },
+    {
+      "id": "w_gitlab",
+      "name": "GitLab",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitlab.com",
+      "desc": "开源 DevOps 一站式平台，代码托管+CI/CD+项目管理+安全扫描，企业私有化部署首选。",
+      "rating": "4.7",
+      "users": "3,000万+",
+      "review": "CI/CD 流水线开箱即用，从提交代码到部署全自动，DevOps 体验完整！",
+      "url": "https://gitlab.com"
+    },
+    {
+      "id": "w_stackoverflow",
+      "name": "Stack Overflow",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=stackoverflow.com",
+      "desc": "全球最大程序员问答社区，2600 万个编程问题和答案，遇到 Bug 第一个该搜的地方。",
+      "rating": "4.8",
+      "users": "5,000万+",
+      "review": "任何编程问题都能搜到答案，代码报错复制粘贴就搜到解决方案，开发者的救命恩人！",
+      "url": "https://stackoverflow.com"
+    },
+    {
+      "id": "w_codepen",
+      "name": "CodePen — 前端代码",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=codepen.io",
+      "desc": "前端代码在线编辑器，HTML/CSS/JS 实时预览，海量社区作品参考，CSS 动效学习和展示首选。",
+      "rating": "4.7",
+      "users": "1,000万+",
+      "review": "学 CSS 动效直接看别人怎么写的，Fork 过来改改就能用，效率极高！",
+      "url": "https://codepen.io"
+    },
+    {
+      "id": "w_codesandbox",
+      "name": "CodeSandbox",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=codesandbox.io",
+      "desc": "在线代码沙箱，React/Vue/Angular 多框架支持，浏览器里直接开发调试，分享项目一键链接。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "分享前端 Demo 发链接就够了，不用配环境直接看效果，面试出题也很方便！",
+      "url": "https://codesandbox.io"
+    },
+    {
+      "id": "w_replit",
+      "name": "Replit — 在线 IDE",
+      "type": "website",
+      "category": [
+        "programmer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=replit.com",
+      "desc": "全功能在线 IDE，50+ 编程语言，内置 AI 编程助手，浏览器写代码+运行+部署，编程学习首选。",
+      "rating": "4.7",
+      "users": "2,000万+",
+      "review": "浏览器里写 Python、Node.js，AI 帮忙写代码，学编程和做快速原型太方便了！",
+      "url": "https://replit.com"
+    },
+    {
+      "id": "w_regex101",
+      "name": "Regex101 — 正则测试",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=regex101.com",
+      "desc": "最好用的在线正则表达式测试工具，实时匹配高亮、语法解释、多语言支持，写正则必开的网站。",
+      "rating": "4.9",
+      "users": "300万+",
+      "review": "写正则从此不靠运气，实时高亮匹配，每行语法都有解释，正则新手也能用！",
+      "url": "https://regex101.com"
+    },
+    {
+      "id": "w_caniuse",
+      "name": "Can I Use — 兼容性查询",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=caniuse.com",
+      "desc": "查询 CSS/HTML/JS 特性的浏览器兼容性，前端写代码前必查，避免踩兼容性的坑。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "用新 CSS 特性前先查 Can I Use，一眼看出哪些浏览器支持，避免线上 Bug！",
+      "url": "https://caniuse.com"
+    },
+    {
+      "id": "w_netlify",
+      "name": "Netlify",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=netlify.com",
+      "desc": "静态网站和 Serverless 部署平台，Git 推送自动部署、免费 HTTPS、表单处理，个人项目首选。",
+      "rating": "4.7",
+      "users": "300万+",
+      "review": "推代码自动部署，免费 HTTPS 和 CDN，个人博客和小项目用 Netlify 零成本！",
+      "url": "https://www.netlify.com"
+    },
+    {
+      "id": "w_neon",
+      "name": "Neon — Serverless 数据库",
+      "type": "website",
+      "category": [
+        "programmer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=neon.tech",
+      "desc": "Serverless PostgreSQL 数据库，按需付费、自动扩缩容、分支功能，现代全栈开发的数据库新选择。",
+      "rating": "4.8",
+      "users": "50万+",
+      "review": "数据库也能像 Git 一样开分支，开发和测试互不影响，免费额度够个人项目用！",
+      "url": "https://neon.tech"
+    },
+    {
+      "id": "w_photopea",
+      "name": "Photopea — 在线 PS",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=photopea.com",
+      "desc": "功能最接近 Photoshop 的免费在线修图工具，支持 PSD/AI/Sketch 格式，浏览器直接用无需安装。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "打开 PSD 不装 PS 了，浏览器里编辑，功能齐全免费用，设计救急神器！",
+      "url": "https://www.photopea.com"
+    },
+    {
+      "id": "w_unsplash",
+      "name": "Unsplash — 免费高清图库",
+      "type": "website",
+      "category": [
+        "designer",
+        "writer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=unsplash.com",
+      "desc": "全球最高质量免费可商用摄影图库，300 万+ 专业摄影师作品，下载无需注册，设计配图首选。",
+      "rating": "4.9",
+      "users": "2,000万+",
+      "review": "再也不用为找配图发愁，质量比付费图库还高，全部可免费商用，良心！",
+      "url": "https://unsplash.com"
+    },
+    {
+      "id": "w_pexels",
+      "name": "Pexels — 免费图片视频",
+      "type": "website",
+      "category": [
+        "designer",
+        "writer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=pexels.com",
+      "desc": "免费可商用的高质量图片和视频素材库，支持中文搜索，做 PPT、文章配图、视频素材必备。",
+      "rating": "4.8",
+      "users": "1,500万+",
+      "review": "找免费视频素材的首选，质量好到不敢相信是免费的，支持中文搜索很方便！",
+      "url": "https://www.pexels.com"
+    },
+    {
+      "id": "w_coolors",
+      "name": "Coolors — 配色方案",
+      "type": "website",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=coolors.co",
+      "desc": "敲空格键随机生成配色方案，锁定满意的颜色继续探索，导出 CSS/PNG/PDF，设计师配色神器。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "再也不为配色纠结了！空格键一按就是新方案，锁定喜欢的继续微调，灵感爆发！",
+      "url": "https://coolors.co"
+    },
+    {
+      "id": "w_dribbble",
+      "name": "Dribbble — 设计灵感",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=dribbble.com",
+      "desc": "全球设计师作品展示平台，UI/UX/品牌/动效顶级作品汇集，找设计灵感的第一站。",
+      "rating": "4.7",
+      "users": "1,000万+",
+      "review": "做设计前先刷 Dribbble 找灵感，全球顶级设计师的作品让人大开眼界！",
+      "url": "https://dribbble.com"
+    },
+    {
+      "id": "w_iconfont",
+      "name": "Iconfont — 阿里图标库",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=iconfont.cn",
+      "desc": "阿里巴巴出品的中文图标库，海量矢量图标免费用，支持 SVG/CSS/CDN 多种引用方式，中文前端必备。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "中文图标最全的地方，支持组合下载、自定义颜色，前端找图标第一站！",
+      "url": "https://www.iconfont.cn"
+    },
+    {
+      "id": "w_elicit",
+      "name": "Elicit — AI 学术研究",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=elicit.com",
+      "desc": "学术研究专用 AI，智能检索论文、自动提取信息、对比分析、生成文献综述表，科研效率天花板。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "输入研究问题自动找论文并整理成表格，写文献综述的效率提升了 10 倍！",
+      "url": "https://elicit.com"
+    },
+    {
+      "id": "w_overleaf",
+      "name": "Overleaf — 在线 LaTeX",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=overleaf.com",
+      "desc": "在线 LaTeX 编辑器，多人实时协作，内置大量期刊模板，写学术论文最方便的工具。",
+      "rating": "4.8",
+      "users": "1,500万+",
+      "review": "再也不用本地装 TeX 环境了，模板直接选期刊，多人协作写论文太方便了！",
+      "url": "https://www.overleaf.com"
+    },
+    {
+      "id": "w_coursera",
+      "name": "Coursera — 名校课程",
+      "type": "website",
+      "category": [
+        "student",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=coursera.org",
+      "desc": "全球顶级在线教育平台，哈佛/MIT/斯坦福等名校课程和学位，有旁听免费模式，终身学习首选。",
+      "rating": "4.7",
+      "users": "1亿+",
+      "review": "免费旁听斯坦福机器学习课程，质量超越 99% 培训班，证书也受认可！",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "id": "w_smallpdf",
+      "name": "Smallpdf — PDF 处理",
+      "type": "website",
+      "category": [
+        "office",
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=smallpdf.com",
+      "desc": "一站式 PDF 解决方案，转换/合并/压缩/编辑/签名，21 种工具覆盖所有 PDF 需求，免费好用。",
+      "rating": "4.7",
+      "users": "3,000万+",
+      "review": "处理 PDF 再也不用装软件，压缩效果好，转格式速度快，每天都在用！",
+      "url": "https://smallpdf.com"
+    },
+    {
+      "id": "w_tinypng",
+      "name": "TinyPNG — 图片压缩",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=tinypng.com",
+      "desc": "智能压缩 PNG/JPEG/WebP 图片，压缩 70%+ 体积肉眼无区别，前端优化和设计出图必用。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "设计稿几 MB，TinyPNG 压到几百 KB 画质不变，网页加载速度提升明显！",
+      "url": "https://tinypng.com"
+    },
+    {
+      "id": "w_cloudconvert",
+      "name": "CloudConvert — 格式转换",
+      "type": "website",
+      "category": [
+        "office",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloudconvert.com",
+      "desc": "支持 200+ 种文件格式互转，音频/视频/文档/图片全覆盖，一个网站搞定所有格式转换需求。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "不管什么格式都能转，HEIC 转 JPG、MKV 转 MP4 全搞定！",
+      "url": "https://cloudconvert.com"
+    },
+    {
+      "id": "w_ga4",
+      "name": "Google Analytics",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=analytics.google.com",
+      "desc": "Google 官方免费网站流量分析，实时用户行为、转化追踪、受众分析，做网站必装的数据基础设施。",
+      "rating": "4.6",
+      "users": "3,000万+",
+      "review": "免费流量分析做到这么全，实时流量、转化路径、用户画像都有，网站必装！",
+      "url": "https://analytics.google.com"
+    },
+    {
+      "id": "w_similarweb",
+      "name": "Similarweb — 流量分析",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=similarweb.com",
+      "desc": "网站流量和市场分析工具，查看任意网站流量来源、排名、竞品对比，市场调研和竞品分析首选。",
+      "rating": "4.6",
+      "users": "500万+",
+      "review": "竞品流量估算准，看到对手从哪些渠道获客，调整策略后效果提升明显！",
+      "url": "https://www.similarweb.com"
+    },
+    {
+      "id": "w_ahrefs",
+      "name": "Ahrefs — SEO 外链分析",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=ahrefs.com",
+      "desc": "全球最强外链分析工具，关键词研究、内容差距分析、竞品反链追踪，专业 SEO 从业者必备。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "外链数据最全最准，发现竞品链接来源后复制策略，排名提升很快！",
+      "url": "https://ahrefs.com"
+    },
+    {
+      "id": "w_123apps",
+      "name": "123Apps — 音视频工具箱",
+      "type": "website",
+      "category": [
+        "designer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=123apps.com",
+      "desc": "完全免费在线音视频编辑工具集，剪辑/转格式/提取音频/录音/录屏，轻量处理不用装软件。",
+      "rating": "4.7",
+      "users": "1,000万+",
+      "review": "临时剪视频、转音频不用装软件，浏览器打开就用，速度还快！",
+      "url": "https://123apps.com"
+    },
+    {
+      "id": "w_lalal",
+      "name": "LALAL.AI — AI 人声分离",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lalal.ai",
+      "desc": "AI 驱动人声与伴奏分离，上传歌曲一键拆分，音乐制作和翻唱必备。",
+      "rating": "4.7",
+      "users": "300万+",
+      "review": "人声和伴奏分离效果惊人地干净，做翻唱混音的福音，吊打同类工具！",
+      "url": "https://www.lalal.ai"
+    },
+    {
+      "id": "w_trello",
+      "name": "Trello — 看板任务管理",
+      "type": "website",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=trello.com",
+      "desc": "全球最流行看板式任务管理，拖拽卡片管理流程，零学习成本，个人和小团队项目管理首选。",
+      "rating": "4.7",
+      "users": "5,000万+",
+      "review": "任务拖来拖去就完成流管理，直觉式操作零学习成本，小团队最爱！",
+      "url": "https://trello.com"
+    },
+    {
+      "id": "w_processon",
+      "name": "ProcessOn — 在线流程图",
+      "type": "website",
+      "category": [
+        "office",
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=processon.com",
+      "desc": "国产在线流程图绘制工具，流程图/思维导图/UML/原型图，模板丰富协作方便，中文用户体验极佳。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "画流程图最方便的中文工具，模板多，分享链接协作，写文档汇报必备！",
+      "url": "https://www.processon.com"
+    },
+    {
+      "id": "w_docusign",
+      "name": "DocuSign — 电子签名",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=docusign.com",
+      "desc": "全球最流行电子签名平台，发合同对方手机就能签，法律效力等同手写签名，商务必备。",
+      "rating": "4.6",
+      "users": "1,000万+",
+      "review": "合同签署从一周缩到几分钟，客户用手机就能签，转化率提升了 40%！",
+      "url": "https://www.docusign.com"
+    },
+    {
+      "id": "w_wordtune",
+      "name": "Wordtune — AI 英文润色",
+      "type": "website",
+      "category": [
+        "writer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=wordtune.com",
+      "desc": "AI 英文写作润色工具，一键改写句子、调整语气、缩写或扩写，让英文表达更地道自然。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "写英文邮件用 Wordtune 润色后不像非母语写的，同事以为我英语变好了！",
+      "url": "https://www.wordtune.com"
+    },
+    {
+      "id": "w_smm",
+      "name": "慢慢买 — 全网比价",
+      "type": "website",
+      "category": [
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=manmanbuy.com",
+      "desc": "国内最好用全网比价工具，商品历史价格曲线、全平台比价、降价提醒，购物前必查是否真打折。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "双 11 前必看历史价格，防止先涨后降套路，真的省了不少钱！",
+      "url": "https://www.manmanbuy.com"
+    },
+    {
+      "id": "w_smzdm",
+      "name": "什么值得买",
+      "type": "website",
+      "category": [
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=smzdm.com",
+      "desc": "国内最权威购物决策平台，实时比价、好价爆料、开箱评测、凑单攻略，买东西不踩雷必备。",
+      "rating": "4.8",
+      "users": "2,000万+",
+      "review": "买数码产品必看评测，好价爆料经常捡到便宜货，羊毛真的值得薅！",
+      "url": "https://www.smzdm.com"
+    }
+  ],
+  "apps": [
+    {
+      "id": "a_cursor",
+      "name": "Cursor",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cursor.sh",
+      "desc": "全球最受欢迎 AI 代码编辑器，深度集成 GPT-4/Claude，多文件理解/自然语言编程，开发效率提升 3 倍。网站版可在「网站」Tab 了解。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "用了 Cursor 再也回不去 VS Code，Composer 理解整个项目直接修改，结对编程从未这么爽！",
+      "url": "https://cursor.sh",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_vscode",
+      "name": "VS Code",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://code.visualstudio.com/favicon.ico",
+      "desc": "全球最受欢迎代码编辑器，Microsoft 出品，3 万+ 扩展、Git 内置、强大调试、远程开发，几乎所有语言首选。",
+      "rating": "4.9",
+      "users": "1,400万+",
+      "review": "代码编辑器的绝对王者，各种语言插件齐全，远程开发功能很强大，每天 10 小时都在用！",
+      "url": "https://code.visualstudio.com",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_windsurf",
+      "name": "Windsurf",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=codeium.com",
+      "desc": "Codeium 推出的免费 AI 代码编辑器，Cascade 多步骤自主完成编程任务，免费版内置顶级 AI 模型。",
+      "rating": "4.8",
+      "users": "50万+",
+      "review": "完全免费还内置顶级 AI，Cascade 自动处理多个文件修改，省了不少订阅费！",
+      "url": "https://codeium.com/windsurf",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_slack_app",
+      "name": "Slack",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=slack.com",
+      "desc": "全球最流行团队即时通讯工具桌面版，频道化消息管理、集成 1000+ 工具，随时随地保持团队同步。网站版可在「网站」Tab 直接使用。",
+      "rating": "4.7",
+      "users": "3,200万+",
+      "review": "桌面通知及时，快捷键流畅，搜索历史消息很快，比网页版体验好很多！",
+      "url": "https://slack.com/downloads",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_zoom_app",
+      "name": "Zoom",
+      "type": "app",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://st1.zoom.us/zoom.ico",
+      "desc": "全球最流行视频会议桌面客户端，稳定流畅，支持虚拟背景、会议录制、AI 字幕，远程协作首选。网站版可在「网站」Tab 找到。",
+      "rating": "4.6",
+      "users": "3亿+",
+      "review": "画面稳定清晰，虚拟背景很好用，AI 字幕显示效果棒，开视频会议体验一流！",
+      "url": "https://zoom.us/download",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_discord_app",
+      "name": "Discord",
+      "type": "app",
+      "category": [
+        "programmer",
+        "student"
+      ],
+      "icon": "https://discord.com/assets/favicon.ico",
+      "desc": "游戏圈和开发者社区最流行的桌面客户端，语音/视频/文字三合一，程序员技术社群的聚集地。",
+      "rating": "4.7",
+      "users": "1.9亿+",
+      "review": "加入技术社群讨论问题效率极高，语音和文字频道分开清晰，比微信群强太多！",
+      "url": "https://discord.com/download",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_telegram",
+      "name": "Telegram",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://telegram.org/favicon.ico",
+      "desc": "全球最快且最安全的即时通讯 App，端对端加密、频道/群组管理、Bot 自动化，隐私保护首选通讯工具。",
+      "rating": "4.8",
+      "users": "9亿+",
+      "review": "传输文件不限大小速度超快，频道功能很实用，隐私保护比微信好太多，国际沟通必备！",
+      "url": "https://telegram.org",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_obsidian",
+      "name": "Obsidian",
+      "type": "app",
+      "category": [
+        "researcher",
+        "writer",
+        "programmer"
+      ],
+      "icon": "https://obsidian.md/favicon.ico",
+      "desc": "本地优先的双向链接笔记工具，Markdown 格式数据完全由自己掌控，知识图谱可视化，构建个人第二大脑。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "知识双向链接改变了思维方式，构建个人知识库后效率和创意都提升明显！",
+      "url": "https://obsidian.md",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_notion_app",
+      "name": "Notion",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office",
+        "researcher",
+        "entrepreneur"
+      ],
+      "icon": "https://www.notion.so/images/favicon.ico",
+      "desc": "全能知识管理移动端，笔记、文档、任务全覆盖，内置 AI 助手，随时随地管理所有信息。网站版可在「网站」Tab 使用。",
+      "rating": "4.7",
+      "users": "3,000万+",
+      "review": "手机追加笔记、查看项目进度都很顺畅，Notion AI 总结会议记录超方便！",
+      "url": "https://www.notion.so/mobile",
+      "platform": "iOS / Android / Windows / macOS"
+    },
+    {
+      "id": "a_loom_app",
+      "name": "Loom",
+      "type": "app",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=loom.com",
+      "desc": "Loom 桌面客户端，一键录制屏幕，自动上传生成链接，性能比网页版更稳定。Chrome 插件版可在「插件」Tab 安装。",
+      "rating": "4.6",
+      "users": "5,000,000+",
+      "review": "桌面版录屏比浏览器插件更稳定，大文件上传更快，录制课程和教程的首选！",
+      "url": "https://www.loom.com/download",
+      "platform": "Windows / macOS"
+    },
+    {
+      "id": "a_figma_app",
+      "name": "Figma Desktop",
+      "type": "app",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "icon": "https://static.figma.com/app/icon/1/favicon.ico",
+      "desc": "Figma 桌面客户端，原生性能更快、支持本地字体、可离线工作，UI/UX 设计师的日常主力工具。",
+      "rating": "4.9",
+      "users": "400万+",
+      "review": "桌面版响应比网页版快很多，设计大型项目不卡顿，支持本地字体太方便！",
+      "url": "https://www.figma.com/downloads/",
+      "platform": "Windows / macOS"
+    },
+    {
+      "id": "a_github_desktop",
+      "name": "GitHub Desktop",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://github.githubassets.com/favicons/favicon.svg",
+      "desc": "GitHub 官方桌面客户端，可视化 Git 提交、分支管理、Pull Request，不熟悉命令行的开发者首选。",
+      "rating": "4.6",
+      "users": "500万+",
+      "review": "可视化 Git 操作对初学者太友好了，分支对比清晰直观，再也不用记那么多 git 命令！",
+      "url": "https://desktop.github.com",
+      "platform": "Windows / macOS"
+    },
+    {
+      "id": "a_tableplus",
+      "name": "TablePlus",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://tableplus.com/resources/favicons/favicon-32x32.png",
+      "desc": "颜值最高的数据库 GUI 客户端，支持 MySQL/PostgreSQL/SQLite/Redis 等，原生性能快，开发者必备。",
+      "rating": "4.8",
+      "users": "50万+",
+      "review": "界面比 Navicat 漂亮，速度快，支持那么多数据库，切换项目环境方便，开发者必装！",
+      "url": "https://tableplus.com",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_raycast",
+      "name": "Raycast",
+      "type": "app",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.raycast.com/favicon-production.png",
+      "desc": "macOS 效率神器，快捷键唤出 AI 对话、翻译、代码，集成 GitHub/Linear/Notion，全键盘工作流，程序员必装。",
+      "rating": "4.9",
+      "users": "50万+",
+      "review": "彻底改变了 macOS 工作流，全键盘操作唤出一切，没有任何理由不用 Raycast！",
+      "url": "https://www.raycast.com",
+      "platform": "macOS"
+    },
+    {
+      "id": "a_1password_app",
+      "name": "1Password",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=1password.com",
+      "desc": "行业标杆密码管理器，本地加密跨平台同步，浏览器自动填充，Teams 共享功能完善，保护数字资产首选。",
+      "rating": "4.8",
+      "users": "1,500万+",
+      "review": "再也不用记密码，每个网站独特强密码，安全性大幅提升，家庭共享功能很方便！",
+      "url": "https://1password.com",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_things",
+      "name": "Things 3",
+      "type": "app",
+      "category": [
+        "programmer",
+        "designer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=culturedcode.com",
+      "desc": "macOS/iOS 最优雅的任务管理 App，自然语言快速添加任务，今日视图、Areas 分区，GTD 方法论完美实现。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "用了 Things 3 就再也不想用其他任务 App，界面美到极致，GTD 实践最佳选择！",
+      "url": "https://culturedcode.com/things/",
+      "platform": "macOS / iOS"
+    },
+    {
+      "id": "a_docker",
+      "name": "Docker Desktop",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=docker.com",
+      "desc": "现代开发必备容器化平台，一键创建隔离开发环境，告别「我电脑上能跑」问题，Dev Container 开发新范式。",
+      "rating": "4.6",
+      "users": "2,000万+",
+      "review": "团队开发环境用 Docker 统一，再也没有环境不一致问题，新同事当天就能开发！",
+      "url": "https://www.docker.com/products/docker-desktop/",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_davinci",
+      "name": "DaVinci Resolve",
+      "type": "app",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=blackmagicdesign.com",
+      "desc": "好莱坞级专业视频剪辑软件，完整版完全免费！剪辑、调色、特效、音频后期四合一，超越 Premiere 的行业新标准。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "完整版完全免费，调色功能比 Premiere 强太多，Up 主和独立电影人的首选，良心神器！",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_capcut",
+      "name": "剪映 / CapCut",
+      "type": "app",
+      "category": [
+        "marketer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=capcut.com",
+      "desc": "字节跳动出品的 AI 视频剪辑工具，一键生成字幕、AI 添加特效、模板剪辑极简，短视频创作者必备神器。",
+      "rating": "4.8",
+      "users": "3亿+",
+      "review": "一键生成字幕准确率超高，AI 特效效果惊艳，做短视频从剪辑到发布效率提升 5 倍！",
+      "url": "https://www.capcut.com/download",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_lf_app",
+      "name": "飞书",
+      "type": "app",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=feishu.cn",
+      "desc": "字节跳动出品一体化协作平台客户端，文档、会议、IM 全功能，桌面/移动双端体验流畅。网站版可在「网站」Tab 使用。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "桌面通知及时，文档协作丝滑，多维表强大，是国内最好的企业协作工具！",
+      "url": "https://www.feishu.cn/download",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_iina",
+      "name": "IINA",
+      "type": "app",
+      "category": [
+        "office",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=iina.io",
+      "desc": "macOS 上颜值最高的开源视频播放器，支持几乎所有视频格式，原生外观，支持 Touch Bar 和 Apple Silicon。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "macOS 上最好看的播放器，什么格式都能播，完全免费开源，VLC 的完美替代品！",
+      "url": "https://iina.io",
+      "platform": "macOS"
+    },
+    {
+      "id": "a_cleanmymac",
+      "name": "CleanMyMac X",
+      "type": "app",
+      "category": [
+        "designer",
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cleanmymac.com",
+      "desc": "macOS 系统清理优化神器，一键删除垃圾文件、卸载应用残留、扫描恶意软件，让 Mac 恢复速度如新机。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "Mac 用了两年变慢，CleanMyMac 清理完立刻快了很多，卸载应用清理残留的功能特别实用！",
+      "url": "https://cleanmymac.com",
+      "platform": "macOS"
+    },
+    {
+      "id": "a_proxyman",
+      "name": "Proxyman",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=proxyman.io",
+      "desc": "macOS 上颜值最高的 HTTP 抓包工具，拦截 App 和浏览器请求，调试 API、排查网络问题的开发必备工具。",
+      "rating": "4.8",
+      "users": "20万+",
+      "review": "比 Charles 好看 10 倍，操作也更直观，抓包调试 API 效率提升明显，Mac 开发者必装！",
+      "url": "https://proxyman.io",
+      "platform": "macOS / iOS"
+    },
+    {
+      "id": "a_claude_app",
+      "name": "Claude App",
+      "type": "app",
+      "category": [
+        "writer",
+        "researcher",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=claude.ai",
+      "desc": "Anthropic 官方 AI 应用，Opus 长文本理解最强，Projects 知识库沉浸式写作，200K 上下文随身携带随时可用。",
+      "rating": "4.8",
+      "users": "5,000万+",
+      "review": "写作和分析用 Claude 最靠谱，长文档理解不漏细节，移动端随时有 AI 陪伴！",
+      "url": "https://claude.ai/download",
+      "platform": "iOS / Android / macOS / Windows"
+    },
+    {
+      "id": "a_intellij",
+      "name": "IntelliJ IDEA",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=jetbrains.com",
+      "desc": "Java 开发首选 IDE，智能代码补全、深度重构、Spring 生态无缝集成，大型 Java 项目必备工具。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "Java 开发用 IDEA 效率是 Eclipse 的 3 倍，智能提示太顺手，框架支持开箱即用！",
+      "url": "https://www.jetbrains.com/idea/",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_gitkraken",
+      "name": "GitKraken",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=gitkraken.com",
+      "desc": "可视化 Git 客户端，界面美观直观，分支树可视化、冲突解决、内置代码编辑，复杂 Git 操作神器。",
+      "rating": "4.7",
+      "users": "50万+",
+      "review": "分支图可视化清晰，解决 merge conflict 比命令行快 10 倍，团队协作必备！",
+      "url": "https://www.gitkraken.com",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_everything",
+      "name": "Everything — 全盘秒搜",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=voidtools.com",
+      "desc": "Windows 文件秒搜神器，0.1 秒定位全盘任意文件，比系统搜索快 1000 倍，开发者和重度用户必装。",
+      "rating": "4.9",
+      "users": "1,000万+",
+      "review": "搜文件比 Finder/资源管理器快 1000 倍，输完名字结果已经出来，Windows 必装！",
+      "url": "https://www.voidtools.com",
+      "platform": "Windows"
+    },
+    {
+      "id": "a_powertoys",
+      "name": "PowerToys",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=microsoft.com",
+      "desc": "微软官方免费效率套件，FancyZones 窗口布局、PowerRename 批量改名、Color Picker、键盘映射 10+ 实用工具。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "FancyZones 多屏布局神器，运行 Run 快速启动，Color Picker 取色随手用，白送的效率神器！",
+      "url": "https://aka.ms/powertoys",
+      "platform": "Windows"
+    },
+    {
+      "id": "a_snipaste",
+      "name": "Snipaste — 截图贴图",
+      "type": "app",
+      "category": [
+        "programmer",
+        "designer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=snipaste.com",
+      "desc": "截图+贴图神器，F1 截图 F3 贴屏幕，标注/像素级取色/固定悬浮，开发和设计查图必备。",
+      "rating": "4.9",
+      "users": "500万+",
+      "review": "贴图功能改变了工作流，对照参考图写代码再也不用来回切换窗口了！",
+      "url": "https://www.snipaste.com",
+      "platform": "Windows / macOS"
+    },
+    {
+      "id": "a_localsend",
+      "name": "LocalSend — 跨设备传输",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=localsend.org",
+      "desc": "完全免费开源跨设备文件传输，局域网内无需联网，速度和 AirDrop 一样快，Windows/Mac/手机全支持。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "不用微信传文件压画质了，手机和电脑互传文件即时秒传，开源免费真良心！",
+      "url": "https://localsend.org",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_termius",
+      "name": "Termius — SSH 客户端",
+      "type": "app",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=termius.com",
+      "desc": "跨平台 SSH 客户端，美观界面，主机分组管理、加密同步配置、SFTP 文件传输，运维开发首选。",
+      "rating": "4.7",
+      "users": "100万+",
+      "review": "管理十几台服务器用 Termius，分组清晰，手机平板也能 SSH，运维效率大升！",
+      "url": "https://termius.com",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_blender",
+      "name": "Blender",
+      "type": "app",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=blender.org",
+      "desc": "开源免费 3D 建模、动画、渲染全能工具，好莱坞级别特效，替代 Maya 和 Cinema 4D，完全免费。",
+      "rating": "4.8",
+      "users": "600万+",
+      "review": "完全免费的 3D 软件做到这个级别太惊人，建模/渲染/动画全都有，替代 Cinema 4D 绰绰有余！",
+      "url": "https://www.blender.org",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_affinity_designer",
+      "name": "Affinity Designer",
+      "type": "app",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=affinity.serif.com",
+      "desc": "高性价比矢量设计软件，一次性买断无订阅，替代 Illustrator，支持 UI 设计/插画，Mac/Win 全平台。",
+      "rating": "4.8",
+      "users": "200万+",
+      "review": "买断制替代 Adobe 订阅，功能完全够用，省了一大笔钱，设计师必看的 AI 替代方案！",
+      "url": "https://affinity.serif.com/designer",
+      "platform": "Windows / macOS / iOS"
+    },
+    {
+      "id": "a_audacity",
+      "name": "Audacity — 音频编辑",
+      "type": "app",
+      "category": [
+        "designer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=audacityteam.org",
+      "desc": "完全免费开源的专业音频编辑器，录音/剪辑/降噪/格式转换，播客制作和音频处理首选。",
+      "rating": "4.7",
+      "users": "1,000万+",
+      "review": "录播客用 Audacity 降噪效果很好，完全免费，功能不输专业软件！",
+      "url": "https://www.audacityteam.org",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_lightroom",
+      "name": "Lightroom — 修图调色",
+      "type": "app",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lightroom.adobe.com",
+      "desc": "全球最流行的专业照片管理和调色工具，非破坏性编辑、预设一键应用、云端同步，摄影师必备。",
+      "rating": "4.7",
+      "users": "2,000万+",
+      "review": "RAW 照片调色就用 Lightroom，预设一键调出电影感，批量处理一次搞定！",
+      "url": "https://lightroom.adobe.com",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_anki",
+      "name": "Anki — 间隔重复",
+      "type": "app",
+      "category": [
+        "student",
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=apps.ankiweb.net",
+      "desc": "基于间隔重复算法的记忆软件，背单词/医学/法律知识高效不遗忘，开源免费，全平台同步。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "用了 Anki 备考效率提升了 3 倍，科学间隔让背过的东西真的能记住！",
+      "url": "https://apps.ankiweb.net",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_zotero_app",
+      "name": "Zotero 文献管理",
+      "type": "app",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=zotero.org",
+      "desc": "开源文献管理桌面软件，自动抓取文献信息，PDF 标注同步，一键生成引用格式，科研人员必备。",
+      "rating": "4.8",
+      "users": "500万+",
+      "review": "论文文献组织整洁，PDF 批注同步到手机，生成引用格式一键完成，写论文效率翻倍！",
+      "url": "https://www.zotero.org/download",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_mendeley",
+      "name": "Mendeley — 文献社交",
+      "type": "app",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=mendeley.com",
+      "desc": "Elsevier 旗下文献管理与学术社交平台，自动识别 PDF 文献信息，推荐相关论文，免费 2GB 云端同步。",
+      "rating": "4.6",
+      "users": "800万+",
+      "review": "自动识别 PDF 里的文献信息很准，推荐相关论文功能发现了很多好论文！",
+      "url": "https://www.mendeley.com",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_wps",
+      "name": "WPS Office",
+      "type": "app",
+      "category": [
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=wps.cn",
+      "desc": "国产办公套件全平台版，Word/Excel/PPT 全兼容，WPS AI 内置，免费版功能够用，中文办公首选。",
+      "rating": "4.6",
+      "users": "5亿+",
+      "review": "完全兼容微软格式，WPS AI 写文档很顺手，手机端免费编辑文档，国内办公必装！",
+      "url": "https://www.wps.cn",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_dingtalk",
+      "name": "钉钉",
+      "type": "app",
+      "category": [
+        "office",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=dingtalk.com",
+      "desc": "阿里智能移动办公平台，视频会议、协同文档、考勤审批、企业 AI，国内中小企业数字化标配工具。",
+      "rating": "4.5",
+      "users": "7亿+",
+      "review": "公司用钉钉管考勤和审批，一个 App 搞定沟通和行政，AI 文档总结很实用！",
+      "url": "https://www.dingtalk.com",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_teams",
+      "name": "Microsoft Teams",
+      "type": "app",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=teams.microsoft.com",
+      "desc": "微软生态协作中枢，聊天+视频会议+Word/Excel 协作+SharePoint 一体化，跨国企业必备协作工具。",
+      "rating": "4.5",
+      "users": "3亿+",
+      "review": "与 Office 365 深度集成，开会同时协作文档，跨国团队协作体验一流！",
+      "url": "https://www.microsoft.com/teams",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_onedrive",
+      "name": "OneDrive",
+      "type": "app",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=onedrive.live.com",
+      "desc": "微软官方云存储，与 Windows 和 Office 无缝集成，文件自动同步，5GB 免费存储，订阅 M365 附送 1TB。",
+      "rating": "4.5",
+      "users": "5亿+",
+      "review": "Windows 上最无感的云同步工具，截图自动上传，多设备编辑 Word 从不丢失！",
+      "url": "https://onedrive.live.com",
+      "platform": "Windows / macOS / iOS / Android"
+    },
+    {
+      "id": "a_sevenzip",
+      "name": "7-Zip — 解压神器",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=7-zip.org",
+      "desc": "完全免费开源压缩神器，压缩率超越 WinRAR，支持 ZIP/7Z/TAR/ISO 等几乎所有格式，无广告无捆绑。",
+      "rating": "4.9",
+      "users": "3亿+",
+      "review": "免费开源压缩率高，彻底告别 WinRAR 弹窗广告，格式支持最全，Windows 必装！",
+      "url": "https://www.7-zip.org",
+      "platform": "Windows / Linux"
+    },
+    {
+      "id": "a_potplayer",
+      "name": "PotPlayer — 全能播放器",
+      "type": "app",
+      "category": [
+        "office",
+        "student",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=potplayer.daum.net",
+      "desc": "Windows 最强视频播放器，无广告无捆绑、支持所有视频格式、硬件解码 4K 流畅、字幕挂载，完全免费。",
+      "rating": "4.9",
+      "users": "5,000万+",
+      "review": "什么视频格式都能放，4K 流畅无压力，字幕加载方便，彻底替代了其他播放器！",
+      "url": "https://potplayer.daum.net",
+      "platform": "Windows"
+    },
+    {
+      "id": "a_vlc",
+      "name": "VLC — 开源播放器",
+      "type": "app",
+      "category": [
+        "office",
+        "student",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=videolan.org",
+      "desc": "全球最受欢迎的开源跨平台媒体播放器，几乎支持所有音视频格式，无需安装解码包，跨平台首选。",
+      "rating": "4.8",
+      "users": "5亿+",
+      "review": "跨平台终极播放器，Windows/Mac/Linux/iOS 都能用，格式兼容性无敌，开源免费！",
+      "url": "https://www.videolan.org/vlc/",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_handbrake",
+      "name": "HandBrake — 视频转码",
+      "type": "app",
+      "category": [
+        "designer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=handbrake.fr",
+      "desc": "开源免费视频转码工具，将高码率大视频压缩转换为更小文件，画质损失极低，批量转码神器。",
+      "rating": "4.7",
+      "users": "500万+",
+      "review": "把 4K 原始素材压缩到可发送的大小，画质超预期，批量处理一键完成，开源免费！",
+      "url": "https://handbrake.fr",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_huorong",
+      "name": "火绒安全",
+      "type": "app",
+      "category": [
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=huorong.cn",
+      "desc": "轻量国产安全软件，极低资源占用、弹窗拦截、广告过滤、文件联网管控，彻底告别流氓软件困扰。",
+      "rating": "4.8",
+      "users": "1,000万+",
+      "review": "安装火绒彻底消灭了弹窗广告，系统干净清爽，比 360 省内存，国产安全软件的天花板！",
+      "url": "https://www.huorong.cn",
+      "platform": "Windows"
+    },
+    {
+      "id": "a_bitwarden_app",
+      "name": "Bitwarden — 密码管理",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bitwarden.com",
+      "desc": "开源免费密码管理器，端对端加密，跨平台无限设备同步，自动填充，完全开源可自托管。",
+      "rating": "4.8",
+      "users": "1,500万+",
+      "review": "完全免费无设备限制，开源代码安全可审计，替代 LastPass 的最佳选择！",
+      "url": "https://bitwarden.com/download",
+      "platform": "Windows / macOS / Linux / iOS / Android"
+    },
+    {
+      "id": "a_idm",
+      "name": "IDM — 下载加速",
+      "type": "app",
+      "category": [
+        "programmer",
+        "office",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=internetdownloadmanager.com",
+      "desc": "Windows 最强下载加速器，多线程并发下载提速 5 倍，媒体捕获、断点续传、计划下载，专业级下载工具。",
+      "rating": "4.7",
+      "users": "1亿+",
+      "review": "下载速度是浏览器的 5 倍，网页视频一键捕获下载，大文件下载必装！",
+      "url": "https://www.internetdownloadmanager.com",
+      "platform": "Windows"
+    },
+    {
+      "id": "w_biorender",
+      "name": "BioRender — 生物医学绘图",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=biorender.com",
+      "desc": "生物医学科研绘图神器，内置10万+专业图标（细胞、分子、器官、实验装置），拖拽即可绘制出版级示意图，Nature/Cell/Science 论文标配。",
+      "rating": "4.9",
+      "users": "200万+",
+      "review": "画细胞信号通路图和实验流程图效率提升10倍，图标库太全了，直接达到顶刊投稿要求！",
+      "url": "https://www.biorender.com"
+    },
+    {
+      "id": "w_rawgraphs",
+      "name": "RAWgraphs — 高级数据可视化",
+      "type": "website",
+      "category": [
+        "researcher",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=rawgraphs.io",
+      "desc": "免费开源的高级图表可视化工具，支持小提琴图、弧线图、桑基图、蜂巢图等科研常用图型，上传 CSV 直接生成 SVG 矢量图，论文配图必备。",
+      "rating": "4.7",
+      "users": "50万+",
+      "review": "桑基图和小提琴图一键生成，导出 SVG 直接用于论文，免费无广告，数据可视化必收藏！",
+      "url": "https://app.rawgraphs.io"
+    },
+    {
+      "id": "w_datawrapper",
+      "name": "Datawrapper — 出版级图表",
+      "type": "website",
+      "category": [
+        "researcher",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=datawrapper.de",
+      "desc": "专业出版级图表工具，《纽约时报》《经济学人》御用，上传数据即生成美观图表，可嵌入网页，免费无限图表数量。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "折线图、地图、散点图一键生成，配色专业，导出图片直接投稿没问题！",
+      "url": "https://www.datawrapper.de"
+    },
+    {
+      "id": "w_figdraw",
+      "name": "Figdraw — 国产生物医学绘图",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=figdraw.com",
+      "desc": "国产生物医学科研绘图平台，中文界面友好，海量医学/生物图标模板，支持导出高分辨率图片，BioRender 的国内平替首选。",
+      "rating": "4.7",
+      "users": "50万+",
+      "review": "国内访问快，中文友好，图标库很全，画实验流程图和机制图效率媲美 BioRender！",
+      "url": "https://www.figdraw.com"
+    },
+    {
+      "id": "w_flourish",
+      "name": "Flourish — 动态数据可视化",
+      "type": "website",
+      "category": [
+        "researcher",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=flourish.studio",
+      "desc": "动态数据可视化神器，条形图竞赛、地图动画、气泡图均可生成，适合学术展示和论文数据动态呈现，内嵌分享链接直接用。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "做学术汇报时展示数据变化趋势效果惊艳，动态条形图吸引眼球，完全免费！",
+      "url": "https://flourish.studio"
+    },
+    {
+      "id": "w_bioicons",
+      "name": "Bioicons — 免费生物图标库",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=bioicons.com",
+      "desc": "免费开源的生物科研 SVG 图标库，涵盖细胞、微生物、实验器材、生物分子等，CC0 协议可商用，直接下载 SVG 插入 Illustrator 或 PPT。",
+      "rating": "4.8",
+      "users": "30万+",
+      "review": "完全免费可商用，图标质量媲美付费软件，配合 Illustrator 做论文示意图效率超高！",
+      "url": "https://bioicons.com"
+    },
+    {
+      "id": "w_overleaf",
+      "name": "Overleaf — 在线 LaTeX 编辑",
+      "type": "website",
+      "category": [
+        "researcher",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=overleaf.com",
+      "desc": "全球最流行的在线 LaTeX 编辑器，无需本地安装，实时编译，多人协作，内置 Nature/IEEE/ACM 等3000+期刊模板，论文投稿必备。",
+      "rating": "4.9",
+      "users": "1,200万+",
+      "review": "写论文再也不需要在本地配 LaTeX 环境了，在线编译快，多人协作方便，顶刊模板直接用！",
+      "url": "https://www.overleaf.com"
+    },
+    {
+      "id": "a_graphpad",
+      "name": "GraphPad Prism — 统计绘图",
+      "type": "app",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=graphpad.com",
+      "desc": "生物医学科研统计绘图黄金标准，t检验/ANOVA/生存分析一键完成，同步生成出版级图表，Nature/Cell/Science 论文数据分析首选。",
+      "rating": "4.9",
+      "users": "100万+",
+      "review": "统计分析和绘图一体化，学完就能出数据，柱状图+误差线+显著性标注三步搞定，科研必备！",
+      "url": "https://www.graphpad.com",
+      "platform": "Windows / macOS"
+    },
+    {
+      "id": "a_origin",
+      "name": "Origin — 科学数据分析绘图",
+      "type": "app",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=originlab.com",
+      "desc": "科研数据分析与专业绘图工具，支持3D图、非线性拟合、信号处理、峰值分析，物理/化学/材料领域顶刊图件标配。",
+      "rating": "4.8",
+      "users": "100万+",
+      "review": "画3D曲面图和非线性拟合曲线效果无敌，导出的矢量图直接达到 PRL 投稿水平！",
+      "url": "https://www.originlab.com",
+      "platform": "Windows"
+    },
+    {
+      "id": "a_inkscape",
+      "name": "Inkscape — 开源矢量绘图",
+      "type": "app",
+      "category": [
+        "researcher",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=inkscape.org",
+      "desc": "完全免费开源的专业矢量图编辑工具，可编辑 SVG/PDF，拼合多图、绘制流程图和示意图，Adobe Illustrator 的免费替代神器。",
+      "rating": "4.7",
+      "users": "200万+",
+      "review": "完全免费开源，功能媲美 Illustrator，用来拼合论文图和调整矢量示意图非常顺手！",
+      "url": "https://inkscape.org",
+      "platform": "Windows / macOS / Linux"
+    },
+    {
+      "id": "a_vosviewer",
+      "name": "VOSviewer — 文献知识图谱",
+      "type": "app",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=vosviewer.com",
+      "desc": "文献计量可视化领导者，生成作者共引、关键词共现、机构合作等精美知识图谱，适合系统综述和CiteSpace的现代替代品。",
+      "rating": "4.8",
+      "users": "50万+",
+      "review": "画关键词共现图谱美观度比 CiteSpace 高几个档次，免费，操作也简单，做文献综述必用！",
+      "url": "https://www.vosviewer.com",
+      "platform": "Windows / macOS / Linux"
+    }
+  ]
+}

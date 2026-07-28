@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>超好用工具集 — 精选各行业最强工具</title>
+  <meta name="description" content="精选各行业最好用的工具，覆盖 Chrome 插件、在线网站、桌面应用，程序员/设计师/学生/营销/科研一网打尽。">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div class="app-container">
+
+    <!-- ── 侧边栏 ── -->
+    <aside class="sidebar">
+      <div class="logo">
+        <div class="logo-icon-wrap">
+          <img src="icons/logo.png" alt="ToolHub Logo" class="logo-img">
+        </div>
+        <div>
+          <span class="logo-text">ToolHub</span>
+          <span class="logo-sub" data-i18n="logo_sub">超好用工具集</span>
+        </div>
+      </div>
+
+      <!-- 【一级】行业筛选 -->
+      <span class="category-label" data-i18n="label_industry">行业筛选</span>
+      <nav class="cat-list" id="profList"></nav>
+
+      <!-- 【二级】平台筛选：移至顶部搜索栏 -->
+
+
+      <!-- 底部状态 -->
+      <div class="sidebar-bottom">
+        <div class="sync-card">
+          <div class="sync-row">
+            <span class="sync-dot success" id="syncDot"></span>
+            <span class="sync-label" id="syncLabel" data-i18n="sync_ready">精选数据已就绪</span>
+            <button class="refresh-btn" id="refreshBtn" data-i18n-title="sync_refresh_title" title="同步最新数据">
+              <span class="icon-refresh">↺</span>
+            </button>
+          </div>
+          <div class="sync-time" id="syncTime" data-i18n="sync_time_default">持续更新 · 严格筛选</div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- ── 主内容区 ── -->
+    <main class="main-content">
+
+      <!-- 顶部搜索栏 + 语言选择 -->
+      <header class="top-header">
+        <div class="search-bar">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" data-i18n-placeholder="search_placeholder" placeholder="搜索工具名称、功能或场景...">
+          <button class="search-clear" id="searchClear" style="display:none;">
+            <span>✕</span>
+          </button>
+        </div>
+
+        <!-- 平台类型切换器（水平 tab，从侧边栏移来） -->
+        <nav class="type-tab-bar" id="typeSwitcher">
+          <a href="#" class="type-tab active" data-type="all" id="typeAll">
+            <span data-i18n="type_all">全部</span>
+          </a>
+          <a href="#" class="type-tab" data-type="plugin" id="typePlugin">
+            <span data-i18n="type_plugin">🧩 插件</span>
+          </a>
+          <a href="#" class="type-tab" data-type="website" id="typeWebsite">
+            <span data-i18n="type_website">🌐 网站</span>
+          </a>
+          <a href="#" class="type-tab" data-type="app" id="typeApp">
+            <span data-i18n="type_app">📦 应用</span>
+          </a>
+        </nav>
+
+        <!-- 语言选择器 -->
+        <div class="lang-selector" id="langSelector">
+          <button class="lang-btn" id="langBtn" title="切换语言 / Switch Language">
+            <span class="lang-globe">🌐</span>
+            <span class="lang-current" id="langCurrent">中文</span>
+            <span class="lang-arrow" id="langArrow">▾</span>
+          </button>
+          <div class="lang-dropdown" id="langDropdown">
+            <div class="lang-search-wrap">
+              <span class="search-icon">🔍</span>
+              <input type="text" class="lang-search-input" id="langSearch" data-i18n-placeholder="lang_search" placeholder="搜索语言...">
+            </div>
+            <ul class="lang-list" id="langList">
+              <li class="lang-item active" data-lang="zh-CN" data-label="中文"><span class="lang-flag">🇨🇳</span><span class="lang-name">简体中文</span></li>
+              <li class="lang-item" data-lang="en"    data-label="EN"   ><span class="lang-flag">🇺🇸</span><span class="lang-name">English</span></li>
+              <li class="lang-item" data-lang="ja"    data-label="日本語"><span class="lang-flag">🇯🇵</span><span class="lang-name">日本語</span></li>
+              <li class="lang-item" data-lang="ko"    data-label="한국어"><span class="lang-flag">🇰🇷</span><span class="lang-name">한국어</span></li>
+              <li class="lang-item" data-lang="es"    data-label="ES"   ><span class="lang-flag">🇪🇸</span><span class="lang-name">Español</span></li>
+              <li class="lang-item" data-lang="fr"    data-label="FR"   ><span class="lang-flag">🇫🇷</span><span class="lang-name">Français</span></li>
+              <li class="lang-item" data-lang="de"    data-label="DE"   ><span class="lang-flag">🇩🇪</span><span class="lang-name">Deutsch</span></li>
+              <li class="lang-item" data-lang="pt"    data-label="PT"   ><span class="lang-flag">🇧🇷</span><span class="lang-name">Português</span></li>
+              <li class="lang-item" data-lang="ru"    data-label="RU"   ><span class="lang-flag">🇷🇺</span><span class="lang-name">Русский</span></li>
+              <li class="lang-item" data-lang="ar"    data-label="AR"   ><span class="lang-flag">🇸🇦</span><span class="lang-name">العربية</span></li>
+              <li class="lang-item" data-lang="hi"    data-label="HI"   ><span class="lang-flag">🇮🇳</span><span class="lang-name">हिन्दी</span></li>
+              <li class="lang-item" data-lang="it"    data-label="IT"   ><span class="lang-flag">🇮🇹</span><span class="lang-name">Italiano</span></li>
+              <li class="lang-item" data-lang="tr"    data-label="TR"   ><span class="lang-flag">🇹🇷</span><span class="lang-name">Türkçe</span></li>
+              <li class="lang-item" data-lang="pl"    data-label="PL"   ><span class="lang-flag">🇵🇱</span><span class="lang-name">Polski</span></li>
+              <li class="lang-item" data-lang="nl"    data-label="NL"   ><span class="lang-flag">🇳🇱</span><span class="lang-name">Nederlands</span></li>
+              <li class="lang-item" data-lang="vi"    data-label="VI"   ><span class="lang-flag">🇻🇳</span><span class="lang-name">Tiếng Việt</span></li>
+              <li class="lang-item" data-lang="th"    data-label="TH"   ><span class="lang-flag">🇹🇭</span><span class="lang-name">ภาษาไทย</span></li>
+              <li class="lang-item" data-lang="id"    data-label="ID"   ><span class="lang-flag">🇮🇩</span><span class="lang-name">Bahasa Indonesia</span></li>
+              <li class="lang-item" data-lang="ms"    data-label="MS"   ><span class="lang-flag">🇲🇾</span><span class="lang-name">Bahasa Melayu</span></li>
+              <li class="lang-item" data-lang="zh-TW" data-label="繁中" ><span class="lang-flag">🇹🇼</span><span class="lang-name">繁體中文</span></li>
+            </ul>
+          </div>
+        </div>
+
+      </header>
+
+      <!-- 内容体 -->
+      <div class="content-body">
+
+        <!-- 标题区域 -->
+        <div class="section-head">
+          <div class="section-badge" id="sectionBadge">全部工具</div>
+          <h1 class="section-title" id="sectionTitle">精选工具</h1>
+          <p class="section-sub" id="sectionSub">严格筛选各行业最好用、评分最高的工具，每一个都经过实测推荐</p>
+        </div>
+
+        <!-- 错误横幅 -->
+        <div class="error-banner" id="errorBanner">
+          <span class="warn-icon">⚠️</span>
+          <span data-i18n="error_banner">数据同步遇到问题，当前显示内置精选数据。</span>
+        </div>
+
+        <!-- 工具卡片网格 -->
+        <div class="tools-grid" id="toolsGrid">
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+        </div>
+
+        <!-- 空状态 -->
+        <div class="empty-state" id="emptyState" style="display:none;">
+          <span class="empty-icon">🔍</span>
+          <p data-i18n="empty_title">未找到匹配的工具</p>
+          <span data-i18n="empty_sub">换个关键词或行业试试</span>
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- ── 工具详情侧边面板 ── -->
+  <div class="detail-overlay" id="detailOverlay"></div>
+  <aside class="detail-panel" id="detailPanel">
+    <div class="detail-panel-header">
+      <button class="detail-close-btn" id="detailClose">✕</button>
+    </div>
+    <div class="detail-panel-body" id="detailPanelBody">
+      <!-- 动态内容由 JS 填入 -->
+    </div>
+  </aside>
+
+  <script src="script.js"></script>
+</body>
+</html>
