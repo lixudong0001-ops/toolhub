@@ -1,162 +1,147 @@
 {
-  "started_at": "2026-07-28T12:04:26.920556+00:00",
-  "mode": "purge",
-  "purged_websites": [
+  "started_at": "2026-08-02T22:43:34.989321+00:00",
+  "mode": "full",
+  "added_by_profession": {
+    "programmer": 0,
+    "designer": 0,
+    "writer": 0,
+    "researcher": 0,
+    "marketer": 0,
+    "student": 0,
+    "entrepreneur": 0,
+    "office": 0
+  },
+  "new_plugins": [],
+  "plugins_before": 66,
+  "plugins_after": 66,
+  "plugins_added": 0,
+  "metrics_updated": 66,
+  "purged_websites": [],
+  "purged_count": 0,
+  "websites_added_by_profession": {
+    "programmer": 3,
+    "designer": 3,
+    "writer": 1,
+    "researcher": 3,
+    "marketer": 3,
+    "student": 3,
+    "entrepreneur": 3,
+    "office": 3
+  },
+  "new_websites": [
     {
-      "id": "w_dialup",
-      "name": "WinGPT",
-      "reason": "域名黑名单: dialup.net"
+      "id": "w_trigger",
+      "name": "We built a developer",
+      "url": "https://trigger.dev"
     },
     {
-      "id": "w_ai",
-      "name": "My AI Native Resume",
-      "reason": "命中拒绝关键词"
+      "id": "w_apiparrot",
+      "name": "API Parrot",
+      "url": "https://apiparrot.com"
     },
     {
-      "id": "w_libraria",
-      "name": "Customizable, embeddable Chat GPT based on your own documents",
-      "reason": "与「programmer」领域不匹配"
+      "id": "w_adadot",
+      "name": "Adadot",
+      "url": "https://adadot.com"
     },
     {
-      "id": "w_hestus",
-      "name": "Hestus",
-      "reason": "与「programmer」领域不匹配"
+      "id": "w_velofuso",
+      "name": "I designed an espresso machine and coffee grinder",
+      "url": "https://velofuso.com"
     },
     {
-      "id": "w_figure",
-      "name": "Figure is a daily logic puzzle game",
-      "reason": "域名黑名单: figure.game"
+      "id": "w_graphite",
+      "name": "Graphite, a Blender",
+      "url": "https://graphite.rs"
     },
     {
-      "id": "w_yamanote",
-      "name": "Yamanote.fun",
-      "reason": "域名黑名单: yamanote.fun"
+      "id": "w_vecti",
+      "name": "Vecti",
+      "url": "https://vecti.com"
     },
     {
-      "id": "w_talk",
-      "name": "Get conversational practice in over 20 languages by talking to an AI",
-      "reason": "与「writer」领域不匹配"
+      "id": "w_lessons",
+      "name": "A Japanese learning app focused on efficient vocab/g…",
+      "url": "https://lessons.nihongo-app.com"
     },
     {
-      "id": "w_refine",
-      "name": "Refine",
-      "reason": "缺少工具型产品特征"
+      "id": "w_withtelescope",
+      "name": "I’ve made a cheaper SEO research tool",
+      "url": "https://withtelescope.com"
     },
     {
-      "id": "w_glossarie",
-      "name": "Glossarie",
-      "reason": "与「writer」领域不匹配"
+      "id": "w_explainpaper",
+      "name": "Explainpaper",
+      "url": "https://www.explainpaper.com"
     },
     {
-      "id": "w_itsupport",
-      "name": "Fun tool that cut my family and friends tech support time in half",
-      "reason": "域名黑名单: itsupport.grammable.me"
+      "id": "w_klobie",
+      "name": "A bookmarking tool designed to help synthesize your…",
+      "url": "https://klobie.com"
     },
     {
-      "id": "w_crul",
-      "name": "Crul",
-      "reason": "与「writer」领域不匹配"
+      "id": "w_linkpreview",
+      "name": "Linkpreview, see how your sites looks in social medi…",
+      "url": "https://linkpreview.xyz"
     },
     {
-      "id": "w_phind",
-      "name": "GPT",
-      "reason": "与「researcher」领域不匹配"
+      "id": "w_toolbrew",
+      "name": "Toolbrew",
+      "url": "https://toolbrew.co"
     },
     {
-      "id": "w_exopriors",
-      "name": "Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-      "reason": "与「researcher」领域不匹配"
+      "id": "w_handlefinder",
+      "name": "Handlefinder",
+      "url": "https://www.handlefinder.com"
     },
     {
-      "id": "w_gitdot",
-      "name": "Gitdot",
-      "reason": "与「researcher」领域不匹配"
+      "id": "w_cloudbite",
+      "name": "Flashcards to learn AWS skills",
+      "url": "https://cloudbite.attejuvonen.fi"
     },
     {
-      "id": "w_val",
-      "name": "Val Town",
-      "reason": "与「researcher」领域不匹配"
+      "id": "w_prettypolly",
+      "name": "Learn a language quickly by practising speaking with AI",
+      "url": "https://www.prettypolly.app"
     },
     {
-      "id": "w_opennutrition",
-      "name": "OpenNutrition",
-      "reason": "与「researcher」领域不匹配"
+      "id": "w_platoedu",
+      "name": "Anki/Duolingo",
+      "url": "https://www.platoedu.org"
     },
     {
-      "id": "w_bento",
-      "name": "Bento",
-      "reason": "与「marketer」领域不匹配"
+      "id": "w_monicahq",
+      "name": "Monica, an open",
+      "url": "https://monicahq.com"
     },
     {
-      "id": "w_text",
-      "name": "I built a frontpage for personal blogs",
-      "reason": "域名黑名单: text.blogosphere.app"
+      "id": "w_sfcompute",
+      "name": "San Francisco Compute",
+      "url": "https://sfcompute.org"
     },
     {
-      "id": "w_seven39",
-      "name": "Seven39, a social media app that is only open for 3 hours every evening",
-      "reason": "域名黑名单: seven39.com"
+      "id": "w_wobaka",
+      "name": "Wobaka",
+      "url": "https://wobaka.com"
     },
     {
-      "id": "w_play2048",
-      "name": "2048 turned 10 this year, I built an updated version to celebrate",
-      "reason": "域名黑名单: play2048.co"
+      "id": "w_zenkit",
+      "name": "Zenkit",
+      "url": "https://zenkit.com"
     },
     {
-      "id": "w_xikipedia",
-      "name": "Wikipedia as a doomscrollable social media feed",
-      "reason": "域名黑名单: xikipedia.org"
+      "id": "w_emery",
+      "name": "Emery",
+      "url": "https://emery.to"
     },
     {
-      "id": "w_coderev",
-      "name": "CodeRev.app",
-      "reason": "与「student」领域不匹配"
-    },
-    {
-      "id": "w_dogbunnypuzzle",
-      "name": "I may have created a new type of puzzle",
-      "reason": "域名黑名单: dogbunnypuzzle.com"
-    },
-    {
-      "id": "w_openhunt",
-      "name": "Open Hunt",
-      "reason": "与「entrepreneur」领域不匹配"
-    },
-    {
-      "id": "w_hackernewstrends",
-      "name": "I made Google Trends for Hacker News by indexing 18 years of comments",
-      "reason": "域名黑名单: hackernewstrends.com"
-    },
-    {
-      "id": "w_upbase",
-      "name": "I built my own PM tool after trying Trello, Asana, ClickUp, etc.",
-      "reason": "与「entrepreneur」领域不匹配"
-    },
-    {
-      "id": "w_shop",
-      "name": "Simula One",
-      "reason": "域名黑名单: shop.simulavr.com"
-    },
-    {
-      "id": "w_grafychat",
-      "name": "I built a non",
-      "reason": "命中拒绝关键词"
-    },
-    {
-      "id": "w_speakz",
-      "name": "AI dub tool I made to watch foreign language videos with my 7",
-      "reason": "命中拒绝关键词"
-    },
-    {
-      "id": "w_vimified",
-      "name": "I built an interactive course that helps you learn Vim faster",
-      "reason": "与「office」领域不匹配"
-    },
-    {
-      "id": "w_coffitivity",
-      "name": "Increase your productivity with ambient noise",
-      "reason": "命中拒绝关键词"
+      "id": "w_withdocket",
+      "name": "Withdocket",
+      "url": "https://withdocket.com"
     }
   ],
-  "purged_count": 31
+  "websites_initial": 88,
+  "websites_after_purge": 88,
+  "websites_added": 22,
+  "websites_after": 110
 }

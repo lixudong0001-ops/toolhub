@@ -1340,6 +1340,394 @@
       "users": "30万+",
       "review": "完全免费可商用，图标质量媲美付费软件，配合 Illustrator 做论文示意图效率超高！",
       "url": "https://bioicons.com"
+    },
+    {
+      "id": "w_trigger",
+      "name": "We built a developer",
+      "type": "website",
+      "category": [
+        "programmer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=trigger.dev",
+      "desc": "Show HN: We built a developer-first open-source Zapier alternative",
+      "rating": "4.5",
+      "users": "HN 745+",
+      "review": "",
+      "url": "https://trigger.dev",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_apiparrot",
+      "name": "API Parrot",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=apiparrot.com",
+      "desc": "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
+      "rating": "4.5",
+      "users": "HN 456+",
+      "review": "",
+      "url": "https://apiparrot.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_adadot",
+      "name": "Adadot",
+      "type": "website",
+      "category": [
+        "programmer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=adadot.com",
+      "desc": "Show HN: Adadot – analytics for better, happier developers",
+      "rating": "4.5",
+      "users": "HN 325+",
+      "review": "",
+      "url": "https://adadot.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_velofuso",
+      "name": "I designed an espresso machine and coffee grinder",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=velofuso.com",
+      "desc": "Show HN: I designed an espresso machine and coffee grinder",
+      "rating": "4.5",
+      "users": "HN 797+",
+      "review": "",
+      "url": "https://velofuso.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_graphite",
+      "name": "Graphite, a Blender",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=graphite.rs",
+      "desc": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
+      "rating": "4.5",
+      "users": "HN 785+",
+      "review": "",
+      "url": "https://graphite.rs",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_vecti",
+      "name": "Vecti",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=vecti.com",
+      "desc": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "rating": "4.5",
+      "users": "HN 386+",
+      "review": "",
+      "url": "https://vecti.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_lessons",
+      "name": "A Japanese learning app focused on efficient vocab/g…",
+      "type": "website",
+      "category": [
+        "writer",
+        "designer",
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=lessons.nihongo-app.com",
+      "desc": "Show HN: A Japanese learning app focused on efficient vocab/grammar acquisition",
+      "rating": "4.5",
+      "users": "HN 161+",
+      "review": "",
+      "url": "https://lessons.nihongo-app.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_withtelescope",
+      "name": "I’ve made a cheaper SEO research tool",
+      "type": "website",
+      "category": [
+        "researcher",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=withtelescope.com",
+      "desc": "Show HN: I’ve made a cheaper SEO research tool",
+      "rating": "4.5",
+      "users": "HN 273+",
+      "review": "",
+      "url": "https://withtelescope.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_explainpaper",
+      "name": "Explainpaper",
+      "type": "website",
+      "category": [
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=explainpaper.com",
+      "desc": "Show HN: Explainpaper  – Explain jargon in academic papers with GPT-3",
+      "rating": "4.5",
+      "users": "HN 223+",
+      "review": "",
+      "url": "https://www.explainpaper.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_klobie",
+      "name": "A bookmarking tool designed to help synthesize your…",
+      "type": "website",
+      "category": [
+        "researcher",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=klobie.com",
+      "desc": "Show HN: A bookmarking tool designed to help synthesize your web research",
+      "rating": "4.5",
+      "users": "HN 217+",
+      "review": "",
+      "url": "https://klobie.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_linkpreview",
+      "name": "Linkpreview, see how your sites looks in social medi…",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=linkpreview.xyz",
+      "desc": "Show HN: Linkpreview, see how your sites looks in social media and chat apps",
+      "rating": "4.5",
+      "users": "HN 362+",
+      "review": "",
+      "url": "https://linkpreview.xyz",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_toolbrew",
+      "name": "Toolbrew",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=toolbrew.co",
+      "desc": "Show HN: Toolbrew – Free little tools without signups or ads",
+      "rating": "4.5",
+      "users": "HN 269+",
+      "review": "",
+      "url": "https://toolbrew.co",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_handlefinder",
+      "name": "Handlefinder",
+      "type": "website",
+      "category": [
+        "marketer",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=handlefinder.com",
+      "desc": "Show HN: I built an app that scans every social media network for your username",
+      "rating": "4.5",
+      "users": "HN 219+",
+      "review": "",
+      "url": "https://www.handlefinder.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_cloudbite",
+      "name": "Flashcards to learn AWS skills",
+      "type": "website",
+      "category": [
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloudbite.attejuvonen.fi",
+      "desc": "Show HN: Flashcards to learn AWS skills",
+      "rating": "4.5",
+      "users": "HN 365+",
+      "review": "",
+      "url": "https://cloudbite.attejuvonen.fi",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_prettypolly",
+      "name": "Learn a language quickly by practising speaking with AI",
+      "type": "website",
+      "category": [
+        "student",
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=prettypolly.app",
+      "desc": "Show HN: Learn a language quickly by practising speaking with AI",
+      "rating": "4.5",
+      "users": "HN 325+",
+      "review": "",
+      "url": "https://www.prettypolly.app",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_platoedu",
+      "name": "Anki/Duolingo",
+      "type": "website",
+      "category": [
+        "student"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=platoedu.org",
+      "desc": "Show HN: Anki/Duolingo-like app using educational YouTube videos",
+      "rating": "4.5",
+      "users": "HN 289+",
+      "review": "",
+      "url": "https://www.platoedu.org",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_monicahq",
+      "name": "Monica, an open",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=monicahq.com",
+      "desc": "Show HN: Monica, an open-source CRM to manage friends and family",
+      "rating": "4.5",
+      "users": "HN 1097+",
+      "review": "",
+      "url": "https://monicahq.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_sfcompute",
+      "name": "San Francisco Compute",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "researcher"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=sfcompute.org",
+      "desc": "Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups",
+      "rating": "4.5",
+      "users": "HN 727+",
+      "review": "",
+      "url": "https://sfcompute.org",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_wobaka",
+      "name": "Wobaka",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=wobaka.com",
+      "desc": "Show HN: I made a CRM system to make sales fun",
+      "rating": "4.5",
+      "users": "HN 275+",
+      "review": "",
+      "url": "https://wobaka.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_zenkit",
+      "name": "Zenkit",
+      "type": "website",
+      "category": [
+        "office",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=zenkit.com",
+      "desc": "Show HN: Zenkit – Productivity app of List, Kanban, Spreadsheet and Calendar",
+      "rating": "4.5",
+      "users": "HN 264+",
+      "review": "",
+      "url": "https://zenkit.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_emery",
+      "name": "Emery",
+      "type": "website",
+      "category": [
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=emery.to",
+      "desc": "Show HN: Emery – Personal productivity workspace",
+      "rating": "4.5",
+      "users": "HN 261+",
+      "review": "",
+      "url": "https://emery.to",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_withdocket",
+      "name": "Withdocket",
+      "type": "website",
+      "category": [
+        "office",
+        "designer",
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=withdocket.com",
+      "desc": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
+      "rating": "4.5",
+      "users": "HN 177+",
+      "review": "",
+      "url": "https://withdocket.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-02",
+      "source": "hacker_news"
     }
   ],
   "apps": [
