@@ -1728,6 +1728,182 @@
       "auto_added": true,
       "discovered_at": "2026-08-02",
       "source": "hacker_news"
+    },
+    {
+      "id": "w_phind",
+      "name": "Phind V2",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=phind.com",
+      "desc": "Show HN: Phind V2 – A GPT-4 agent that’s connected to the internet and your code",
+      "rating": "4.5",
+      "users": "HN 221+",
+      "review": "",
+      "url": "https://www.phind.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_superblocks",
+      "name": "Superblocks",
+      "type": "website",
+      "category": [
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=superblocks.com",
+      "desc": "Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs",
+      "rating": "4.5",
+      "users": "HN 193+",
+      "review": "",
+      "url": "https://www.superblocks.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_flycode",
+      "name": "FlyCode",
+      "type": "website",
+      "category": [
+        "programmer",
+        "writer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=flycode.com",
+      "desc": "Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps",
+      "rating": "4.5",
+      "users": "HN 185+",
+      "review": "",
+      "url": "https://www.flycode.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_noya",
+      "name": "Noya",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=noya.io",
+      "desc": "Show HN: Noya – A new kind of design tool",
+      "rating": "4.5",
+      "users": "HN 285+",
+      "review": "",
+      "url": "https://www.noya.io",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_repaint",
+      "name": "Repaint",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=repaint.com",
+      "desc": "Show HN: Repaint – a WebGL based website builder",
+      "rating": "4.5",
+      "users": "HN 236+",
+      "review": "",
+      "url": "https://repaint.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_formito",
+      "name": "Design Stripe or Hacker News",
+      "type": "website",
+      "category": [
+        "designer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=formito.com",
+      "desc": "Show HN: Design Stripe or Hacker News-like favicons in seconds",
+      "rating": "4.5",
+      "users": "HN 199+",
+      "review": "",
+      "url": "https://formito.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_flat",
+      "name": "Flat",
+      "type": "website",
+      "category": [
+        "designer",
+        "office"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=flat.social",
+      "desc": "Show HN: I built a fun video meeting app with 2D physics and proximity chat",
+      "rating": "4.5",
+      "users": "HN 166+",
+      "review": "",
+      "url": "https://flat.social",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_metacheck",
+      "name": "Metacheck",
+      "type": "website",
+      "category": [
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=metacheck.appstate.co",
+      "desc": "Show HN: Metacheck – preview how any link appears on social media and chat apps",
+      "rating": "4.5",
+      "users": "HN 165+",
+      "review": "",
+      "url": "https://metacheck.appstate.co",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_wishminer",
+      "name": "Wishminer",
+      "type": "website",
+      "category": [
+        "marketer",
+        "entrepreneur"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=wishminer.com",
+      "desc": "Show HN: Wishminer – Mining social media for app ideas, my weekend project",
+      "rating": "4.5",
+      "users": "HN 164+",
+      "review": "",
+      "url": "https://wishminer.com",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_nat",
+      "name": "Personal CRM",
+      "type": "website",
+      "category": [
+        "entrepreneur",
+        "writer",
+        "marketer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=nat.app",
+      "desc": "Show HN: Personal CRM: Note taking, the way it should be",
+      "rating": "4.5",
+      "users": "HN 175+",
+      "review": "",
+      "url": "https://nat.app",
+      "auto_added": true,
+      "discovered_at": "2026-08-09",
+      "source": "hacker_news"
     }
   ],
   "apps": [

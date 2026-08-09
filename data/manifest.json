@@ -1,14 +1,14 @@
 {
-  "version": "2026.08.02.2250",
-  "updated_at": "2026-08-02T22:50:46.515662+00:00",
+  "version": "2026.08.09.2225",
+  "updated_at": "2026-08-09T22:25:12.275609+00:00",
   "counts": {
     "plugins": 66,
-    "websites": 110,
+    "websites": 120,
     "apps": 42,
-    "total": 218
+    "total": 228
   },
   "last_run": {
-    "started_at": "2026-08-02T22:43:34.989321+00:00",
+    "started_at": "2026-08-09T22:17:51.100901+00:00",
     "mode": "full",
     "added_by_profession": {
       "programmer": 0,
@@ -30,128 +30,68 @@
     "websites_added_by_profession": {
       "programmer": 3,
       "designer": 3,
-      "writer": 1,
-      "researcher": 3,
+      "writer": 0,
+      "researcher": 0,
       "marketer": 3,
-      "student": 3,
-      "entrepreneur": 3,
-      "office": 3
+      "student": 0,
+      "entrepreneur": 1,
+      "office": 0
     },
     "new_websites": [
       {
-        "id": "w_trigger",
-        "name": "We built a developer",
-        "url": "https://trigger.dev"
+        "id": "w_phind",
+        "name": "Phind V2",
+        "url": "https://www.phind.com"
       },
       {
-        "id": "w_apiparrot",
-        "name": "API Parrot",
-        "url": "https://apiparrot.com"
+        "id": "w_superblocks",
+        "name": "Superblocks",
+        "url": "https://www.superblocks.com"
       },
       {
-        "id": "w_adadot",
-        "name": "Adadot",
-        "url": "https://adadot.com"
+        "id": "w_flycode",
+        "name": "FlyCode",
+        "url": "https://www.flycode.com"
       },
       {
-        "id": "w_velofuso",
-        "name": "I designed an espresso machine and coffee grinder",
-        "url": "https://velofuso.com"
+        "id": "w_noya",
+        "name": "Noya",
+        "url": "https://www.noya.io"
       },
       {
-        "id": "w_graphite",
-        "name": "Graphite, a Blender",
-        "url": "https://graphite.rs"
+        "id": "w_repaint",
+        "name": "Repaint",
+        "url": "https://repaint.com"
       },
       {
-        "id": "w_vecti",
-        "name": "Vecti",
-        "url": "https://vecti.com"
+        "id": "w_formito",
+        "name": "Design Stripe or Hacker News",
+        "url": "https://formito.com"
       },
       {
-        "id": "w_lessons",
-        "name": "A Japanese learning app focused on efficient vocab/g…",
-        "url": "https://lessons.nihongo-app.com"
+        "id": "w_flat",
+        "name": "Flat",
+        "url": "https://flat.social"
       },
       {
-        "id": "w_withtelescope",
-        "name": "I’ve made a cheaper SEO research tool",
-        "url": "https://withtelescope.com"
+        "id": "w_metacheck",
+        "name": "Metacheck",
+        "url": "https://metacheck.appstate.co"
       },
       {
-        "id": "w_explainpaper",
-        "name": "Explainpaper",
-        "url": "https://www.explainpaper.com"
+        "id": "w_wishminer",
+        "name": "Wishminer",
+        "url": "https://wishminer.com"
       },
       {
-        "id": "w_klobie",
-        "name": "A bookmarking tool designed to help synthesize your…",
-        "url": "https://klobie.com"
-      },
-      {
-        "id": "w_linkpreview",
-        "name": "Linkpreview, see how your sites looks in social medi…",
-        "url": "https://linkpreview.xyz"
-      },
-      {
-        "id": "w_toolbrew",
-        "name": "Toolbrew",
-        "url": "https://toolbrew.co"
-      },
-      {
-        "id": "w_handlefinder",
-        "name": "Handlefinder",
-        "url": "https://www.handlefinder.com"
-      },
-      {
-        "id": "w_cloudbite",
-        "name": "Flashcards to learn AWS skills",
-        "url": "https://cloudbite.attejuvonen.fi"
-      },
-      {
-        "id": "w_prettypolly",
-        "name": "Learn a language quickly by practising speaking with AI",
-        "url": "https://www.prettypolly.app"
-      },
-      {
-        "id": "w_platoedu",
-        "name": "Anki/Duolingo",
-        "url": "https://www.platoedu.org"
-      },
-      {
-        "id": "w_monicahq",
-        "name": "Monica, an open",
-        "url": "https://monicahq.com"
-      },
-      {
-        "id": "w_sfcompute",
-        "name": "San Francisco Compute",
-        "url": "https://sfcompute.org"
-      },
-      {
-        "id": "w_wobaka",
-        "name": "Wobaka",
-        "url": "https://wobaka.com"
-      },
-      {
-        "id": "w_zenkit",
-        "name": "Zenkit",
-        "url": "https://zenkit.com"
-      },
-      {
-        "id": "w_emery",
-        "name": "Emery",
-        "url": "https://emery.to"
-      },
-      {
-        "id": "w_withdocket",
-        "name": "Withdocket",
-        "url": "https://withdocket.com"
+        "id": "w_nat",
+        "name": "Personal CRM",
+        "url": "https://nat.app"
       }
     ],
-    "websites_initial": 88,
-    "websites_after_purge": 88,
-    "websites_added": 22,
-    "websites_after": 110
+    "websites_initial": 110,
+    "websites_after_purge": 110,
+    "websites_added": 10,
+    "websites_after": 120
   }
 }
