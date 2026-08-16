@@ -1904,6 +1904,58 @@
       "auto_added": true,
       "discovered_at": "2026-08-09",
       "source": "hacker_news"
+    },
+    {
+      "id": "w_tycho",
+      "name": "TinyClock",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=tycho.sytes.net",
+      "desc": "Show HN: TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI app",
+      "rating": "4.5",
+      "users": "HN 192+",
+      "review": "",
+      "url": "http://tycho.sytes.net",
+      "auto_added": true,
+      "discovered_at": "2026-08-16",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_cssstudio",
+      "name": "CSS Studio. Design by hand, code by agent",
+      "type": "website",
+      "category": [
+        "designer",
+        "programmer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=cssstudio.ai",
+      "desc": "Show HN: CSS Studio. Design by hand, code by agent",
+      "rating": "4.5",
+      "users": "HN 175+",
+      "review": "",
+      "url": "https://cssstudio.ai",
+      "auto_added": true,
+      "discovered_at": "2026-08-16",
+      "source": "hacker_news"
+    },
+    {
+      "id": "w_3dc",
+      "name": "3DC.io",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=3dc.io",
+      "desc": "Show HN: 3DC.io – A dead simple cross-platform 3D design tool",
+      "rating": "4.5",
+      "users": "HN 161+",
+      "review": "",
+      "url": "https://3dc.io",
+      "auto_added": true,
+      "discovered_at": "2026-08-16",
+      "source": "hacker_news"
     }
   ],
   "apps": [

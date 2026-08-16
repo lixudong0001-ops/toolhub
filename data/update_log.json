@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-08-09T22:17:51.100901+00:00",
+  "started_at": "2026-08-16T22:08:43.073852+00:00",
   "mode": "full",
   "added_by_profession": {
     "programmer": 0,
@@ -19,69 +19,34 @@
   "purged_websites": [],
   "purged_count": 0,
   "websites_added_by_profession": {
-    "programmer": 3,
+    "programmer": 0,
     "designer": 3,
     "writer": 0,
     "researcher": 0,
-    "marketer": 3,
+    "marketer": 0,
     "student": 0,
-    "entrepreneur": 1,
+    "entrepreneur": 0,
     "office": 0
   },
   "new_websites": [
     {
-      "id": "w_phind",
-      "name": "Phind V2",
-      "url": "https://www.phind.com"
+      "id": "w_tycho",
+      "name": "TinyClock",
+      "url": "http://tycho.sytes.net"
     },
     {
-      "id": "w_superblocks",
-      "name": "Superblocks",
-      "url": "https://www.superblocks.com"
+      "id": "w_cssstudio",
+      "name": "CSS Studio. Design by hand, code by agent",
+      "url": "https://cssstudio.ai"
     },
     {
-      "id": "w_flycode",
-      "name": "FlyCode",
-      "url": "https://www.flycode.com"
-    },
-    {
-      "id": "w_noya",
-      "name": "Noya",
-      "url": "https://www.noya.io"
-    },
-    {
-      "id": "w_repaint",
-      "name": "Repaint",
-      "url": "https://repaint.com"
-    },
-    {
-      "id": "w_formito",
-      "name": "Design Stripe or Hacker News",
-      "url": "https://formito.com"
-    },
-    {
-      "id": "w_flat",
-      "name": "Flat",
-      "url": "https://flat.social"
-    },
-    {
-      "id": "w_metacheck",
-      "name": "Metacheck",
-      "url": "https://metacheck.appstate.co"
-    },
-    {
-      "id": "w_wishminer",
-      "name": "Wishminer",
-      "url": "https://wishminer.com"
-    },
-    {
-      "id": "w_nat",
-      "name": "Personal CRM",
-      "url": "https://nat.app"
+      "id": "w_3dc",
+      "name": "3DC.io",
+      "url": "https://3dc.io"
     }
   ],
-  "websites_initial": 110,
-  "websites_after_purge": 110,
-  "websites_added": 10,
-  "websites_after": 120
+  "websites_initial": 120,
+  "websites_after_purge": 120,
+  "websites_added": 3,
+  "websites_after": 123
 }
