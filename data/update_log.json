@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-08-16T22:08:43.073852+00:00",
+  "started_at": "2026-08-23T22:09:28.589939+00:00",
   "mode": "full",
   "added_by_profession": {
     "programmer": 0,
@@ -20,7 +20,7 @@
   "purged_count": 0,
   "websites_added_by_profession": {
     "programmer": 0,
-    "designer": 3,
+    "designer": 1,
     "writer": 0,
     "researcher": 0,
     "marketer": 0,
@@ -30,23 +30,13 @@
   },
   "new_websites": [
     {
-      "id": "w_tycho",
-      "name": "TinyClock",
-      "url": "http://tycho.sytes.net"
-    },
-    {
-      "id": "w_cssstudio",
-      "name": "CSS Studio. Design by hand, code by agent",
-      "url": "https://cssstudio.ai"
-    },
-    {
-      "id": "w_3dc",
-      "name": "3DC.io",
-      "url": "https://3dc.io"
+      "id": "w_blender_mcp_psi",
+      "name": "MCP server for Blender that builds 3D scenes via nat…",
+      "url": "https://blender-mcp-psi.vercel.app"
     }
   ],
-  "websites_initial": 120,
-  "websites_after_purge": 120,
-  "websites_added": 3,
-  "websites_after": 123
+  "websites_initial": 123,
+  "websites_after_purge": 123,
+  "websites_added": 1,
+  "websites_after": 124
 }

@@ -1956,6 +1956,23 @@
       "auto_added": true,
       "discovered_at": "2026-08-16",
       "source": "hacker_news"
+    },
+    {
+      "id": "w_blender_mcp_psi",
+      "name": "MCP server for Blender that builds 3D scenes via nat…",
+      "type": "website",
+      "category": [
+        "designer"
+      ],
+      "icon": "https://www.google.com/s2/favicons?sz=128&domain=blender-mcp-psi.vercel.app",
+      "desc": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
+      "rating": "4.5",
+      "users": "HN 151+",
+      "review": "",
+      "url": "https://blender-mcp-psi.vercel.app",
+      "auto_added": true,
+      "discovered_at": "2026-08-23",
+      "source": "hacker_news"
     }
   ],
   "apps": [
