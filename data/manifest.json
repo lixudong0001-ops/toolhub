@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.23.2215",
-  "updated_at": "2026-08-23T22:15:56.917992+00:00",
+  "version": "2026.08.31.0007",
+  "updated_at": "2026-08-31T00:07:10.887415+00:00",
   "counts": {
     "plugins": 66,
     "websites": 124,
@@ -8,7 +8,7 @@
     "total": 232
   },
   "last_run": {
-    "started_at": "2026-08-23T22:09:28.589939+00:00",
+    "started_at": "2026-08-30T23:59:52.323225+00:00",
     "mode": "full",
     "added_by_profession": {
       "programmer": 0,
@@ -29,7 +29,7 @@
     "purged_count": 0,
     "websites_added_by_profession": {
       "programmer": 0,
-      "designer": 1,
+      "designer": 0,
       "writer": 0,
       "researcher": 0,
       "marketer": 0,
@@ -37,16 +37,10 @@
       "entrepreneur": 0,
       "office": 0
     },
-    "new_websites": [
-      {
-        "id": "w_blender_mcp_psi",
-        "name": "MCP server for Blender that builds 3D scenes via nat…",
-        "url": "https://blender-mcp-psi.vercel.app"
-      }
-    ],
-    "websites_initial": 123,
-    "websites_after_purge": 123,
-    "websites_added": 1,
+    "new_websites": [],
+    "websites_initial": 124,
+    "websites_after_purge": 124,
+    "websites_added": 0,
     "websites_after": 124
   }
 }
