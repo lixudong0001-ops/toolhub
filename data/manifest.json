@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.31.0007",
-  "updated_at": "2026-08-31T00:07:10.887415+00:00",
+  "version": "2026.09.06.2325",
+  "updated_at": "2026-09-06T23:25:49.894567+00:00",
   "counts": {
     "plugins": 66,
     "websites": 124,
@@ -8,7 +8,7 @@
     "total": 232
   },
   "last_run": {
-    "started_at": "2026-08-30T23:59:52.323225+00:00",
+    "started_at": "2026-09-06T23:18:54.931680+00:00",
     "mode": "full",
     "added_by_profession": {
       "programmer": 0,
